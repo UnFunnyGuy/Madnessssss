@@ -1,1 +1,36 @@
 Xml placeholder
+<?xml version="1.0"?>
+<substratum>
+    <wallpaper id="01">
+        <link>https://github.com/llevo3/wallpapers/blob/master/1.jpg?raw=true</link>
+        <preview>https://github.com/llevo3/wallpapers/blob/master/1.jpg?raw=true</preview>
+    </wallpaper>
+    <wallpaper id="02">
+        <link>https://github.com/llevo3/wallpapers/blob/master/2.jpg?raw=true</link>
+        <preview>https://github.com/llevo3/wallpapers/blob/master/2.jpg?raw=true</preview>
+    </wallpaper>
+    <wallpaper id="03">
+        <link>https://github.com/llevo3/wallpapers/blob/master/3.jpg?raw=true</link>
+        <preview>https://github.com/llevo3/wallpapers/blob/master/3.jpg?raw=true</preview>
+    </wallpaper>
+    <wallpaper id="04">
+        <link>https://github.com/llevo3/wallpapers/blob/master/4.jpg?raw=true</link>
+        <preview>https://github.com/llevo3/wallpapers/blob/master/4.jpg?raw=true</preview>
+    </wallpaper>
+    <wallpaper id="05">
+        <link>https://github.com/llevo3/wallpapers/blob/master/5.jpg?raw=true</link>
+        <preview>https://github.com/llevo3/wallpapers/blob/master/5.jpg?raw=true</preview>
+    </wallpaper>
+    <wallpaper id="06">
+        <link>https://github.com/llevo3/wallpapers/blob/master/6.jpg?raw=true</link>
+        <preview>https://github.com/llevo3/wallpapers/blob/master/6.jpg?raw=true</preview>
+    </wallpaper>
+    <wallpaper id="07">
+        <link>https://github.com/llevo3/wallpapers/blob/master/7.jpg?raw=true</link>
+        <preview>https://github.com/llevo3/wallpapers/blob/master/7.jpg?raw=true</preview>
+    </wallpaper>
+    <wallpaper id="08">
+        <link>https://github.com/llevo3/wallpapers/blob/master/8.jpg?raw=true</link>
+        <preview>https://github.com/llevo3/wallpapers/blob/master/8.jpg?raw=true</preview>
+    </wallpaper>
+</substratum>
