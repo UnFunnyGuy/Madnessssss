@@ -1,9 +1,9 @@
-Xml placeholder
-<?xml version="1.0"?>
+
+< ?xml version="1.0"?>
 <substratum>
     <wallpaper id="01">
-        <link>https://github.com/llevo3/wallpapers/blob/master/1.jpg?raw=true</link>
-        <preview>https://github.com/llevo3/wallpapers/blob/master/1.jpg?raw=true</preview>
+        <link>https://github.com/UnFunnyGuy/Madnessssss/blob/master/Walls/WallX_166950_1080x1920.jpeg?raw=</link>
+        <preview>https://github.com/UnFunnyGuy/Madnessssss/blob/master/Walls/WallX_166950_1080x1920.jpeg</preview>
     </wallpaper>
     <wallpaper id="02">
         <link>https://github.com/UnFunnyGuy/Madnessssss/blob/master/Walls/WallX_166960_1080x1920.jpeg</link>
