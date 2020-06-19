@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<substratum>
+    <wallpaper id="Xperia 1 ||"><link>https://i.ibb.co/ZYH7drs/Sony-Xperia-1-ii44621010100.png</link>
+	    <preview>https://ibb.co/P9T0xyp</preview></wallpaper>
+    <wallpaper id="Valley"><link>https://i.ibb.co/jzdFfCN/david-talley-FWCj-J7-VNm-k-unsplash.jpg</link>
+        <preview>https://ibb.co/jzdFfCN</preview></wallpaper>
+    <wallpaper id="Forest"><link>https://i.ibb.co/cXPRP1v/Wall-41.jpg</link>
+        <preview>https://ibb.co/dJSXSrc</preview></wallpaper>
+</substratum>
