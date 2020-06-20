@@ -24,4 +24,20 @@
 <link>https://i.ibb.co/98q8zdP/Well-Pro-Walls.jpg</link>
         <preview>https://ibb.co/98q8zdP</preview>
 </wallpaper>
+
+<wallpaper id="Madness">
+<link>https://i.ibb.co/Xyqs1KX/tomas-williams-AUkp2-GMq-CK4-unsplash.jpg</link>
+        <preview>https://ibb.co/rbV6Yzk</preview>
+</wallpaper>
+
+<wallpaper id="Abstract planet">
+<link>https://i.ibb.co/hKyz4bT/Abstract-planet-2600.jpg</link>
+        <preview>https://ibb.co/hKyz4bT</preview>
+</wallpaper>
+
+<wallpaper id="Aesthetic Leaves">
+<link>https://i.ibb.co/4Y4zRTW/Aesthetic-Leaves-2049.jpg</link>
+        <preview>https://ibb.co/4Y4zRTW</preview>
+</wallpaper>
+
 </substratum>
