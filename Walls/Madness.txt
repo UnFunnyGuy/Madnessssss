@@ -20,4 +20,9 @@
         <preview>https://ibb.co/fMpQ2YJ</preview>
 </wallpaper>
 
+<wallpaper id="Leafs2">
+<link>https://i.ibb.co/98q8zdP/Well-Pro-Walls.jpg</link>
+        <preview>https://ibb.co/98q8zdP</preview>
+</wallpaper>
+
 </substratum>
