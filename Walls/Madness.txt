@@ -56,7 +56,7 @@
 </wallpaper>
 
 <wallpaper id="too op green">
-<link>https://i.ibb.co/5TcR8rz/photo-1524116458090-9521cd04f38d-ixlib-rb-1-2-1-amp-q-80-amp-fm-jpg-amp-crop-entropy-amp-cs-tinysrgb-amp-dl-malmanxx-i3-TDlw-BTVb-U-unsplash.jpg</link>
+<link>https://i.ibb.co/LSpZtxq/photo-1524116458090-9521cd04f38d-ixlib-rb-1-2-1-amp-q-80-amp-fm-jpg-amp-crop-entropy-amp-cs-tinysrgb-amp-dl-malmanxx-i3-TDlw-BTVb-U-unsplash.jpg</link>
         <preview>https://ibb.co/5TcR8rz</preview>
 </wallpaper>
 
