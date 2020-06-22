@@ -6,7 +6,7 @@
 </wallpaper>
 
     <wallpaper id="Valley">
-<link>https://i.ibb.co/jzdFfCN/david-talley-FWCj-J7-VNm-k-unsplash.jpg</link>
+<link>https://i.ibb.co/1M3xQCg/david-talley-FWCj-J7-VNm-k-unsplash.jpg</link>
         <preview>https://ibb.co/jzdFfCN</preview>
 </wallpaper>
 
