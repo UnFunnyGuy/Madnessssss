@@ -51,7 +51,7 @@
 </wallpaper>
 
 <wallpaper id="Ocean">
-<link>https://i.ibb.co/6g68pb2/photo-1540206395-68808572332f-ixlib-rb-1-2-1-q-80-fm-jpg-crop-entropy-cs-tinysrgb-dl-shifaaz-shamoon-o-R0u-ERTVy-D0-unsplash.jpg</link>
+<link>https://i.ibb.co/KFCDQ7Y/photo-1540206395-68808572332f-ixlib-rb-1-2-1-amp-q-80-amp-fm-jpg-amp-crop-entropy-amp-cs-tinysrgb-amp-dl-shifaaz-shamoon-o-R0u-ERTVy-D0-unsplash.jpg</link>
         <preview>https://ibb.co/6g68pb2</preview>
 </wallpaper>
 
