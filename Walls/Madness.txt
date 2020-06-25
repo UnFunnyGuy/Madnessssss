@@ -2,27 +2,27 @@
 <substratum>
     <wallpaper id="Xperia 1 ||">
 <link>https://i.ibb.co/ZYH7drs/Sony-Xperia-1-ii44621010100.png</link>
-	    <preview>https://ibb.co/P9T0xyp</preview>
+	    <preview>https://i.ibb.co/ZYH7drs/Sony-Xperia-1-ii44621010100.png</preview>
 </wallpaper>
 
     <wallpaper id="Valley">
-<link>https://i.ibb.co/1M3xQCg/david-talley-FWCj-J7-VNm-k-unsplash.jpg</link>
-        <preview>https://ibb.co/jzdFfCN</preview>
+<link>https://i.ibb.co/jzdFfCN/david-talley-FWCj-J7-VNm-k-unsplash.jpg</link>
+        <preview>https://i.ibb.co/1M3xQCg/david-talley-FWCj-J7-VNm-k-unsplash.jpg</preview>
 </wallpaper>
 
     <wallpaper id="Forest">
 <link>https://i.ibb.co/cXPRP1v/Wall-41.jpg</link>
-        <preview>https://ibb.co/dJSXSrc</preview>
+        <preview>https://i.ibb.co/cXPRP1v/Wall-41.jpg</preview>
 </wallpaper>
 
-<wallpaper id="Leafs">
-<link>https://i.ibb.co/fMpQ2YJ/IMG-MIX2-S-20200613-150524.jpg</link>
-        <preview>https://ibb.co/fMpQ2YJ</preview>
+<wallpaper id="Leaf">
+<link>https://i.ibb.co/G72F0vm/IMG-MIX2-S-20200613-150524.jpg</link>
+        <preview>https://i.ibb.co/G72F0vm/IMG-MIX2-S-20200613-150524.jpg</preview>
 </wallpaper>
 
-<wallpaper id="Leafs 2">
-<link>https://i.ibb.co/98q8zdP/Well-Pro-Walls.jpg</link>
-        <preview>https://ibb.co/98q8zdP</preview>
+<wallpaper id="Leafssss">
+<link>https://i.ibb.co/6n4nVqQ/Well-Pro-Walls.jpg</link>
+        <preview>https://i.ibb.co/6n4nVqQ/Well-Pro-Walls.jpg</preview>
 </wallpaper>
 
 <wallpaper id="Madness">
@@ -31,8 +31,8 @@
 </wallpaper>
 
 <wallpaper id="Abstract planet">
-<link>https://i.ibb.co/hKyz4bT/Abstract-planet-2600.jpg</link>
-        <preview>https://ibb.co/hKyz4bT</preview>
+<link>https://i.ibb.co/BgtMQbY/Abstract-planet-2600.jpg</link>
+        <preview>https://i.ibb.co/BgtMQbY/Abstract-planet-2600.jpg</preview>
 </wallpaper>
 
 <wallpaper id="Aesthetic Leaves">
@@ -51,19 +51,18 @@
 </wallpaper>
 
 <wallpaper id="Ocean">
-<link>https://i.ibb.co/KFCDQ7Y/photo-1540206395-68808572332f-ixlib-rb-1-2-1-amp-q-80-amp-fm-jpg-amp-crop-entropy-amp-cs-tinysrgb-amp-dl-shifaaz-shamoon-o-R0u-ERTVy-D0-unsplash.jpg</link>
+<link>https://i.ibb.co/6g68pb2/photo-1540206395-68808572332f-ixlib-rb-1-2-1-q-80-fm-jpg-crop-entropy-cs-tinysrgb-dl-shifaaz-shamoon-o-R0u-ERTVy-D0-unsplash.jpg</link>
         <preview>https://ibb.co/6g68pb2</preview>
 </wallpaper>
 
-
-<wallpaper id="Beach">
-<link>https://i.ibb.co/GPyt1rn/photo-1504681869696-d977211a5f4c-ixlib-rb-1-2-1-amp-q-80-amp-fm-jpg-amp-crop-entropy-amp-cs-tinysrgb-amp-dl-james-donaldson-to-PRrcy-AIUY-unsplash.jpg</link>
-     <preview>https://ibb.co/RHfBMJY</preview>
+<wallpaper id="too op green">
+<link>https://i.ibb.co/5TcR8rz/photo-1524116458090-9521cd04f38d-ixlib-rb-1-2-1-amp-q-80-amp-fm-jpg-amp-crop-entropy-amp-cs-tinysrgb-amp-dl-malmanxx-i3-TDlw-BTVb-U-unsplash.jpg</link>
+        <preview>https://ibb.co/5TcR8rz</preview>
 </wallpaper>
 
-<wallpaper id="TooOpGreen">
-<link>https://i.ibb.co/5TcR8rz/photo-1524116458090-9521cd04f38d-ixlib-rb-1-2-1-amp-q-80-amp-fm-jpg-amp-crop-entropy-amp-cs-tinysrgb-amp-dl-malmanxx-i3-TDlw-BTVb-U-unsplash.jpg</link>
-     <preview>https://ibb.co/5TcR8rz</preview>
+<wallpaper id="Beach">
+<link>https://i.ibb.co/RHfBMJY/photo-1504681869696-d977211a5f4c-ixlib-rb-1-2-1-amp-q-80-amp-fm-jpg-amp-crop-entropy-amp-cs-tinysrgb-amp-dl-james-donaldson-to-PRrcy-AIUY-unsplash.jpg</link>
+        <preview>https://ibb.co/RHfBMJY</preview>
 </wallpaper>
 
 </substratum>
