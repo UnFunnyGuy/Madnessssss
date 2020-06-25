@@ -15,14 +15,14 @@
         <preview>https://ibb.co/dJSXSrc</preview>
 </wallpaper>
 
-<wallpaper id="Leafs">
-<link>https://i.ibb.co/fMpQ2YJ/IMG-MIX2-S-20200613-150524.jpg</link>
-        <preview>https://ibb.co/fMpQ2YJ</preview>
+<wallpaper id="G1">
+<link>https://i.ibb.co/G72F0vm/IMG-MIX2-S-20200613-150524.jpg</link>
+        <preview>https://i.ibb.co/G72F0vm/IMG-MIX2-S-20200613-150524.jpg</preview>
 </wallpaper>
 
-<wallpaper id="Leafs 2">
-<link>https://i.ibb.co/98q8zdP/Well-Pro-Walls.jpg</link>
-        <preview>https://ibb.co/98q8zdP</preview>
+<wallpaper id="G2">
+<link>https://i.ibb.co/6n4nVqQ/Well-Pro-Walls.jpg</link>
+        <preview>https://i.ibb.co/6n4nVqQ/Well-Pro-Walls.jpg</preview>
 </wallpaper>
 
 <wallpaper id="Madness">
@@ -31,8 +31,8 @@
 </wallpaper>
 
 <wallpaper id="Abstract planet">
-<link>https://i.ibb.co/hKyz4bT/Abstract-planet-2600.jpg</link>
-        <preview>https://ibb.co/hKyz4bT</preview>
+<link>https://i.ibb.co/BgtMQbY/Abstract-planet-2600.jpg</link>
+        <preview>https://i.ibb.co/BgtMQbY/Abstract-planet-2600.jpg</preview>
 </wallpaper>
 
 <wallpaper id="Aesthetic Leaves">
@@ -62,8 +62,8 @@
 </wallpaper>
 
 <wallpaper id="TooOpGreen">
-<link>https://i.ibb.co/5TcR8rz/photo-1524116458090-9521cd04f38d-ixlib-rb-1-2-1-amp-q-80-amp-fm-jpg-amp-crop-entropy-amp-cs-tinysrgb-amp-dl-malmanxx-i3-TDlw-BTVb-U-unsplash.jpg</link>
-     <preview>https://ibb.co/5TcR8rz</preview>
+<link>https://i.ibb.co/LSpZtxq/photo-1524116458090-9521cd04f38d-ixlib-rb-1-2-1-amp-q-80-amp-fm-jpg-amp-crop-entropy-amp-cs-tinysrgb-amp-dl-malmanxx-i3-TDlw-BTVb-U-unsplash.jpg</link>
+     <preview>https://i.ibb.co/LSpZtxq/photo-1524116458090-9521cd04f38d-ixlib-rb-1-2-1-amp-q-80-amp-fm-jpg-amp-crop-entropy-amp-cs-tinysrgb-amp-dl-malmanxx-i3-TDlw-BTVb-U-unsplash.jpg</preview>
 </wallpaper>
 
 </substratum>
