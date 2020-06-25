@@ -66,4 +66,34 @@
      <preview>https://i.ibb.co/LSpZtxq/photo-1524116458090-9521cd04f38d-ixlib-rb-1-2-1-amp-q-80-amp-fm-jpg-amp-crop-entropy-amp-cs-tinysrgb-amp-dl-malmanxx-i3-TDlw-BTVb-U-unsplash.jpg</preview>
 </wallpaper>
 
+
+<wallpaper id="Dark Forest">
+<link>https://i.ibb.co/5K5DgkG/Forest-2118.jpg</link>
+     <preview>https://i.ibb.co/5K5DgkG/Forest-2118.jpg</preview>
+</wallpaper>
+
+<wallpaper id="Palm Leaves">
+<link>https://i.ibb.co/xqSM2LN/Palm-leaves-WALLPAPERS-n-WTNMJ3-Mqj-THn-RO4-R9-Ts.jpg</link>
+     <preview>https://i.ibb.co/xqSM2LN/Palm-leaves-WALLPAPERS-n-WTNMJ3-Mqj-THn-RO4-R9-Ts.jpg</preview>
+</wallpaper>
+
+<wallpaper id="Tiger">
+<link>https://i.ibb.co/ySm47c9/U1591791638-2.jpg</link>
+     <preview>https://i.ibb.co/ySm47c9/U1591791638-2.jpg</preview>
+</wallpaper>
+
+<wallpaper id="Aesthetic beach">
+<link>https://i.ibb.co/nnsM2f8/OPPO-Real-Me1507.jpg</link>
+     <preview>https://i.ibb.co/nnsM2f8/OPPO-Real-Me1507.jpg</preview>
+</wallpaper>
+
+<wallpaper id="Beach 2">
+<link>https://i.ibb.co/j4cyz8H/Natural-Texture01.jpg</link>
+     <preview>https://i.ibb.co/j4cyz8H/Natural-Texture01.jpg</preview>
+</wallpaper>
+
+<wallpaper id="Beach 3">
+<link>https://i.ibb.co/jZwytGK/uhdbirdseyeview151.jpg</link>
+     <preview>https://i.ibb.co/jZwytGK/uhdbirdseyeview151.jpg</preview>
+</wallpaper>
 </substratum>
