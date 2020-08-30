@@ -97,7 +97,10 @@
      <preview>https://i.ibb.co/jZwytGK/uhdbirdseyeview151.jpg</preview>
 </wallpaper>
 
-
+<wallpaper id="Elegan"> 
+<link>https://i.ibb.co/d6V5Kps/Wall-X-145008-1080x1920.jpg</link>      
+<preview>https://i.ibb.co/d6V5Kps/Wall-X-145008-1080x1920.jpg</preview> 
+</wallpaper>
 
 
 </substratum>
