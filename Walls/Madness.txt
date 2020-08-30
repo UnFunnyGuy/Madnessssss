@@ -98,9 +98,6 @@
 </wallpaper>
 
 
-<wallpaper id=തെങ്ങ്">
-<link>https://i.ibb.co/d6V5Kps/Wall-X-145008-1080x1920.jpg</link>
-     <preview>https://i.ibb.co/d6V5Kps/Wall-X-145008-1080x1920.jpg</preview>
-</wallpaper>
+
 
 </substratum>
