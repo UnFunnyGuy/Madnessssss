@@ -1,9 +1,45 @@
 [
 
-{ "author": "Unknown", "collections": "POPULAR", "name": "Minimal Leaf", "thumbnail": "https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-17-for-iPhone-X-768x1663.png", "url": "https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-17-for-iPhone-X.png" },
+        {
+                "author": "Unknown",
+                "collections": "AMOLED,POPULAR",
+                "name": "op",
+                "thumbnail": "https://wallpapercave.com/wp/wp2524738.jpg",
+                "url": "https://wallpapercave.com/download/iphone-x-hd-wallpapers-wp2524738"
+        },
+        {
+                "author": "Unknown",
+                "collections": "AMOLED,POPULAR",
+                "name": "Cosmic",
+                "thumbnail": "https://wallpapercave.com/wp/wp6006636.png",
+                "url": "https://wallpapercave.com/download/4k-amoled-iphone-wallpapers-wp6006636"
+        },
+        {
+                "author": "Unknown",
+                "collections": "AMOLED,POPULAR,SPACE,APPLE",
+                "name": "Planet",
+                "thumbnail": "https://wallpapercave.com/wp/wp7535910.jpg",
+                "url": "https://wallpapercave.com/download/amoled-iphone-xs-max-wallpapers-wp7535910"
+        },
+        {
+                "author": "Unknown",
+                "collections": "AMOLED,POPULAR,MOVIES",
+                "name": "Darth Vader",
+                "thumbnail": "https://wallpapercave.com/wp/wp5262232.jpg",
+                "url": "https://wallpapercave.com/download/amoled-iphone-wallpapers-wp5262232"
+        },
+        {
+                "author": "Unknown",
+                "collections": "AMOLED,ANIMAL",
+                "name": "Bear",
+                "thumbnail": "https://wallpapercave.com/w/wp1909379",
+                "url": "https://wallpapercave.com/download/amoled-wallpapers-wp1909379"
+        }, 
 
 
- { "author": "unknown", "collections": "POPULAR", "name": "Lotus", "thumbnail": "https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-32-for-iPhone-X-768x1663.jpeg", "url": "https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-32-for-iPhone-X.jpeg" }, 
+
+
+
 
 
  {
@@ -49,7 +85,6 @@
     "thumbnail": "https://images.unsplash.com/photo-1503435980610-a51f3ddfee50?ixlib\u003drb-1.2.1\u0026auto\u003dformat\u0026fit\u003dcrop\u0026w\u003d1100\u0026q\u003d60",
     "url": "https://images.unsplash.com/photo-1503435980610-a51f3ddfee50?ixlib\u003drb-1.2.1\u0026q\u003d80\u0026fm\u003djpg\u0026crop\u003dentropy\u0026cs\u003dtinysrgb\u0026dl\u003dfilip-zrnzevic-QsWG0kjPQRY-unsplash.jpg"
   },
-
   {
     "author": "Unsplash",
     "collections": "NATURE,UNSPLASH",
