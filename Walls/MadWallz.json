@@ -1,5 +1,25 @@
 [
-  
+  {
+         "author": "Unknown",
+                "collections": "APPLE,AMOLED,POPULAR",
+                "name": "Ios",
+                "thumbnail": "https://i.ibb.co/y6kWDLK/IOS-10762.jpg",
+                "url": "https://i.ibb.co/y6kWDLK/IOS-10762.jpg"
+        },
+        {
+                "author": "Unknown",
+                "collections": "POPULAR",
+                "name": "Android Q",
+                "thumbnail": "https://i.ibb.co/qChs2f0/Android-103253.png",
+                "url": "https://i.ibb.co/qChs2f0/Android-103253.png"
+        },
+        {
+                "author": "Unknown",
+                "collections": "ANIMALS,AMOLED",
+                "name": "Bear",
+                "thumbnail": "https://i.ibb.co/fntYKn3/wp1909379-amoled-wallpapers.jpg",
+                "url": "https://i.ibb.co/fntYKn3/wp1909379-amoled-wallpapers.jpg"
+        }, 
   
        {
                 "author": "Unknown",
