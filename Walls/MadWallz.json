@@ -1,5 +1,75 @@
 [
+         {
+
+"author": "Kaushik",
+
+                "collections": "NATURE,UNSPLASH",
+
+                "name": "Leaf Dreams",
+
+                "thumbnail": "https://images.unsplash.com/photo-1499950845431-c10acea1e82f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&q=80",
+
+                "url": "https://images.unsplash.com/photo-1499950845431-c10acea1e82f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=kaushik-panchal--rRC79anoPQ-unsplash.jpg"
+
+        },
+
         {
+
+                "author": "Leonard",
+
+                "collections": "NATURE,UNSPLASH",
+
+                "name": "its here",
+
+                "thumbnail": "https://images.unsplash.com/photo-1554990353-8f92413e6ca9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=60",
+
+                "url": "https://images.unsplash.com/photo-1554990353-8f92413e6ca9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=leonard-von-bibra-9q2Nz42jG-s-unsplash.jpg"
+
+        },
+
+        {
+
+                "author": "Alex",
+
+                "collections": "NATURE,UNSPLASH",
+
+                "name": "Take me Away",
+
+                "thumbnail": "https://images.unsplash.com/photo-1541933254460-1d1c8a14ae3c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=60",
+
+                "url": "https://images.unsplash.com/photo-1541933254460-1d1c8a14ae3c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=alex-green-OdEdGWr0EkM-unsplash.jpg"
+
+        },
+
+        {
+
+                "author": "Naail",
+
+                "collections": "SEA,UNSPLASH",
+
+                "name": "Sea",
+
+                "thumbnail": "https://images.unsplash.com/photo-1546656651-e564d05a4740?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMjU4fQ&auto=format&fit=crop&w=1100&q=60",
+
+                "url": "https://images.unsplash.com/photo-1546656651-e564d05a4740?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=naail-hussain-LV-FzX-l78c-unsplash.jpg"
+
+        },
+
+        {
+
+                "author": "Eberhard",
+
+                "collections": "UNSPLASH",
+
+                "name": "Sunshine",
+
+                "thumbnail": "https://images.unsplash.com/photo-1546514355-7fdc90ccbd03?ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=60",
+
+                "url": "https://images.unsplash.com/photo-1546514355-7fdc90ccbd03?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=eberhard-grossgasteiger-jCL98LGaeoE-unsplash.jpg"
+
+        }, 
+       
+       {
                 "author": "Unknown",
                 "collections": "NATURE,UNSPLASH",
                 "name": "Leafy",
@@ -136,7 +206,7 @@
                 "author": "Unknown",
                 "collections": "APPLE",
                 "name": "Ios14",
-                "thumbnail": "https://i.ibb.co/q9kYjtG/IOS-144503.jpg",
+                "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/280920/thumbs/IOS-144503_compress4.jpg",
                 "url": "https://i.ibb.co/5vBh4ND/IOS-144503.jpg"
         },
         {
@@ -157,7 +227,7 @@
                 "author": "Unknown",
                 "collections": "APPLE",
                 "name": "Xs",
-                "thumbnail": "https://i.ibb.co/ZXtKfyW/Apple-Iphone-XS1659.jpg",
+                "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/280920/thumbs/Apple-Iphone-XS1659_compress18.jpg",
                 "url": "https://i.ibb.co/pwGZ1CJ/Apple-Iphone-XS1659.jpg"
         },
         {
@@ -206,7 +276,7 @@
                 "author": "Unknown",
                 "collections": "APPLE",
                 "name": "ios14",
-                "thumbnail": "https://i.ibb.co/CPq42QT/IOS-14-Moded4537.jpg",
+                "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/280920/thumbs/IOS-14-Moded4537_compress5.jpg",
                 "url": "https://i.ibb.co/CPq42QT/IOS-14-Moded4537.jpg"
         },
         {
@@ -388,7 +458,7 @@
                 "author": "Linear Design",
                 "collections": "CUSTOM ROMS",
                 "name": "pa v2",
-                "thumbnail": "https://image.ibb.co/kVLL6Q/paranoid_v2.png",
+                "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/280920/thumbs/paranoid_v2_compress29.jpg",
                 "url": "https://image.ibb.co/kVLL6Q/paranoid_v2.png"
         },
         {
