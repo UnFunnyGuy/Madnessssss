@@ -1,13 +1,11 @@
 [
-  
-  {
-              "author": "Unknown",
+        {
+                "author": "Unknown",
                 "collections": "NATURE,UNSPLASH",
                 "name": "Leafy",
                 "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/280920/thumbs/UnSplash1_compress56.jpg",
                 "url": "https://github.com/UnFunnyGuy/Madnessssss/blob/master/Walls/Elegant/280920/walls/UnSplash1.png"
         },
-
         {
                 "author": "Unknown",
                 "collections": "NATURE,UNSPLASH",
@@ -28,7 +26,7 @@
                 "name": "Leafy 4",
                 "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/280920/thumbs/UnSplash3_compress89.jpg",
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/280920/walls/UnSplash3.png"
-        }, 
+        },
         {
                 "author": "Unknown",
                 "collections": "CITY",
@@ -99,9 +97,8 @@
                 "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/thumb/wp5115027-girl-anime-android-wallpapers_compress50.jpg",
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/Walls/wp5115027-girl-anime-android-wallpapers.jpg"
         },
-
-  {
-         "author": "Unknown",
+        {
+                "author": "Unknown",
                 "collections": "APPLE,AMOLED,POPULAR",
                 "name": "Ios",
                 "thumbnail": "https://i.ibb.co/y6kWDLK/IOS-10762.jpg",
@@ -120,9 +117,8 @@
                 "name": "Bear",
                 "thumbnail": "https://i.ibb.co/fntYKn3/wp1909379-amoled-wallpapers.jpg",
                 "url": "https://i.ibb.co/fntYKn3/wp1909379-amoled-wallpapers.jpg"
-        }, 
-  
-       {
+        },
+        {
                 "author": "Unknown",
                 "collections": "APPLE",
                 "name": "BigSur",
@@ -154,7 +150,7 @@
                 "author": "Unknown",
                 "collections": "APPLE",
                 "name": "Xs",
-                "thumbnail": "https://i.ibb.co/xfJWBdm/Apple-Iphone-XS1660.jpg",
+                "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/280920/thumbs/Apple-Iphone-XS1660_compress96.jpg",
                 "url": "https://i.ibb.co/z7GpBD8/Apple-Iphone-XS1660.jpg"
         },
         {
@@ -175,10 +171,9 @@
                 "author": "Unknown",
                 "collections": "APPLE",
                 "name": "Pro Display",
-                "thumbnail": "https://i.ibb.co/Y0bVhbj/Apple-Pro-Display4031.png",
+                "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/280920/thumbs/Apple-Pro-Display4031_compress64.jpg",
                 "url": "https://i.ibb.co/LNvs1vp/Apple-Pro-Display4031.png"
-        }, 
-        
+        },
         {
                 "author": "Unknown",
                 "collections": "ANIMALS",
@@ -197,7 +192,7 @@
                 "author": "Unknown",
                 "collections": "SPACE,APPLE,AMOLED",
                 "name": "XR",
-                "thumbnail": "https://i.ibb.co/BgtMQbY/Abstract-planet-2600.jpg",
+                "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/280920/thumbs/Abstract-planet-2600_compress83.jpg",
                 "url": "https://i.ibb.co/BgtMQbY/Abstract-planet-2600.jpg"
         },
         {
@@ -220,11 +215,7 @@
                 "name": "ipad",
                 "thumbnail": "https://i.ibb.co/8XJGhV1/Apple-Ipad-2020-Air4794.png",
                 "url": "https://i.ibb.co/8XJGhV1/Apple-Ipad-2020-Air4794.png"
-        }, 
-        
-        
-        
-
+        },
         {
                 "author": "Unknown",
                 "collections": "AMOLED,POPULAR",
@@ -253,27 +244,21 @@
                 "thumbnail": "https://wallpapercave.com/wp/wp5262232.jpg",
                 "url": "https://wallpapercave.com/download/amoled-iphone-wallpapers-wp5262232"
         },
-
-
-{
-            "author": "Unknown",
-            "collections": "POPULAR",
-            "name": "Minimal Leaf",
-            "thumbnail": "https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-17-for-iPhone-X-768x1663.png",
-            "url": "https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-17-for-iPhone-X.png"
-      },
-      {
-            "author": "unknown",
-            "collections": "POPULAR",
-            "name": "Lotus",
-            "thumbnail": "https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-32-for-iPhone-X-768x1663.jpeg",
-            "url": "https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-32-for-iPhone-X.jpeg"
-      }, 
-
-
-
-
- {
+        {
+                "author": "Unknown",
+                "collections": "POPULAR",
+                "name": "Minimal Leaf",
+                "thumbnail": "https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-17-for-iPhone-X-768x1663.png",
+                "url": "https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-17-for-iPhone-X.png"
+        },
+        {
+                "author": "unknown",
+                "collections": "POPULAR",
+                "name": "Lotus",
+                "thumbnail": "https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-32-for-iPhone-X-768x1663.jpeg",
+                "url": "https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-32-for-iPhone-X.jpeg"
+        },
+        {
                 "author": "Unknown",
                 "collections": "POPULAR",
                 "name": "Minimal Mountain",
@@ -307,146 +292,145 @@
                 "name": "ios",
                 "thumbnail": "https://wallpapercave.com/wp/wp3611698.jpg",
                 "url": "https://wallpapercave.com/download/iphone-x-4k-wallpapers-wp3611698"
-        }, 
-   
-  {
-    "author": "Unsplash",
-    "collections": "NATURE,UNSPLASH",
-    "name": "Forest",
-    "thumbnail": "https://images.unsplash.com/photo-1503435980610-a51f3ddfee50?ixlib\u003drb-1.2.1\u0026auto\u003dformat\u0026fit\u003dcrop\u0026w\u003d1100\u0026q\u003d60",
-    "url": "https://images.unsplash.com/photo-1503435980610-a51f3ddfee50?ixlib\u003drb-1.2.1\u0026q\u003d80\u0026fm\u003djpg\u0026crop\u003dentropy\u0026cs\u003dtinysrgb\u0026dl\u003dfilip-zrnzevic-QsWG0kjPQRY-unsplash.jpg"
-  },
-  {
-    "author": "Unsplash",
-    "collections": "NATURE,UNSPLASH",
-    "name": "Forest",
-    "thumbnail": "https://images.unsplash.com/photo-1599940824219-e6aa9be5fba2?ixlib\u003drb-1.2.1\u0026dpr\u003d2\u0026auto\u003dformat\u0026fit\u003dcrop\u0026w\u003d525\u0026q\u003d60",
-    "url": "https://images.unsplash.com/photo-1599940824219-e6aa9be5fba2?ixlib\u003drb-1.2.1\u0026q\u003d80\u0026fm\u003djpg\u0026crop\u003dentropy\u0026cs\u003dtinysrgb\u0026dl\u003dolena-sergienko-I3jSS2YfmcU-unsplash.jpg"
-  },
-  {
-    "author": "Unsplash",
-    "collections": "NATURE,UNSPLASH",
-    "name": "Leafy",
-    "thumbnail": "https://images.unsplash.com/photo-1535242208474-9a2793260ca8?ixlib\u003drb-1.2.1\u0026auto\u003dformat\u0026fit\u003dcrop\u0026w\u003d500\u0026q\u003d60",
-    "url": "https://images.unsplash.com/photo-1535242208474-9a2793260ca8?ixlib\u003drb-1.2.1\u0026q\u003d80\u0026fm\u003djpg\u0026crop\u003dentropy\u0026cs\u003dtinysrgb\u0026dl\u003dm-x9NfeD3FpsE-unsplash.jpg"
-  },
-  {
-    "author": "Unsplash",
-    "collections": "NATURE,UNSPLASH",
-    "name": "More Leaf",
-    "thumbnail": "https://images.unsplash.com/photo-1491147334573-44cbb4602074?ixlib\u003drb-1.2.1\u0026auto\u003dformat\u0026fit\u003dcrop\u0026w\u003d500\u0026q\u003d60",
-    "url": "https://images.unsplash.com/photo-1491147334573-44cbb4602074?ixlib\u003drb-1.2.1\u0026q\u003d80\u0026fm\u003djpg\u0026crop\u003dentropy\u0026cs\u003dtinysrgb\u0026dl\u003dren-ran-bBiuSdck8tU-unsplash.jpg"
-  },
-  {
-    "author": "Unsplash",
-    "collections": "NATURE,UNSPLASH",
-    "name": "Bridge",
-    "thumbnail": "https://images.unsplash.com/photo-1561795845-1c76443dbec3?ixlib\u003drb-1.2.1\u0026auto\u003dformat\u0026fit\u003dcrop\u0026w\u003d500\u0026q\u003d60",
-    "url": "https://images.unsplash.com/photo-1561795845-1c76443dbec3?ixlib\u003drb-1.2.1\u0026q\u003d80\u0026fm\u003djpg\u0026crop\u003dentropy\u0026cs\u003dtinysrgb\u0026dl\u003dantony-pang-Us2KDzmnUCo-unsplash.jpg"
-  },
-  {
-    "author": "Unsplash",
-    "collections": "NATURE",
-    "name": "Lone",
-    "thumbnail": "https://i.ibb.co/qjWH5fZ/david-talley-FWCj-J7-VNm-k-unsplash.jpg",
-    "url": "https://i.ibb.co/nmnXCvW/david-talley-FWCj-J7-VNm-k-unsplash.jpg"
-  },
-  {
-    "author": "UnFunny Guy",
-    "collections": "CUSTOM ROMS",
-    "name": "{aoscp}",
-    "thumbnail": "https://image.ibb.co/dHvxtF/Project_134_3.png",
-    "url": "https://image.ibb.co/dHvxtF/Project_134_3.png"
-  },
-  {
-    "author": "UnFunny Guy",
-    "collections": "CUSTOM ROMS",
-    "name": "DU.white",
-    "thumbnail": "https://image.ibb.co/jmcY0v/Project_135_13.png",
-    "url": "https://image.ibb.co/jmcY0v/Project_135_13.png"
-  },
-  {
-    "author": "UnFunny Guy",
-    "collections": "CUSTOM ROMS",
-    "name": "Aex extended",
-    "thumbnail": "https://image.ibb.co/gfjZWQ/Project_122_2.png",
-    "url": "https://image.ibb.co/gfjZWQ/Project_122_2.png"
-  },
-  {
-    "author": "UnFunny Guy",
-    "collections": "CUSTOM ROMS",
-    "name": "Aex extended red",
-    "thumbnail": "https://image.ibb.co/cSYnmQ/AEX_A1.png",
-    "url": "https://image.ibb.co/cSYnmQ/AEX_A1.png"
-  },
-  {
-    "author": "UnFunny Guy",
-    "collections": "CUSTOM ROMS",
-    "name": "Aex extended blue",
-    "thumbnail": "https://image.ibb.co/dtK4Y5/Project_122_3.png",
-    "url": "https://image.ibb.co/dtK4Y5/Project_122_3.png"
-  },
-  {
-    "author": "Linear Design",
-    "collections": "CUSTOM ROMS",
-    "name": "pixel",
-    "thumbnail": "https://image.ibb.co/gTu2Lk/pixel.png",
-    "url": "https://image.ibb.co/gTu2Lk/pixel.png"
-  },
-  {
-    "author": "Linear Design",
-    "collections": "CUSTOM ROMS",
-    "name": "pa",
-    "thumbnail": "https://image.ibb.co/nzv90k/paranoid_v1.png",
-    "url": "https://image.ibb.co/nzv90k/paranoid_v1.png"
-  },
-  {
-    "author": "Linear Design",
-    "collections": "CUSTOM ROMS",
-    "name": "pa v2",
-    "thumbnail": "https://image.ibb.co/kVLL6Q/paranoid_v2.png",
-    "url": "https://image.ibb.co/kVLL6Q/paranoid_v2.png"
-  },
-  {
-    "author": "Biplov",
-    "collections": "CUSTOM ROMS",
-    "name": "Dirty Thunder",
-    "thumbnail": "https://image.ibb.co/eMHqSv/IMG_20170705_102904.png",
-    "url": "https://image.ibb.co/eMHqSv/IMG_20170705_102904.png"
-  },
-  {
-    "author": "Biplov ^_^",
-    "collections": "CUSTOM ROMS",
-    "name": "Electric Fiber",
-    "thumbnail": "https://image.ibb.co/cEByOQ/IMG_20170626_184406.jpg",
-    "url": "https://image.ibb.co/cEByOQ/IMG_20170626_184406.jpg"
-  },
-  {
-    "author": "Unfunny Guy",
-    "collections": "CUSTOM ROMS",
-    "name": "BLISS #1",
-    "thumbnail": "https://image.ibb.co/gf0HHk/download8dcd025_2f0_2f_Infinite_20_Studio_2f_Design_2f_Export_2f_Project_20172_1.png",
-    "url": "https://image.ibb.co/gf0HHk/download8dcd025_2f0_2f_Infinite_20_Studio_2f_Design_2f_Export_2f_Project_20172_1.png"
-  },
-  {
-    "author": "Savio",
-    "collections": "CUSTOM ROMS",
-    "name": "Tesla neon",
-    "thumbnail": "https://image.ibb.co/m6Rf2k/Comp_1_00000_1.jpg",
-    "url": "https://image.ibb.co/m6Rf2k/Comp_1_00000_1.jpg"
-  },
-  {
-    "author": "Savio",
-    "collections": "CUSTOM ROMS",
-    "name": "Omni neon",
-    "thumbnail": "https://image.ibb.co/cOXNTQ/Comp_1_00000_2.jpg",
-    "url": "https://image.ibb.co/cOXNTQ/Comp_1_00000_2.jpg"
-  },
-  {
-    "author": "Savio",
-    "collections": "CUSTOM ROMS",
-    "name": "XOS dope3",
-    "thumbnail": "https://image.ibb.co/hOuj0v/3.jpg",
-    "url": "https://image.ibb.co/hOuj0v/3.jpg"
-  }
+        },
+        {
+                "author": "Unsplash",
+                "collections": "NATURE,UNSPLASH",
+                "name": "Forest",
+                "thumbnail": "https://images.unsplash.com/photo-1503435980610-a51f3ddfee50?ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=60",
+                "url": "https://images.unsplash.com/photo-1503435980610-a51f3ddfee50?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=filip-zrnzevic-QsWG0kjPQRY-unsplash.jpg"
+        },
+        {
+                "author": "Unsplash",
+                "collections": "NATURE,UNSPLASH",
+                "name": "Forest",
+                "thumbnail": "https://images.unsplash.com/photo-1599940824219-e6aa9be5fba2?ixlib=rb-1.2.1&dpr=2&auto=format&fit=crop&w=525&q=60",
+                "url": "https://images.unsplash.com/photo-1599940824219-e6aa9be5fba2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=olena-sergienko-I3jSS2YfmcU-unsplash.jpg"
+        },
+        {
+                "author": "Unsplash",
+                "collections": "NATURE,UNSPLASH",
+                "name": "Leafy",
+                "thumbnail": "https://images.unsplash.com/photo-1535242208474-9a2793260ca8?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "url": "https://images.unsplash.com/photo-1535242208474-9a2793260ca8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=m-x9NfeD3FpsE-unsplash.jpg"
+        },
+        {
+                "author": "Unsplash",
+                "collections": "NATURE,UNSPLASH",
+                "name": "More Leaf",
+                "thumbnail": "https://images.unsplash.com/photo-1491147334573-44cbb4602074?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "url": "https://images.unsplash.com/photo-1491147334573-44cbb4602074?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=ren-ran-bBiuSdck8tU-unsplash.jpg"
+        },
+        {
+                "author": "Unsplash",
+                "collections": "NATURE,UNSPLASH",
+                "name": "Bridge",
+                "thumbnail": "https://images.unsplash.com/photo-1561795845-1c76443dbec3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "url": "https://images.unsplash.com/photo-1561795845-1c76443dbec3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=antony-pang-Us2KDzmnUCo-unsplash.jpg"
+        },
+        {
+                "author": "Unsplash",
+                "collections": "NATURE",
+                "name": "Lone",
+                "thumbnail": "https://i.ibb.co/qjWH5fZ/david-talley-FWCj-J7-VNm-k-unsplash.jpg",
+                "url": "https://i.ibb.co/nmnXCvW/david-talley-FWCj-J7-VNm-k-unsplash.jpg"
+        },
+        {
+                "author": "UnFunny Guy",
+                "collections": "CUSTOM ROMS",
+                "name": "{aoscp}",
+                "thumbnail": "https://image.ibb.co/dHvxtF/Project_134_3.png",
+                "url": "https://image.ibb.co/dHvxtF/Project_134_3.png"
+        },
+        {
+                "author": "UnFunny Guy",
+                "collections": "CUSTOM ROMS",
+                "name": "DU.white",
+                "thumbnail": "https://image.ibb.co/jmcY0v/Project_135_13.png",
+                "url": "https://image.ibb.co/jmcY0v/Project_135_13.png"
+        },
+        {
+                "author": "UnFunny Guy",
+                "collections": "CUSTOM ROMS",
+                "name": "Aex extended",
+                "thumbnail": "https://image.ibb.co/gfjZWQ/Project_122_2.png",
+                "url": "https://image.ibb.co/gfjZWQ/Project_122_2.png"
+        },
+        {
+                "author": "UnFunny Guy",
+                "collections": "CUSTOM ROMS",
+                "name": "Aex extended red",
+                "thumbnail": "https://image.ibb.co/cSYnmQ/AEX_A1.png",
+                "url": "https://image.ibb.co/cSYnmQ/AEX_A1.png"
+        },
+        {
+                "author": "UnFunny Guy",
+                "collections": "CUSTOM ROMS",
+                "name": "Aex extended blue",
+                "thumbnail": "https://image.ibb.co/dtK4Y5/Project_122_3.png",
+                "url": "https://image.ibb.co/dtK4Y5/Project_122_3.png"
+        },
+        {
+                "author": "Linear Design",
+                "collections": "CUSTOM ROMS",
+                "name": "pixel",
+                "thumbnail": "https://image.ibb.co/gTu2Lk/pixel.png",
+                "url": "https://image.ibb.co/gTu2Lk/pixel.png"
+        },
+        {
+                "author": "Linear Design",
+                "collections": "CUSTOM ROMS",
+                "name": "pa",
+                "thumbnail": "https://image.ibb.co/nzv90k/paranoid_v1.png",
+                "url": "https://image.ibb.co/nzv90k/paranoid_v1.png"
+        },
+        {
+                "author": "Linear Design",
+                "collections": "CUSTOM ROMS",
+                "name": "pa v2",
+                "thumbnail": "https://image.ibb.co/kVLL6Q/paranoid_v2.png",
+                "url": "https://image.ibb.co/kVLL6Q/paranoid_v2.png"
+        },
+        {
+                "author": "Biplov",
+                "collections": "CUSTOM ROMS",
+                "name": "Dirty Thunder",
+                "thumbnail": "https://image.ibb.co/eMHqSv/IMG_20170705_102904.png",
+                "url": "https://image.ibb.co/eMHqSv/IMG_20170705_102904.png"
+        },
+        {
+                "author": "Biplov ^_^",
+                "collections": "CUSTOM ROMS",
+                "name": "Electric Fiber",
+                "thumbnail": "https://image.ibb.co/cEByOQ/IMG_20170626_184406.jpg",
+                "url": "https://image.ibb.co/cEByOQ/IMG_20170626_184406.jpg"
+        },
+        {
+                "author": "Unfunny Guy",
+                "collections": "CUSTOM ROMS",
+                "name": "BLISS #1",
+                "thumbnail": "https://image.ibb.co/gf0HHk/download8dcd025_2f0_2f_Infinite_20_Studio_2f_Design_2f_Export_2f_Project_20172_1.png",
+                "url": "https://image.ibb.co/gf0HHk/download8dcd025_2f0_2f_Infinite_20_Studio_2f_Design_2f_Export_2f_Project_20172_1.png"
+        },
+        {
+                "author": "Savio",
+                "collections": "CUSTOM ROMS",
+                "name": "Tesla neon",
+                "thumbnail": "https://image.ibb.co/m6Rf2k/Comp_1_00000_1.jpg",
+                "url": "https://image.ibb.co/m6Rf2k/Comp_1_00000_1.jpg"
+        },
+        {
+                "author": "Savio",
+                "collections": "CUSTOM ROMS",
+                "name": "Omni neon",
+                "thumbnail": "https://image.ibb.co/cOXNTQ/Comp_1_00000_2.jpg",
+                "url": "https://image.ibb.co/cOXNTQ/Comp_1_00000_2.jpg"
+        },
+        {
+                "author": "Savio",
+                "collections": "CUSTOM ROMS",
+                "name": "XOS dope3",
+                "thumbnail": "https://image.ibb.co/hOuj0v/3.jpg",
+                "url": "https://image.ibb.co/hOuj0v/3.jpg"
+        }
 ]
