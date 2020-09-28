@@ -15,7 +15,7 @@
         <preview>https://ibb.co/dJSXSrc</preview>
 </wallpaper>
 
-<wallpaper id="G1">
+<wallpaper id="G 1">
 <link>https://i.ibb.co/G72F0vm/IMG-MIX2-S-20200613-150524.jpg</link>
         <preview>https://i.ibb.co/G72F0vm/IMG-MIX2-S-20200613-150524.jpg</preview>
 </wallpaper>
