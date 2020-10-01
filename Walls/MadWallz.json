@@ -1,6 +1,6 @@
 [
-       {
-             "author": "unknown",
+      {
+              "author": "unknown",
                 "collections": "CITY",
                 "name": "Skyscrapers",
                 "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/011020/thumbs/Plane%20Over%20Skyscrapers_compress31.jpg",
@@ -34,10 +34,11 @@
                 "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/011020/thumbs/Wallpaper%201929_compress96.jpg",
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/011020/Walls/Wallpaper%201929.jpg"
         },
+        
         {
                 "author": "unknown",
                 "collections": "MOVIES",
-                "name": "Batman Minimal",
+                "name": "Batman Mnml",
                 "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/011020/thumbs/Batman_Minimal_compress9.jpg",
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/011020/Walls/Batman_Minimal.jpg"
         },
@@ -407,15 +408,15 @@
         },
         {
                 "author": "kywa",
-                "collections": "AMOLED,CITY",
-                "name": "Building",
+                "collections": "AMOLED",
+                "name": "Angel",
                 "thumbnail": "https://images.unsplash.com/photo-1538719501547-bc023056a8b6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1100&q=60",
                 "url": "https://images.unsplash.com/photo-1538719501547-bc023056a8b6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=kyaw-tun-tp5sz33nBcg-unsplash.jpg"
         },
         {
                 "author": "Samuel",
-                "collections": "AMOLED",
-                "name": "Angel",
+                "collections": "AMOLED,CITY",
+                "name": "Architecture",
                 "thumbnail": "https://images.unsplash.com/photo-1526289034009-0240ddb68ce3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjI5MzI0fQ&auto=format&fit=crop&w=1100&q=60",
                 "url": "https://images.unsplash.com/photo-1526289034009-0240ddb68ce3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=samuel-scalzo-xyuYk9oLA8I-unsplash.jpg"
         },
