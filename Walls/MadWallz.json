@@ -1,28 +1,6 @@
 [
       {
             "author": "unknown",
-            "collections": "NATURE",
-            "name": "Mountains",
-            "thumbnail": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-            "url": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?crop=entropy&cs=srgb&dl=pexels-eberhard-grossgasteiger-1624496.jpg&fit=crop&fm=jpg&h=4500&w=3000"
-      },
-      {
-            "author": "unknown",
-            "collections": "NATURE",
-            "name": "Mountains",
-            "thumbnail": "https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-            "url": "https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?crop=entropy&cs=srgb&dl=pexels-pixabay-36717.jpg&fit=crop&fm=jpg&h=1195&w=1920",
-            "downloadable": "false"
-      },
-      {
-            "author": "unknown",
-            "collections": "AUTOMOBILES",
-            "name": "Auto",
-            "thumbnail": "https://images.pexels.com/photos/1402787/pexels-photo-1402787.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-            "url": "https://images.pexels.com/photos/1402787/pexels-photo-1402787.jpeg?crop=entropy&cs=srgb&dl=pexels-vlad-alexandru-popa-1402787.jpg&fit=crop&fm=jpg&h=4000&w=6000"
-      },
-      {
-            "author": "unknown",
             "collections": "ABSTRACT",
             "name": "abstract 2",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/021020/thumbs/Abstract2_compress80.jpg",
