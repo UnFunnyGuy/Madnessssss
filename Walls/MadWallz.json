@@ -1,6 +1,48 @@
 [
       {
             "author": "unknown",
+            "collections": "NATURE",
+            "name": "Meizu",
+            "thumbnail": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/041020/thumbs/Meizu%20U20824_compress55.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/041020/walls/Meizu%20U20824.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "SEA",
+            "name": "Miui",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/041020/thumbs/Xiaomi%20MIUI%20124355_compress3.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/041020/walls/Xiaomi%20MIUI%20124355.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "S9",
+            "thumbnail": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/041020/thumbs/Samsung%20S9%20PLus1050_compress21.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/041020/walls/Samsung%20S9%20PLus1050.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "OP 7T",
+            "thumbnail": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/041020/thumbs/OnePlus%207T3463_compress27.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/041020/walls/OnePlus%207T3463.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "NATURE",
+            "name": "OOS",
+            "thumbnail": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/041020/thumbs/Oxygen%20OS387_compress63.jpg",
+            "url": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/041020/walls/Oxygen%20OS387.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "OP6",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/041020/thumbs/OnePlus%2061354_compress98.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/041020/walls/OnePlus%2061354.jpg"
+      },
+      {
+            "author": "unknown",
             "collections": "UNSPLASH,NATURE",
             "name": "Desert",
             "thumbnail": "https://images.unsplash.com/photo-1494344670326-077cb5f4d3e5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1100&q=60",
