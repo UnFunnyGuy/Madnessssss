@@ -1,5 +1,19 @@
 [
       {
+            "author": "Osman",
+            "collections": "AMOLED,ARCHITECTURE",
+            "name": "amoled architecture",
+            "thumbnail": "https://images.unsplash.com/photo-1486783046960-64d2ef697c46?ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=60",
+            "url": "https://images.unsplash.com/photo-1486783046960-64d2ef697c46?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=osman-rana-JcSsu-NF3qo-unsplash.jpg"
+      },
+      {
+            "author": "allec",
+            "collections": "AMOLED",
+            "name": "Amoled Leafs",
+            "thumbnail": "https://images.unsplash.com/photo-1598237601465-af66b7475e92?ixlib=rb-1.2.1&auto=format&fit=crop&w=975&q=80",
+            "url": "https://images.unsplash.com/photo-1598237601465-af66b7475e92?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=allec-gomes-fuooELn4jyA-unsplash.jpg"
+      },
+      {
             "author": "swapnil",
             "collections": "COMMUNITY",
             "name": "Dragonfly",
