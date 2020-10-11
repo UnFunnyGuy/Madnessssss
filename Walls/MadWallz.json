@@ -1,11 +1,25 @@
 [
       {
+            "author": "Simone",
+            "collections": "ARCHITECTURE",
+            "name": "Gradient bg Architecture",
+            "thumbnail": "https://images.unsplash.com/photo-1531903941236-b67dd2867cff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1100&q=60",
+            "url": "https://bit.ly/34HYfit"
+      },
+      {
+            "author": "Clu Soh",
+            "collections": "AMOLED",
+            "name": "Pb lights",
+            "thumbnail": "https://images.unsplash.com/photo-1602345397613-0934a8812d23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1231&q=80",
+            "url": "https://bit.ly/3lz0ECJ"
+      },
+      {
             "author": "Jake Bowden",
             "collections": "AUTOMOBILES",
             "name": "Impact Blue",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/061020/thumbs/Impact%20Blue%20Test%203.png",
             "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/061020/walls/Impact%20Blue%20By%20Jake%20Bowden.png",
-            "downloadable": "false",
+            "downloadable": "true",
             "copyright": "Copyrighted Content."
       },
       {
