@@ -1,6 +1,69 @@
 [
       {
             "author": "unknown",
+            "collections": "ARCHITECTURE,UNSPLASH",
+            "name": "Arch grd md2",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/151020/thumbs/lISGL8VWpPE_Raw_compress85.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/151020/walls/lISGL8VWpPE_Raw.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "ARCHITECTURE,UNSPLASH",
+            "name": "Arch grd md",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/151020/thumbs/lI06Ce8Tam0_Raw_compress80.jpg",
+            "url": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/151020/walls/lI06Ce8Tam0_Raw.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "ARCHITECTURE,UNSPLASH",
+            "name": "Arch hord",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/151020/thumbs/QTVrSOYXazc_Raw_compress16.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/151020/walls/QTVrSOYXazc_Raw.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "ARCHITECTURE,UNSPLASH",
+            "name": "grd",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/151020/thumbs/6RJuaVDuXmk_Raw_compress81.jpg",
+            "url": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/151020/walls/6RJuaVDuXmk_Raw.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "CITY,UNSPLASH",
+            "name": "Night",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/151020/thumbs/TYjU0fpFLNY_Raw_compress56.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/151020/walls/TYjU0fpFLNY_Raw.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "NATURE,UNSPLASH",
+            "name": "creamy 2",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/151020/thumbs/nLH-8Cpmzaw_Raw_compress59.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/151020/walls/nLH-8Cpmzaw_Raw.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Mountains",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/151020/thumbs/oxdr4njBsTA_Raw_compress81.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/151020/walls/oxdr4njBsTA_Raw.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Mountains",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/151020/thumbs/9erjfn6UsZg_Raw_compress84.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/151020/walls/9erjfn6UsZg_Raw.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Abstracts",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/151020/thumbs/5kvTWhB9eW0_Raw_compress81.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/151020/walls/5kvTWhB9eW0_Raw.jpg"
+      },
+      {
+            "author": "unknown",
             "collections": "ANIME",
             "name": "Shopping",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/091020/thumbs/z4VfyDJ_compress81.jpg",
@@ -46,7 +109,7 @@
             "collections": "MISC,AMOLED",
             "name": "SkyWheel",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/091020/thumbs/yX9FVI_compress13.jpg",
-            "url": "https://github.com/UnFunnyGuy/EWalls/blob/main/Ewalls/091020/thumbs/yX9FVI_compress13.jpg"
+            "url": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/091020/thumbs/yX9FVI_compress13.jpg"
       },
       {
             "author": "unknown",
@@ -263,7 +326,7 @@
             "collections": "AUTOMOBILES",
             "name": "car",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/081020/thumbs/mnLVitlDhjw_Raw_compress76.jpg",
-            "url": "https://github.com/UnFunnyGuy/EWalls/blob/main/Ewalls/081020/walls/mnLVitlDhjw_Raw.jpg"
+            "url": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/081020/walls/mnLVitlDhjw_Raw.jpg"
       },
       {
             "author": "unknown",
@@ -1658,7 +1721,7 @@
             "collections": "NATURE,UNSPLASH",
             "name": "Leafy",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master/Walls/Elegant/280920/thumbs/UnSplash1_compress56.jpg",
-            "url": "https://github.com/UnFunnyGuy/Madnessssss/blob/master/Walls/Elegant/280920/walls/UnSplash1.png"
+            "url": "https://github.com/UnFunnyGuy/Madnessssss/raw/master/Walls/Elegant/280920/walls/UnSplash1.png"
       },
       {
             "author": "Unknown",
