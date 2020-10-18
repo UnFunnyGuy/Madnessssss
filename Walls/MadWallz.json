@@ -1,6 +1,55 @@
 [
       {
             "author": "unknown",
+            "collections": "APPLE",
+            "name": "IPhone 12  wall7",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/191020/walls/iPhone%2012%20red%20wallpaper.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/191020/walls/iPhone%2012%20red%20wallpaper.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "APPLE",
+            "name": "IPhone 12  wall6",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/191020/walls/iphone%2012%20pro%20wallpaper%20big.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/191020/walls/iphone%2012%20pro%20wallpaper%20big.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "APPLE",
+            "name": "IPhone 12  wall5",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/191020/thumbs/iPhone%2012%20pro_compress63.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/191020/walls/iPhone%2012%20pro.png"
+      },
+      {
+            "author": "unknown",
+            "collections": "APPLE",
+            "name": "IPhone 12  wall4",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/191020/thumbs/iPhone%2012%20mini%20light%20wallpaper_compress80.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/191020/walls/iPhone%2012%20mini%20light%20wallpaper.PNG"
+      },
+      {
+            "author": "unknown",
+            "collections": "APPLE",
+            "name": "IPhone 12  wall3",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/191020/walls/iPhone%2012%20mini%20dark%20wallpaper.jpeg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/191020/walls/iPhone%2012%20mini%20dark%20wallpaper.jpeg"
+      },
+      {
+            "author": "unknown",
+            "collections": "APPLE",
+            "name": "IPhone 12  wall2",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/191020/walls/iPhone%2012%20light%20wallpaper.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/191020/walls/iPhone%2012%20light%20wallpaper.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "APPLE",
+            "name": "IPhone 12  wall1",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/191020/walls/iPhone%2012%20dark%20wallpaper.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/191020/walls/iPhone%2012%20dark%20wallpaper.jpg"
+      },
+      {
+            "author": "unknown",
             "collections": "ARCHITECTURE,UNSPLASH",
             "name": "Arch grd md2",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/151020/thumbs/lISGL8VWpPE_Raw_compress85.jpg",
