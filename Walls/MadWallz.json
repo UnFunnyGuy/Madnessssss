@@ -1,6 +1,34 @@
 [
       {
             "author": "unknown",
+            "collections": "MOVIES",
+            "name": "Breaking Bad- Walter",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/261020/thumbs/Walter_compress82.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/261020/Walls/Walter.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED,ANIMALS",
+            "name": "Bite Me Already",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/261020/Walls/IMG_2077_copy_1440x2560.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/261020/Walls/IMG_2077_copy_1440x2560.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "ANIME",
+            "name": "Kamen Rider",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/261020/thumbs/Anime_compress29.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/261020/Walls/Anime.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "ANIME",
+            "name": "Anime Nature",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/261020/thumbs/AnimeNature_compress26.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/261020/Walls/AnimeNature.png"
+      },
+      {
+            "author": "unknown",
             "collections": "AMOLED,MOVIES",
             "name": "Darthh",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/221020/thumbs/v8m4xmgf12u51_compress19.jpg",
