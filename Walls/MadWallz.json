@@ -1,6 +1,41 @@
 [
       {
             "author": "unknown",
+            "collections": "UNSPLASH,NATURE",
+            "name": "Palm Leave",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/091120/Thumbs/palm%20Leave_compress0.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/091120/Walls/palm%20Leave.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "UNSPLASH,SEA",
+            "name": "Lone island xd",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/091120/Thumbs/matheo-jbt-aHwo1mqo-C4_compress11.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/091120/Walls/matheo-jbt-aHwo1mqo-C4.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "UNSPLASH,SEA",
+            "name": "paddle",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/091120/Thumbs/matheo-jbt-NBsQ_qnVKAY_compress89.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/091120/Walls/matheo-jbt-NBsQ_qnVKAY.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "UNSPLASH,SEA",
+            "name": "mnml",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/091120/Thumbs/matheo-jbt-CUlgenQy2nI_compress15.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/091120/Walls/matheo-jbt-CUlgenQy2nI.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "UNSPLASH,ANIMALS",
+            "name": "Cute dog",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/091120/Thumbs/matheo-jbt-GX9YyXRq_f8_compress40.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/091120/Walls/matheo-jbt-GX9YyXRq_f8.jpg"
+      },
+      {
+            "author": "unknown",
             "collections": "NATURE",
             "name": "Abandoned",
             "thumbnail": "https://images.unsplash.com/photo-1570122696161-cb795b9a2425?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1100&q=60",
