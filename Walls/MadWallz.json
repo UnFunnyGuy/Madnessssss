@@ -1,6 +1,41 @@
 [
       {
             "author": "unknown",
+            "collections": "AMOLED",
+            "name": "Sunset",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/101120/thumbs/sunset_compress34.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/101120/walls/sunset.png"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED,ANIME",
+            "name": "Sasuke",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/101120/thumbs/sasuke_compress53.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/101120/walls/sasuke.png"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED,MOVIES",
+            "name": "Rise",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/101120/thumbs/rise_compress94.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/101120/walls/rise.jpeg"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED,MOVIES",
+            "name": "Recycle",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/101120/thumbs/recycle_compress46.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/101120/walls/recycle.jpeg"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED,MOVIES",
+            "name": "Black Panther",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/101120/thumbs/legend_compress60.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/101120/walls/legend.jpeg"
+      },
+      {
+            "author": "unknown",
             "collections": "UNSPLASH,NATURE",
             "name": "Palm Leave",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/091120/Thumbs/palm%20Leave_compress0.jpg",
