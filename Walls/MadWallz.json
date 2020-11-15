@@ -1,5 +1,54 @@
 [
       {
+            "author": "Sasha",
+            "collections": "ARCHITECTURE",
+            "name": "Gradient arch",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/151120/thumbs/sasha-yudaev-AHJ8-3-MaZo_compress50.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/151120/walls/sasha-yudaev-AHJ8-3-MaZo.jpg"
+      },
+      {
+            "author": "Davide",
+            "collections": "ARCHITECTURE,AMOLED",
+            "name": "Archi davi",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/151120/thumbs/hm1rxl2rbwy51_compress83.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/151120/walls/hm1rxl2rbwy51.jpeg"
+      },
+      {
+            "author": "Davide",
+            "collections": "ARCHITECTURE",
+            "name": "Archi davi",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/151120/thumbs/davide-colonna-_YpLcs8o_lo_compress70.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/151120/walls/davide-colonna-_YpLcs8o_lo.jpg"
+      },
+      {
+            "author": "Alexander",
+            "collections": "ARCHITECTURE",
+            "name": "Archi",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/151120/thumbs/alexander-abero-J1Za3TSnBEs_compress61.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/151120/walls/alexander-abero-J1Za3TSnBEs.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED",
+            "name": "FL",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/151120/thumbs/pldpptmbg3z51_compress93.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/151120/walls/pldpptmbg3z51.png"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED,CITY",
+            "name": "REDDISH",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/151120/thumbs/5ik6j5ijy0z51_compress50.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/151120/walls/5ik6j5ijy0z51.png"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED,MOVIES",
+            "name": "Mando",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/151120/thumbs/0x5izm4cd8z51_compress48.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/151120/walls/0x5izm4cd8z51.jpeg"
+      },
+      {
             "author": "Su San Lee",
             "collections": "ARCHITECTURE",
             "name": "Pattern",
