@@ -1,6 +1,69 @@
 [
       {
             "author": "unknown",
+            "collections": "ABSTRACT, AMOLED",
+            "name": "Red",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/201120/thumbs/39808f3dd897cc5e1ce7ff4088c03773_compress30.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/201120/walls/39808f3dd897cc5e1ce7ff4088c03773.png"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT, AMOLED",
+            "name": "Red",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/201120/thumbs/b1b4328b7cb6cc7696cc06d6f4482661_compress77.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/201120/walls/b1b4328b7cb6cc7696cc06d6f4482661.png"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED",
+            "name": "Night",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/201120/thumbs/1224d6e25325abc430fd85a39445ae0c_compress39.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/201120/walls/1224d6e25325abc430fd85a39445ae0c.png"
+      },
+      {
+            "author": "unknown",
+            "collections": "NATURE",
+            "name": "Pink tint",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/201120/thumbs/hybrid-gE1phX0Lbos_compress92.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/201120/walls/hybrid-gE1phX0Lbos.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "NATURE",
+            "name": "misc",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/201120/thumbs/jeremy-vessey-x00Y74m1Kxs_compress46.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/201120/walls/jeremy-vessey-x00Y74m1Kxs.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "NATURE",
+            "name": "Road",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/201120/thumbs/nigel-tadyanehondo-d30E78EkCIE_compress28.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/201120/walls/nigel-tadyanehondo-d30E78EkCIE.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "SEA",
+            "name": "Sea",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/201120/thumbs/szabolcs-toth-BE2T__AyThs_compress61.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/201120/walls/szabolcs-toth-BE2T__AyThs.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "APPLE",
+            "name": "Bigsur",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/201120/thumbs/764914d60695459c633194ac9c4b18a8_compress45.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/201120/walls/764914d60695459c633194ac9c4b18a8.png"
+      },
+      {
+            "author": "unknown",
+            "collections": "APPLE",
+            "name": "Bigsur",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/201120/thumbs/29b8b813e8602c7c7b287074a2ce700d_compress89.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/201120/walls/29b8b813e8602c7c7b287074a2ce700d.png"
+      },
+      {
+            "author": "unknown",
             "collections": "AUTOMOBILES",
             "name": "car",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/181120/thumbs/martin-katler-r_7Innuzja8_compress58.jpg",
