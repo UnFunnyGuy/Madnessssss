@@ -1,5 +1,61 @@
 [
       {
+            "author": "tobias",
+            "collections": "CITY,AMOLED",
+            "name": "subway",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/261120/thumbs/tobias-rademacher-Q8NdPpGaCEI_compress35.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/261120/walls/tobias-rademacher-Q8NdPpGaCEI.jpg"
+      },
+      {
+            "author": "Lorenzo",
+            "collections": "MISC",
+            "name": "shutter",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/261120/thumbs/lorenzo-hamers-B0aAhwifBhg_compress28.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/261120/walls/lorenzo-hamers-B0aAhwifBhg.jpg"
+      },
+      {
+            "author": "janis",
+            "collections": "ARCHITECTURE",
+            "name": "gradient",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/261120/thumbs/janis-fasel-ggNxvjLD1zY_compress53.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/261120/walls/janis-fasel-ggNxvjLD1zY.jpg"
+      },
+      {
+            "author": "sumit jaswal",
+            "collections": "NATURE",
+            "name": "leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/261120/thumbs/sumit-jaswal-dz5jlEa4RpM_compress64.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/261120/walls/sumit-jaswal-dz5jlEa4RpM.jpg"
+      },
+      {
+            "author": "mike",
+            "collections": "NATURE",
+            "name": "leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/261120/thumbs/mike-c.-s.-PgI6QR9_pIA_compress37.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/261120/walls/mike-c.-s.-PgI6QR9_pIA.jpg"
+      },
+      {
+            "author": "joes",
+            "collections": "NATURE",
+            "name": "leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/261120/thumbs/joes-valentine-NId0xh7fhqc_compress53.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/261120/walls/joes-valentine-NId0xh7fhqc.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "NATURE,MISC",
+            "name": "AirBaloon",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/261120/thumbs/california-dreamin'-k-ijIY6HIXE_compress96.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/261120/walls/california-dreamin'-k-ijIY6HIXE.jpg"
+      },
+      {
+            "author": "Flavio",
+            "collections": "ANIMALS",
+            "name": "Dolphins",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/261120/thumbs/flavio-gasperini-tCyr7tR7udc_compress85.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/261120/walls/flavio-gasperini-tCyr7tR7udc.jpg"
+      },
+      {
             "author": "Thomas",
             "collections": "ANIMALS",
             "name": "pac",
