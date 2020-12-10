@@ -1,6 +1,76 @@
 [
       {
             "author": "unknown",
+            "collections": "NATURE,AMOLED",
+            "name": "Mountains",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Thumbs/UoShEoj_compress10.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Walls/UoShEoj.jpeg"
+      },
+      {
+            "author": "unknown",
+            "collections": "MISC",
+            "name": "Rocks",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Thumbs/t6328kijh7361_compress64.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Walls/t6328kijh7361.jpeg"
+      },
+      {
+            "author": "unknown",
+            "collections": "NATURE",
+            "name": "Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Thumbs/Jd27CvN_compress43.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Walls/Jd27CvN.jpeg"
+      },
+      {
+            "author": "unknown",
+            "collections": "CITY,AMOLED",
+            "name": "Street",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Thumbs/qgg3mg983f261_compress85.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Walls/qgg3mg983f261.jpeg"
+      },
+      {
+            "author": "unknown",
+            "collections": "CITY,AMOLED",
+            "name": "Street",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Thumbs/FvXis4_compress31.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Walls/FvXis4.png"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED,MOVIES",
+            "name": "starship",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Walls/uyrv0zd0fy361.jpeg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Walls/uyrv0zd0fy361.jpeg"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED,MOVIES",
+            "name": "jedi",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Thumbs/pe2mykgnlt261_compress80.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Walls/pe2mykgnlt261.png"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED,ANIME",
+            "name": "kakashi",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Thumbs/897465re8y361_compress74.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Walls/897465re8y361.jpeg"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED,GAMES",
+            "name": "LAST OF US",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Thumbs/muwkv59z16461_compress95.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Walls/muwkv59z16461.png"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED,GAMES",
+            "name": "Doom",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Thumbs/0085zu99gx361_compress21.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/101220/Walls/0085zu99gx361.png"
+      },
+      {
+            "author": "unknown",
             "collections": "ARCHITECTURE,AMOLED",
             "name": "Night",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/privacy-policy/master/Ewallz/081220/thumbs/%E5%8A%9B%E5%8A%9B%E6%91%84%E5%BD%B1%E6%97%A5%E8%AE%B0-QD8t0Bm2P4k_compress39.jpg",
