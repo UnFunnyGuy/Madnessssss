@@ -1,5 +1,75 @@
 [
       {
+            "author": "r/biggary1972",
+            "collections": "AMOLED,MISC",
+            "name": "Capsule",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/thumbs/biggary1972caps_compress38.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/walls/biggary1972caps.png"
+      },
+      {
+            "author": "r/biggary1972",
+            "collections": "AMOLED,ANIME",
+            "name": "Rick",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/thumbs/biggary1972_compress58.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/walls/biggary1972.png"
+      },
+      {
+            "author": "r/_scarecrow_",
+            "collections": "AMOLED,MOVIES",
+            "name": "Spidy",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/thumbs/_scarecrow_spidey-2_compress87.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/walls/_scarecrow_spidey-2.png"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED,MOVIES",
+            "name": "Iron man",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/thumbs/a%20(1)_compress18.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/walls/a%20(1).png"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED,CITY",
+            "name": "Sub",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/thumbs/a%20(3)_compress78.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/walls/a%20(3).jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED,MISC",
+            "name": "Neon Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/thumbs/a_compress72.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/walls/a.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED",
+            "name": "Rect",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/walls/a.png",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/walls/a.png"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED",
+            "name": "Rect",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/thumbs/a%20(4)_compress84.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/walls/a%20(4).png"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED",
+            "name": "Rect",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/thumbs/a%20(2)_compress71.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/walls/a%20(2).png"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED",
+            "name": "Rect",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/thumbs/a%20(5)_compress27.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/151220/walls/a%20(5).png"
+      },
+      {
             "author": "Paulo silva",
             "collections": "CITY",
             "name": "Night",
@@ -1569,7 +1639,7 @@
       },
       {
             "author": "unknown",
-            "collections": "MISC,AMOLED",
+            "collections": "MISC,AMOLED,POPULAR",
             "name": "Store",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/091020/thumbs/uda5axhyu0l41_compress70.jpg",
             "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/091020/walls/uda5axhyu0l41.png"
