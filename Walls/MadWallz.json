@@ -1,5 +1,103 @@
 [
       {
+            "author": "unknown",
+            "collections": "NATURE",
+            "name": "leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/thumbs/tgx%20(7)_compress62.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/walls/tgx%20(7).jpeg"
+      },
+      {
+            "author": "unknown",
+            "collections": "AUTOMOBILES",
+            "name": "bike",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/thumbs/tgx%20(5)_compress38.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/walls/tgx%20(5).jpeg"
+      },
+      {
+            "author": "unknown",
+            "collections": "GAMES,AUTOMOBILES",
+            "name": "cyberpunk",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/thumbs/tgx%20(4)_compress35.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/walls/tgx%20(4).png"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "abstract 59",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/thumbs/tgx_compress47.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/walls/tgx.png"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "abstract 58",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/thumbs/tgx_compress9.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/walls/tgx.jpeg"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "abstract 57",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/walls/tgx%20(8).jpeg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/walls/tgx%20(8).jpeg"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "abstract 56",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/walls/tgx%20(3).jpeg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/walls/tgx%20(3).jpeg"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "abstract 56",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/walls/tgx%20(2).jpeg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/walls/tgx%20(2).jpeg"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "abstract 56",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/thumbs/tgx%20(1)_compress90.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/walls/tgx%20(1).png"
+      },
+      {
+            "author": "Ryan Graybill",
+            "collections": "NATURE,UNSPLASH",
+            "name": "More leafsss",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/thumbs/ryan-graybill-Dr6dTyrNIIs_compress11.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/walls/ryan-graybill-Dr6dTyrNIIs.jpg"
+      },
+      {
+            "author": "Jan Antonin",
+            "collections": "NATURE,UNSPLASH",
+            "name": "More leafsss",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/thumbs/jan-antonin-kolar-VuwQZSLlzCA_compress2.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/walls/jan-antonin-kolar-VuwQZSLlzCA.jpg"
+      },
+      {
+            "author": "Eric knoll",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Leafy",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/thumbs/eric-knoll-qeZ10cks-Ho_compress25.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/walls/eric-knoll-qeZ10cks-Ho.jpg"
+      },
+      {
+            "author": "Eric knoll",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Leafy",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/thumbs/eric-knoll-Z1GutcSMloc_compress50.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/walls/eric-knoll-Z1GutcSMloc.jpg"
+      },
+      {
+            "author": "ChutterSnap",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Forest",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/thumbs/chuttersnap-9G1kXjqOq4U_compress49.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/241220/walls/chuttersnap-9G1kXjqOq4U.jpg"
+      },
+      {
             "author": "Zil",
             "collections": "NATURE,UNSPLASH",
             "name": "Drone",
