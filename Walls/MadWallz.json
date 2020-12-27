@@ -1,5 +1,33 @@
 [
       {
+            "author": "Oliver Oos",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Forest",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/261220/thumbs/oliver-roos-I198GyiM2yY_compress47.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/261220/walls/oliver-roos-I198GyiM2yY.jpg"
+      },
+      {
+            "author": "Joao Ferriera",
+            "collections": "SEA,UNSPLASH",
+            "name": "Sea",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/261220/thumbs/jo%C3%A3o-ferreira-eNnmIHhvefk_compress2.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/261220/walls/jo%C3%A3o-ferreira-eNnmIHhvefk.jpg"
+      },
+      {
+            "author": "Joao Ferriera",
+            "collections": "SEA,UNSPLASH",
+            "name": "Beach",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/261220/thumbs/jo%C3%A3o-ferreira-dXqiWN_UrXA_compress11.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/261220/walls/jo%C3%A3o-ferreira-dXqiWN_UrXA.jpg"
+      },
+      {
+            "author": "Joao Ferriera",
+            "collections": "SEA,UNSPLASH",
+            "name": "Beach",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/261220/thumbs/jo%C3%A3o-ferreira-2cUnx3MzlYM_compress90.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/261220/walls/jo%C3%A3o-ferreira-2cUnx3MzlYM.jpg"
+      },
+      {
             "author": "Benjamin Behre",
             "collections": "SEA,UNSPLASH",
             "name": "Cold",
