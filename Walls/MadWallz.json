@@ -1,5 +1,40 @@
 [
       {
+            "author": "Mulyadi",
+            "collections": "AMOLED",
+            "name": "Fog",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/010121/thumbs/mulyadi-BnRS-iC4HhU_compress14.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/010121/walls/mulyadi-BnRS-iC4HhU.jpg"
+      },
+      {
+            "author": "Julius Drost",
+            "collections": "NATURE,UNSPLASH",
+            "name": "More leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/010121/thumbs/julius-drost-thlKwhwTABQ_compress1.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/010121/walls/julius-drost-thlKwhwTABQ.jpg"
+      },
+      {
+            "author": "Daniel Sebler",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Mountains grey",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/010121/thumbs/daniel-se%C3%9Fler-iwpcs1BnGgY_compress31.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/010121/walls/daniel-se%C3%9Fler-iwpcs1BnGgY.jpg"
+      },
+      {
+            "author": "Sincerely Media",
+            "collections": "MISC",
+            "name": "Love",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/010121/thumbs/sincerely-media-jXEZrPeSFsE_compress63.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/010121/walls/sincerely-media-jXEZrPeSFsE.jpg"
+      },
+      {
+            "author": "Max van den",
+            "collections": "CITY,UNSPLASH",
+            "name": "Simple",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/010121/thumbs/max-van-den-oetelaar-fAwJ11BdGWg_compress69.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls/main/DATA%20BASE/010121/walls/max-van-den-oetelaar-fAwJ11BdGWg.jpg"
+      },
+      {
             "author": "unknown",
             "collections": "CITY",
             "name": "Night",
