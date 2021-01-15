@@ -1,5 +1,54 @@
 [
       {
+            "author": "Jessica Arends",
+            "collections": "MISC,NATURE,UNSPLASH,SEA",
+            "name": "Lone",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/150121/thumbs/jessica-arends-EWibDGoldHs_compress22.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/150121/walls/jessica-arends-EWibDGoldHs.jpg"
+      },
+      {
+            "author": "Ave Calvar",
+            "collections": "MISC,NATURE,UNSPLASH,SEA",
+            "name": "Sea",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/150121/thumbs/ave-calvar-IqNrbjNBx0M_compress63.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/150121/walls/ave-calvar-IqNrbjNBx0M.jpg"
+      },
+      {
+            "author": "EberHard",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Mountain",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/150121/thumbs/eberhard-grossgasteiger-2or2Ksxoc9I_compress39.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/150121/walls/eberhard-grossgasteiger-2or2Ksxoc9I.jpg"
+      },
+      {
+            "author": "Marek Piwnicki",
+            "collections": "NATURE,UNSPLASH",
+            "name": "White",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/150121/thumbs/marek-piwnicki-L1ipLM1Iuwk_compress74.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/150121/walls/marek-piwnicki-L1ipLM1Iuwk.jpg"
+      },
+      {
+            "author": "Daniel Sebler",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Green",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/150121/thumbs/daniel-se%C3%9Fler-MjovRKTi9EE_compress71.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/150121/walls/daniel-se%C3%9Fler-MjovRKTi9EE.jpg"
+      },
+      {
+            "author": "Brad Fickeisen",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Green",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/150121/thumbs/brad-fickeisen-IYFUF-lYG00_compress25.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/150121/walls/brad-fickeisen-IYFUF-lYG00.jpg"
+      },
+      {
+            "author": "Alessio Lin",
+            "collections": "MISC,NATURE,UNSPLASH",
+            "name": "Mdft",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/150121/thumbs/alessio-lin-nwxK2Znr-is_compress42.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/150121/walls/alessio-lin-nwxK2Znr-is.jpg"
+      },
+      {
             "author": "Marek Piwnicki",
             "collections": "SEA,NATURE,UNSPLASH",
             "name": "Sunset",
