@@ -1,5 +1,40 @@
 [
       {
+            "author": "Tom Ohlin",
+            "collections": "NATURE",
+            "name": "Forest",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/220121/thumbs/tom-%C3%B6hlin-p7ri-9fOAC8_compress1.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/220121/walls/tom-%C3%B6hlin-p7ri-9fOAC8.jpg"
+      },
+      {
+            "author": "Laura Adai",
+            "collections": "NATURE",
+            "name": "Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/220121/thumbs/laura-adai-moTn_0Wdqc0_compress4.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/220121/walls/laura-adai-moTn_0Wdqc0.jpg"
+      },
+      {
+            "author": "Laura Adai",
+            "collections": "NATURE",
+            "name": "Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/220121/thumbs/laura-adai-djE40c2lMW8_compress69.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/220121/walls/laura-adai-djE40c2lMW8.jpg"
+      },
+      {
+            "author": "Annie Spratt",
+            "collections": "SEA",
+            "name": "ICE",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/220121/thumbs/annie-spratt-Tno1Zd3T6yY_compress74.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/220121/walls/annie-spratt-Tno1Zd3T6yY.jpg"
+      },
+      {
+            "author": "Simone Hutsh",
+            "collections": "ARCHITECTURE",
+            "name": "Barcc",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/220121/thumbs/simone-hutsch-8SBH0dIQ4LU_compress72.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/220121/walls/simone-hutsch-8SBH0dIQ4LU.jpg"
+      },
+      {
             "author": "Joel Filipe",
             "collections": "ARCHITECTURE",
             "name": "Arcv",
