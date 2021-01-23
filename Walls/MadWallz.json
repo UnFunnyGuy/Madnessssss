@@ -1,5 +1,47 @@
 [
       {
+            "author": "Chuggersnap",
+            "collections": "ANIMALS,UNSPLASH",
+            "name": "Parrot",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/230121/thumbs/chuttersnap-rtGvO8Z6JZI_compress37.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/230121/walls/chuttersnap-rtGvO8Z6JZI.jpg"
+      },
+      {
+            "author": "Chuggersnap",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/230121/thumbs/chuttersnap-u-vmeJcJ-Z4_compress6.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/230121/thumbs/chuttersnap-u-vmeJcJ-Z4_compress6.jpg"
+      },
+      {
+            "author": "Chuggersnap",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/230121/thumbs/chuttersnap-Gtk6h9kWzWs_compress76.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/230121/walls/chuttersnap-Gtk6h9kWzWs.jpg"
+      },
+      {
+            "author": "Chuggersnap",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/230121/thumbs/chuttersnap-EVuJqfQGqdU_compress22.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/230121/walls/chuttersnap-EVuJqfQGqdU.jpg"
+      },
+      {
+            "author": "Alexander Bormotin",
+            "collections": "SEA,UNSPLASH",
+            "name": "Sea view",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/230121/thumbs/alexandr-bormotin-BjxmsxoUymk_compress69.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/230121/walls/alexandr-bormotin-BjxmsxoUymk.jpg"
+      },
+      {
+            "author": "Unknown",
+            "collections": "AMOLED",
+            "name": "Carrot",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/230121/thumbs/66uh2cybqnc61.jpg_compress50.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/230121/walls/66uh2cybqnc61.jpg.png"
+      },
+      {
             "author": "Tom Ohlin",
             "collections": "NATURE",
             "name": "Forest",
