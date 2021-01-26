@@ -1,6 +1,48 @@
 [
       {
             "author": "unknown",
+            "collections": "MISC",
+            "name": "art",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/260121/thumbs/WallStudios_compress49.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/260121/walls/WallStudios.png"
+      },
+      {
+            "author": "Sayeed",
+            "collections": "COMMUNITY",
+            "name": "Nature",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/260121/thumbs/IMG_20181103_174921_compress0.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/260121/walls/IMG_20181103_174921.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "ANIME",
+            "name": "Escanor",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/260121/thumbs/%5BKORIGENGI-Shibuya%5D%20Escanor-01_compress41.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/260121/walls/%5BKORIGENGI-Shibuya%5D%20Escanor-01.jpeg"
+      },
+      {
+            "author": "unknown",
+            "collections": "ANIME",
+            "name": "z",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/260121/thumbs/20210124_132832_compress53.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/260121/walls/20210124_132832.jpg"
+      },
+      {
+            "author": "unknown",
+            "collections": "ANIME,AMOLED",
+            "name": "misc",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/260121/thumbs/WallStudios3_compress76.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/260121/walls/WallStudios3.png"
+      },
+      {
+            "author": "unknown",
+            "collections": "ANIME,AMOLED",
+            "name": "OP",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/260121/thumbs/One%20punch%20man_compress40.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/260121/walls/One%20punch%20man.jpeg"
+      },
+      {
+            "author": "unknown",
             "collections": "ANIME,AMOLED",
             "name": "Girl",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/230121/thumbs/ux348sszezc61.jpg_compress82.jpg",
