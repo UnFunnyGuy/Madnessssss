@@ -1,5 +1,47 @@
 [
       {
+            "author": "Media",
+            "collections": "CITY",
+            "name": "Night out",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/060221/thumbs/pexels-media-2739277_compress5.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/060221/walls/pexels-media-2739277.jpeg"
+      },
+      {
+            "author": "John Lee",
+            "collections": "ARCHITECTURE",
+            "name": "arc",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/060221/thumbs/pexels-john-lee-6100565_compress78.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/060221/walls/pexels-john-lee-6100565.jpg"
+      },
+      {
+            "author": "r/Amoledbackgrounds",
+            "collections": "ANIME,AMOLED",
+            "name": "Gg",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/060221/walls/fimbcgztmue61.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/060221/walls/fimbcgztmue61.jpg"
+      },
+      {
+            "author": "r/Amoledbackgrounds",
+            "collections": "ABSTRACT",
+            "name": "Abstract",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/060221/thumbs/7codc8cdxmf61.jpg_compress92.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/060221/walls/7codc8cdxmf61.jpg.png"
+      },
+      {
+            "author": "Media",
+            "collections": "MISC,NATURE",
+            "name": "Leaf girl",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/060221/thumbs/pexels-media-4596636_compress73.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/060221/walls/pexels-media-4596636.jpeg"
+      },
+      {
+            "author": "Isabela",
+            "collections": "MISC,NATURE",
+            "name": "Leaf girl",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/060221/thumbs/pexels-isabela-cat%C3%A3o-6706036_compress97.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/060221/walls/pexels-isabela-cat%C3%A3o-6706036.jpg"
+      },
+      {
             "author": "Levan Badzgaradze",
             "collections": "NATURE,UNSPLASH",
             "name": "Horizon",
@@ -5695,14 +5737,14 @@
       {
             "author": "Unknown",
             "collections": "ANIME",
-            "name": "Anime girl 8",
+            "name": "Nezuko",
             "thumbnail": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/051020/thumbs/Anime%20girl_1890(1)_compress56.jpg",
             "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/051020/walls/Anime%20girl_1890(1).png"
       },
       {
             "author": "Unknown",
             "collections": "ANIME",
-            "name": "Anime girl 10",
+            "name": "Tanjiro",
             "thumbnail": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/051020/thumbs/Demon%20Slayer_5402_compress45.jpg",
             "url": "https://raw.githubusercontent.com/UnFunnyGuy/EWalls/main/Ewalls/051020/walls/Demon%20Slayer_5402.png"
       },
