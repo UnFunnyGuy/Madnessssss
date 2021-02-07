@@ -1,7 +1,7 @@
 {
             "Appversion": "4.0.5",
             "Lastforceupdate": "3.0",
-            "Changelogs": "Whole New UI \nRedone Everything From Scratch",
+            "Changelogs": "Whole New UI \nRedone Everything From Scratch\n\nBugs*\nPreserving scroll location will be fixed on next update",
             "Priority": "1"
            
       }
