@@ -1,7 +1,7 @@
 {
-            "Appversion": "4.0.5",
+            "Appversion": "4.0.8",
             "Lastforceupdate": "3.0",
-            "Changelogs": "Whole New UI \nRedone Everything From Scratch\n\nBugs*\nPreserving scroll location will be fixed on next update\n\nMore Wallpapers will be uploaded soon as we fix the current bugs",
+            "Changelogs": "Scrolling Issue Fixed",
             "Priority": "1"
            
       }
