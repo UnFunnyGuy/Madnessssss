@@ -1,7 +1,7 @@
 {
             "Appversion": "4.0.8",
             "Lastforceupdate": "3.0",
-            "Changelogs": "Scrolling Issue Fixed",
+            "Changelogs": "Scrolling Issue Fixed\n\nBugs\n Downloaded wallpapers can't be viewed on some gallery apps. This will be fixed on next update. you can find downloaded wallpapers pictures/ElegantWalls",
             "Priority": "1"
            
       }
