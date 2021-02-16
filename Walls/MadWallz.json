@@ -1,5 +1,50 @@
 [
       {
+            "author": "Pawel nolbert",
+            "collections": "SEA",
+            "name": "Grad",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/160221/thumbs/pawel-nolbert-xe-ss5Tg2mo_compress80.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/160221/walls/pawel-nolbert-xe-ss5Tg2mo.jpg",
+            "resolution": "2400 x 3600",
+            "dominantColor": "#d3d6df"
+      },
+      {
+            "author": "Pawel nolbert",
+            "collections": "MISC",
+            "name": "Mnml Desert",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/160221/thumbs/pawel-nolbert-wE_Dk2Kd3GQ_compress58.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/160221/walls/pawel-nolbert-wE_Dk2Kd3GQ.jpg",
+            "resolution": "2400 x 3600",
+            "dominantColor": "#8a8589"
+      },
+      {
+            "author": "Vitor pinto",
+            "collections": "AUTOMOBILES",
+            "name": "mnml",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/160221/thumbs/vitor-pinto-4ShLTJc0Pbg_compress91.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/160221/walls/vitor-pinto-4ShLTJc0Pbg.jpg",
+            "resolution": "5760 x 3840",
+            "dominantColor": "#000002"
+      },
+      {
+            "author": "Victor avdeev",
+            "collections": "CITY",
+            "name": "Mnml streets",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/160221/thumbs/victor-avdeev-BBWwF4FcGuE_compress61.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/160221/walls/victor-avdeev-BBWwF4FcGuE.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#151618"
+      },
+      {
+            "author": "Helen ngoc",
+            "collections": "CITY",
+            "name": "Mnml streets",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/160221/thumbs/helen-ngoc-n.-Ln-OU_YMnmU_compress18.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/160221/walls/helen-ngoc-n.-Ln-OU_YMnmU.jpg",
+            "resolution": "3346 x 5020",
+            "dominantColor": "#1a1e17"
+      },
+      {
             "author": "Damir Babacic",
             "collections": "AUTOMOBILES,PATTERN",
             "name": "mnml cars",
