@@ -1,5 +1,59 @@
 [
       {
+            "author": "unknown",
+            "collections": "AMOLED,AUTOMOBILES",
+            "name": "Bike",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/170221/walls/amoled%20(3).jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/170221/walls/amoled%20(3).jpg",
+            "resolution": "1440 x 3200",
+            "dominantColor": "#000001"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED",
+            "name": "MISC",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/170221/walls/amoled%20(2).jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/170221/walls/amoled%20(2).jpg",
+            "resolution": "2160 x 4800",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED",
+            "name": "STANN",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/170221/walls/amoled%20(1).jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/170221/walls/amoled%20(1).jpg",
+            "resolution": "1080 x 2340",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "Anders Jid",
+            "collections": "ARCHITECTURE",
+            "name": "Arc675",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/170221/thumbs/anders-jild%C3%A9n-Sc5RKXLBjGg_compress49.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/170221/walls/anders-jild%C3%A9n-Sc5RKXLBjGg.jpg",
+            "resolution": "2400 x 1600",
+            "dominantColor": "#10121e"
+      },
+      {
+            "author": "Andrew Sterling",
+            "collections": "MISC",
+            "name": "Road",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/170221/thumbs/andrew-sterling-Ja-ynO7TCyg_compress66.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/170221/walls/andrew-sterling-Ja-ynO7TCyg.jpg",
+            "resolution": "4480 x 6720",
+            "dominantColor": "#0c1b2b"
+      },
+      {
+            "author": "Adam neumann",
+            "collections": "MISC",
+            "name": "Misc",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/170221/thumbs/adam-neumann-vzEeVwUgTmI_compress17.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/170221/walls/adam-neumann-vzEeVwUgTmI.jpg",
+            "resolution": "3648 x 4560",
+            "dominantColor": "#022d40"
+      },
+      {
             "author": "Pawel nolbert",
             "collections": "SEA",
             "name": "Grad",
