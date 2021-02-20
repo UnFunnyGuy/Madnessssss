@@ -1,5 +1,77 @@
 [
       {
+            "author": "Jake Irish",
+            "collections": "UNSPLASH",
+            "name": "Resort",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/190221/thumbs/jake-irish-qfvlR390Zrs_compress80.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/190221/walls/jake-irish-qfvlR390Zrs.jpg",
+            "resolution": "2912 x 3640",
+            "dominantColor": "#1d221d"
+      },
+      {
+            "author": "Josh hild",
+            "collections": "CITY",
+            "name": "Ny",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/190221/thumbs/josh-hild-nJXCc1naUNM_compress78.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/190221/walls/josh-hild-nJXCc1naUNM.jpg",
+            "resolution": "3648 x 4560",
+            "dominantColor": "#161d1e"
+      },
+      {
+            "author": "Josh hild",
+            "collections": "CITY",
+            "name": "Ny",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/190221/thumbs/josh-hild-bdf3U-EAwsA_compress17.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/190221/walls/josh-hild-bdf3U-EAwsA.jpg",
+            "resolution": "3633 x 5449",
+            "dominantColor": "#13202b"
+      },
+      {
+            "author": "Hiroshima Confidential",
+            "collections": "AMOLED,CITY",
+            "name": "Hiroshima",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/190221/thumbs/hiroshima-confidential-TrF3SYQ5skU_compress25.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/190221/walls/hiroshima-confidential-TrF3SYQ5skU.jpg",
+            "resolution": "3778 x 5667",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "Logan armstrong",
+            "collections": "NATURE",
+            "name": "Desert",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/190221/thumbs/logan-armstrong-GfNwYB5yQaw_compress2.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/190221/walls/logan-armstrong-GfNwYB5yQaw.jpg",
+            "resolution": "3648 x 4560",
+            "dominantColor": "#f8eee2"
+      },
+      {
+            "author": "Hao wen",
+            "collections": "NATURE",
+            "name": "Desert",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/190221/thumbs/hao-wen-i2L2eWqrSxs_compress96.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/190221/walls/hao-wen-i2L2eWqrSxs.jpg",
+            "resolution": "5304 x 7952",
+            "dominantColor": "#047e9b"
+      },
+      {
+            "author": "Hao wen",
+            "collections": "NATURE",
+            "name": "Desert",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/190221/thumbs/hao-wen-7CkwUfxrc-k_compress8.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/190221/walls/hao-wen-7CkwUfxrc-k.jpg",
+            "resolution": "5304 x 7952",
+            "dominantColor": "#bb7e78"
+      },
+      {
+            "author": "Egor yakushkin",
+            "collections": "AMOLED",
+            "name": "Night",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/190221/thumbs/egor-yakushkin-80kJUa_gfcg_compress40.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/190221/walls/egor-yakushkin-80kJUa_gfcg.jpg",
+            "resolution": "3456 x 5184",
+            "dominantColor": "#000001"
+      },
+      {
             "author": "Dhiva Kriahna",
             "collections": "AUTOMOBILES",
             "name": "Overview",
