@@ -1,6 +1,60 @@
 [
       {
             "author": "Martin Katler",
+            "collections": "AMOLED",
+            "name": "Luminous",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/200221/thumbs/martin-katler-o9XN28KdyN8_compress35.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/200221/walls/martin-katler-o9XN28KdyN8.jpg",
+            "resolution": "3756 x 5634",
+            "dominantColor": "#010102"
+      },
+      {
+            "author": "Martin Katler",
+            "collections": "AUTOMOBILES",
+            "name": "Autumn",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/200221/thumbs/martin-katler-nkpxAqM9C34_compress87.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/200221/walls/martin-katler-nkpxAqM9C34.jpg",
+            "resolution": "4310 x 5388",
+            "dominantColor": "#221919"
+      },
+      {
+            "author": "Martin Katler",
+            "collections": "AUTOMOBILES",
+            "name": "Classic",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/200221/thumbs/martin-katler-wP1ArLUJrzE_compress88.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/200221/walls/martin-katler-wP1ArLUJrzE.jpg",
+            "resolution": "3751 x 4689",
+            "dominantColor": "#151917"
+      },
+      {
+            "author": "Martin Katler",
+            "collections": "AUTOMOBILES",
+            "name": "Snow",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/200221/thumbs/martin-katler-eHydtScQK2s_compress88.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/200221/walls/martin-katler-eHydtScQK2s.jpg",
+            "resolution": "3997 x 4996",
+            "dominantColor": "#c7c7c6"
+      },
+      {
+            "author": "Martin Katler",
+            "collections": "AUTOMOBILES",
+            "name": "Stunt",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/200221/thumbs/martin-katler-x5zAl7WI6u4_compress29.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/200221/walls/martin-katler-x5zAl7WI6u4.jpg",
+            "resolution": "3197 x 3996",
+            "dominantColor": "#161416"
+      },
+      {
+            "author": "Tolga Ahmetler",
+            "collections": "SEA",
+            "name": "Waves",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/200221/thumbs/tolga-ahmetler-_29TMOyVraM_compress58.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/200221/walls/tolga-ahmetler-_29TMOyVraM.jpg",
+            "resolution": "3104 x 4656",
+            "dominantColor": "#9a7964"
+      },
+      {
+            "author": "Martin Katler",
             "collections": "AUTOMOBILES",
             "name": "Focus",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/200221/thumbs/martin-katler-PcsA4NQf2Ok_compress29.jpg",
