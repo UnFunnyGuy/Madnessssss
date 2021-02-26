@@ -1,5 +1,59 @@
 [
       {
+            "author": "Jobas jaeken",
+            "collections": "ARCHITECTURE",
+            "name": "Blue",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/26022021/thumbs/jonas-jaeken-yCPW8J1kXlk_compress54.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/26022021/walls/jonas-jaeken-yCPW8J1kXlk.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#0377a0"
+      },
+      {
+            "author": "Maximalfocus",
+            "collections": "AUTOMOBILES",
+            "name": "Neon",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/26022021/thumbs/maximalfocus-ZJni3-DhXc8_compress65.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/26022021/walls/maximalfocus-ZJni3-DhXc8.jpg",
+            "resolution": "3712 x 5568",
+            "dominantColor": "#0b0c12"
+      },
+      {
+            "author": "Janik",
+            "collections": "AUTOMOBILES",
+            "name": "Classic",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/26022021/thumbs/janik-01u9ojiYAMY_compress71.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/26022021/walls/janik-01u9ojiYAMY.jpg",
+            "resolution": "4000 x 5000",
+            "dominantColor": "#1e2021"
+      },
+      {
+            "author": "Janik",
+            "collections": "NATURE",
+            "name": "Grad",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/26022021/thumbs/janik-OeC9VAgvRMs_compress35.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/26022021/walls/janik-OeC9VAgvRMs.jpg",
+            "resolution": "3994 x 4992",
+            "dominantColor": "#9f9ac3"
+      },
+      {
+            "author": "Janik",
+            "collections": "NATURE",
+            "name": "Grad",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/26022021/thumbs/janik-oI3dwIkH3N4_compress62.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/26022021/walls/janik-oI3dwIkH3N4.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#7891c3"
+      },
+      {
+            "author": "Janik",
+            "collections": "NATURE,ANIMALS",
+            "name": "Gh",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/26022021/thumbs/janik-RKCyyvmyZzY_compress42.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/26022021/walls/janik-RKCyyvmyZzY.jpg",
+            "resolution": "2782 x 3476",
+            "dominantColor": "#acc9ca"
+      },
+      {
             "author": "Martin Katler",
             "collections": "AMOLED",
             "name": "Luminous",
