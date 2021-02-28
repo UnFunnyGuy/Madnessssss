@@ -1,5 +1,50 @@
 [
       {
+            "author": "r/Amoledbackgrounds",
+            "collections": "AMOLED,CITY",
+            "name": "Streets",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27022021/thumbs/kajf1nntjoj61_compress75.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27022021/walls/kajf1nntjoj61.png",
+            "resolution": "1440 x 3040",
+            "dominantColor": "#000001"
+      },
+      {
+            "author": "r/Amoledbackgrounds",
+            "collections": "AMOLED,ANIME",
+            "name": "AOT",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27022021/thumbs/s6nnct05knj61_compress65.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27022021/walls/s6nnct05knj61.jpg",
+            "resolution": "1440 x 3120",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "r/Amoledbackgrounds",
+            "collections": "AMOLED,ANIME",
+            "name": "Cat",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27022021/thumbs/s2rad4xlkyj61_compress21.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27022021/walls/s2rad4xlkyj61.jpg",
+            "resolution": "2160 x 3840",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "r/Amoledbackgrounds",
+            "collections": "AMOLED",
+            "name": "J",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27022021/thumbs/ICk1Y1V_compress75.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27022021/walls/ICk1Y1V.png",
+            "resolution": "1440 x 3040",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "r/Amoledbackgrounds",
+            "collections": "AMOLED",
+            "name": "Cyber Punk",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27022021/thumbs/x2chmxal2oj61_compress32.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27022021/walls/x2chmxal2oj61.png",
+            "resolution": "2160 x 3840",
+            "dominantColor": "#000000"
+      },
+      {
             "author": "Jobas jaeken",
             "collections": "ARCHITECTURE",
             "name": "Blue",
