@@ -1,5 +1,59 @@
 [
       {
+            "author": "Brad Fickeisen",
+            "collections": "NATURE",
+            "name": "Desert",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28022021/thumbs/brad-fickeisen-p9-toBuwQlA_compress16.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28022021/walls/brad-fickeisen-p9-toBuwQlA.jpg",
+            "resolution": "3973 x 5959",
+            "dominantColor": "#0a2430"
+      },
+      {
+            "author": "Brad Fickeisen",
+            "collections": "NATURE",
+            "name": "Desert",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28022021/thumbs/brad-fickeisen-jyFbsSVUGQ0_compress80.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28022021/walls/brad-fickeisen-jyFbsSVUGQ0.jpg",
+            "resolution": "6000 x 4000",
+            "dominantColor": "#332c29"
+      },
+      {
+            "author": "Aron yigin",
+            "collections": "NATURE",
+            "name": "Luminous Tree",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28022021/thumbs/aron-yigin-v_DbI6EcAlo_compress87.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28022021/walls/aron-yigin-v_DbI6EcAlo.jpg",
+            "resolution": "5273 x 7031",
+            "dominantColor": "#10252d"
+      },
+      {
+            "author": "r/Amoledbackgrounds",
+            "collections": "AMOLED",
+            "name": "Art",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28022021/thumbs/b9ham02lezj61_compress12.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28022021/walls/b9ham02lezj61.jpg",
+            "resolution": "1440 x 3120",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "r/Amoledbackgrounds",
+            "collections": "AMOLED",
+            "name": "Art",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28022021/thumbs/i38hju1x2wj61_compress30.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28022021/walls/i38hju1x2wj61.png",
+            "resolution": "2048 x 4096",
+            "dominantColor": "#000001"
+      },
+      {
+            "author": "r/Amoledbackgrounds",
+            "collections": "AMOLED,CITY",
+            "name": "City",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28022021/thumbs/h0dd8b73jmj61_compress98.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28022021/walls/h0dd8b73jmj61.jpg",
+            "resolution": "2424 x 5359",
+            "dominantColor": "#000001"
+      },
+      {
             "author": "r/Amoledbackgrounds",
             "collections": "AMOLED,CITY",
             "name": "Streets",
