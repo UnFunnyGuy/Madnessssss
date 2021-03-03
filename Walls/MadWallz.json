@@ -1,5 +1,59 @@
 [
       {
+            "author": "Henry &  co",
+            "collections": "ARCHITECTURE",
+            "name": "Arch grad564",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02032021/thumbs/henry-%26-co.-BEoPKN_oyhA_compress7.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02032021/walls/henry-%26-co.-BEoPKN_oyhA.jpg",
+            "resolution": "3264 x 4896",
+            "dominantColor": "#131313"
+      },
+      {
+            "author": "Mike Palmowski",
+            "collections": "NATURE",
+            "name": "Bridge",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02032021/thumbs/mike-palmowski-UQSrYZpAzAc_compress15.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02032021/walls/mike-palmowski-UQSrYZpAzAc.jpg",
+            "resolution": "3910 x 5865",
+            "dominantColor": "#cfd4be"
+      },
+      {
+            "author": "eberhard grossgasteriger",
+            "collections": "NATURE",
+            "name": "gradient nature(26mb)",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02032021/thumbs/eberhard-grossgasteiger-Sd-zGynsQrQ_compress47.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02032021/walls/eberhard-grossgasteiger-Sd-zGynsQrQ.jpg",
+            "resolution": "3648 x 5472",
+            "dominantColor": "#0d56ae"
+      },
+      {
+            "author": "r-Amoledbackgrounds",
+            "collections": "AMOLED,CITY",
+            "name": "City Lights",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02032021/thumbs/1be9xw7xo3k61_compress32.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02032021/walls/1be9xw7xo3k61.png",
+            "resolution": "640 x 1138",
+            "dominantColor": "#020103"
+      },
+      {
+            "author": "r-Amoledbackgrounds",
+            "collections": "AMOLED",
+            "name": "Typography",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02032021/thumbs/IMG_20200725_093819_806__01_compress50.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02032021/walls/IMG_20200725_093819_806__01.jpg",
+            "resolution": "3072 x 5461",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "unknown",
+            "collections": "ANIME",
+            "name": "Naruto",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02032021/thumbs/Naruto%202160%20x%203840_compress33.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02032021/walls/Naruto%202160%20x%203840.png",
+            "resolution": "2160 x 3840",
+            "dominantColor": "#e69f2c"
+      },
+      {
             "author": "Brad Fickeisen",
             "collections": "NATURE",
             "name": "Desert",
@@ -27,7 +81,7 @@
             "dominantColor": "#10252d"
       },
       {
-            "author": "r/Amoledbackgrounds",
+            "author": "r-Amoledbackgrounds",
             "collections": "AMOLED",
             "name": "Art",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28022021/thumbs/b9ham02lezj61_compress12.jpg",
@@ -36,7 +90,7 @@
             "dominantColor": "#000000"
       },
       {
-            "author": "r/Amoledbackgrounds",
+            "author": "r-Amoledbackgrounds",
             "collections": "AMOLED",
             "name": "Art",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28022021/thumbs/i38hju1x2wj61_compress30.jpg",
@@ -45,7 +99,7 @@
             "dominantColor": "#000001"
       },
       {
-            "author": "r/Amoledbackgrounds",
+            "author": "r-Amoledbackgrounds",
             "collections": "AMOLED,CITY",
             "name": "City",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28022021/thumbs/h0dd8b73jmj61_compress98.jpg",
@@ -54,7 +108,7 @@
             "dominantColor": "#000001"
       },
       {
-            "author": "r/Amoledbackgrounds",
+            "author": "r-Amoledbackgrounds",
             "collections": "AMOLED,CITY",
             "name": "Streets",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27022021/thumbs/kajf1nntjoj61_compress75.jpg",
@@ -63,7 +117,7 @@
             "dominantColor": "#000001"
       },
       {
-            "author": "r/Amoledbackgrounds",
+            "author": "r-Amoledbackgrounds",
             "collections": "AMOLED,ANIME",
             "name": "AOT",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27022021/thumbs/s6nnct05knj61_compress65.jpg",
@@ -72,7 +126,7 @@
             "dominantColor": "#000000"
       },
       {
-            "author": "r/Amoledbackgrounds",
+            "author": "r-Amoledbackgrounds",
             "collections": "AMOLED,ANIME",
             "name": "Cat",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27022021/thumbs/s2rad4xlkyj61_compress21.jpg",
@@ -81,7 +135,7 @@
             "dominantColor": "#000000"
       },
       {
-            "author": "r/Amoledbackgrounds",
+            "author": "r-Amoledbackgrounds",
             "collections": "AMOLED",
             "name": "J",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27022021/thumbs/ICk1Y1V_compress75.jpg",
@@ -90,7 +144,7 @@
             "dominantColor": "#000000"
       },
       {
-            "author": "r/Amoledbackgrounds",
+            "author": "r-Amoledbackgrounds",
             "collections": "AMOLED",
             "name": "Cyber Punk",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27022021/thumbs/x2chmxal2oj61_compress32.jpg",
@@ -657,7 +711,7 @@
             "dominantColor": "#0f0f0f"
       },
       {
-            "author": "r/Amoledbackgrounds",
+            "author": "r-Amoledbackgrounds",
             "collections": "MOVIES",
             "name": "Mando",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/060221/thumbs/z9pnp589off61_compress69.jpg",
@@ -702,7 +756,7 @@
             "dominantColor": "#252525"
       },
       {
-            "author": "r/Amoledbackgrounds",
+            "author": "r-Amoledbackgrounds",
             "collections": "ANIME,AMOLED",
             "name": "Gg",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/060221/walls/fimbcgztmue61.jpg",
@@ -711,7 +765,7 @@
             "dominantColor": "#000000"
       },
       {
-            "author": "r/Amoledbackgrounds",
+            "author": "r-Amoledbackgrounds",
             "collections": "ABSTRACT",
             "name": "Abstract",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ElegantWalls21/main/DATA%20BASE/060221/thumbs/7codc8cdxmf61.jpg_compress92.jpg",
