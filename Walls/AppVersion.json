@@ -1,5 +1,5 @@
 {
-            "Appversion": "4.1.0",
+            "Appversion": "4.1.1",
             "Lastforceupdate": "3.0",
             "Changelogs": "Major update\n\nBring back dominant color selection\nShow resolution of the original image so that users know if it is 4k/2k etc\nFix an issue where extension of§the image wasn't saved correctly\nRedesign bottom bar for a better usage\n\n\nIf you have any more suggestions/features, feel free to join our telegram groups\n\nThanks to all the contributors who helped me out.",
             "Priority": "1"
