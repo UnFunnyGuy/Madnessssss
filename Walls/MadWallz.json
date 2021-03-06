@@ -1,5 +1,77 @@
 [
       {
+            "author": "unknown",
+            "collections": "MISC",
+            "name": "Gradient Mountains",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/06032021/thumbs/MOBILE-1326x2800-21.02.11141923-by-%40WALLSBYJFL_compress55.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/06032021/walls/MOBILE-1326x2800-21.02.11141923-by-%40WALLSBYJFL.jpg",
+            "resolution": "1327 x 2800",
+            "dominantColor": "#f59a62"
+      },
+      {
+            "author": "unknown",
+            "collections": "MISC",
+            "name": "Gradient Mountains",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/06032021/thumbs/MOBILE-20.12.17095507-by-%40WALLSBYJFL_compress26.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/06032021/walls/MOBILE-20.12.17095507-by-%40WALLSBYJFL.jpg",
+            "resolution": "1516 x 3200",
+            "dominantColor": "#020916"
+      },
+      {
+            "author": "unknown",
+            "collections": "PATTERN",
+            "name": "pattern",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/06032021/thumbs/MOBILE-1327x2800-21.02.13133420-by-%40WALLSBYJFL_compress54.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/06032021/walls/MOBILE-1327x2800-21.02.13133420-by-%40WALLSBYJFL.jpg",
+            "resolution": "1327 x 2800",
+            "dominantColor": "#1f1e24"
+      },
+      {
+            "author": "unknown",
+            "collections": "SPACE",
+            "name": "Earth",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/06032021/thumbs/MOBILE-20.12.14225512-by%20%40WALLSBYJFL_compress79.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/06032021/walls/MOBILE-20.12.14225512-by%20%40WALLSBYJFL.jpg",
+            "resolution": "1514 x 3200",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "Leon Skibitzki",
+            "collections": "SEA",
+            "name": "Sea",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/06032021/thumbs/leon-skibitzki-1EW478F-g_k_compress13.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/06032021/walls/leon-skibitzki-1EW478F-g_k.jpg",
+            "resolution": "4480 x 6720",
+            "dominantColor": "#27282f"
+      },
+      {
+            "author": "Patrik storm",
+            "collections": "AUTOMOBILES",
+            "name": "Car",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/06032021/thumbs/patrik-storm-(alstra-pictures)-wVTPr2HDXUQ_compress10.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/06032021/walls/patrik-storm-(alstra-pictures)-wVTPr2HDXUQ.jpg",
+            "resolution": "3764 x 5646",
+            "dominantColor": "#05080f"
+      },
+      {
+            "author": "Liza Azorina",
+            "collections": "CITY",
+            "name": "Bridge",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/06032021/thumbs/liza-azorina-4zWGrCQ6PVY_compress51.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/06032021/walls/liza-azorina-4zWGrCQ6PVY.jpg",
+            "resolution": "3857 x 5785",
+            "dominantColor": "#849b9b"
+      },
+      {
+            "author": "Simone hutsch",
+            "collections": "ARCHITECTURE",
+            "name": "Arch588",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/06032021/thumbs/simone-hutsch-M7mB1wtEpPk_compress42.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/06032021/walls/simone-hutsch-M7mB1wtEpPk.jpg",
+            "resolution": "4961 x 7016",
+            "dominantColor": "#a0e2f0"
+      },
+      {
             "author": "Mike Palmowski",
             "collections": "NATURE,UNSPLASH",
             "name": "S turn",
