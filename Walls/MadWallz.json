@@ -2,6 +2,60 @@
       {
             "author": "Ansgar scheffold",
             "collections": "NATURE,UNSPLASH",
+            "name": "Mountains",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08032021/thumbs/ansgar-scheffold-MD4Z4O6oV8Q_compress96.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08032021/walls/ansgar-scheffold-MD4Z4O6oV8Q.jpg",
+            "resolution": "3553 x 5330",
+            "dominantColor": "#2a2d1e"
+      },
+      {
+            "author": "Daniele Colucci",
+            "collections": "ARCHITECTURE",
+            "name": "Bridge",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08032021/thumbs/daniele-colucci-353_69VZWwY_compress20.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08032021/walls/daniele-colucci-353_69VZWwY.jpg",
+            "resolution": "2003 x 3560",
+            "dominantColor": "#fcb57f"
+      },
+      {
+            "author": "Sten Brujin",
+            "collections": "ARCHITECTURE",
+            "name": "Arch601",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08032021/thumbs/sten-de-bruijn-tKnda8e9ejM_compress90.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08032021/walls/sten-de-bruijn-tKnda8e9ejM.jpg",
+            "resolution": "2214 x 3100",
+            "dominantColor": "#010203"
+      },
+      {
+            "author": "Martin Katler",
+            "collections": "AUTOMOBILES",
+            "name": "Classic",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08032021/thumbs/martin-katler-JAUNXDmuQiY_compress92.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08032021/walls/martin-katler-JAUNXDmuQiY.jpg",
+            "resolution": "3776 x 6720",
+            "dominantColor": "#0b0b0a"
+      },
+      {
+            "author": "Redcharlie",
+            "collections": "AUTOMOBILES",
+            "name": "Porsche",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08032021/thumbs/redcharlie-t8kgpZYWRUE_compress43.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08032021/walls/redcharlie-t8kgpZYWRUE.jpg",
+            "resolution": "4480 x 6720",
+            "dominantColor": "#020f0e"
+      },
+      {
+            "author": "Vitor pinto",
+            "collections": "AUTOMOBILES",
+            "name": "Porsche",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08032021/thumbs/vitor-pinto-DUuJwYyoeM0_compress50.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08032021/walls/vitor-pinto-DUuJwYyoeM0.jpg",
+            "resolution": "5332 x 3544",
+            "dominantColor": "#87919a"
+      },
+      {
+            "author": "Ansgar scheffold",
+            "collections": "NATURE,UNSPLASH",
             "name": "Heaven",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/07032021/thumbs/ansgar-scheffold-m5lO4LUnab0_compress67.jpg",
             "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/07032021/walls/ansgar-scheffold-m5lO4LUnab0.jpg",
