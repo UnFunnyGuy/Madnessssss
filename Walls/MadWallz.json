@@ -1,5 +1,50 @@
 [
       {
+            "author": "r-Amoledbackgrounds",
+            "collections": "AMOLED",
+            "name": "Negative Man",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/10032021/thumbs/ZeCXjbb_compress65.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/10032021/walls/ZeCXjbb.jpg",
+            "resolution": "1080 x 2256",
+            "dominantColor": "#050505"
+      },
+      {
+            "author": "Pavel Anoshin",
+            "collections": "AMOLED",
+            "name": "Cat",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/10032021/thumbs/pavel--anoshin-j166QJip9u8_compress77.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/10032021/walls/pavel--anoshin-j166QJip9u8.jpg",
+            "resolution": "3151 x 4901",
+            "dominantColor": "#070c10"
+      },
+      {
+            "author": "r-Amoledbackgrounds",
+            "collections": "AMOLED",
+            "name": "Car",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/10032021/walls/z31g7xq4e0m61.png",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/10032021/thumbs/z31g7xq4e0m61_compress82.jpg",
+            "resolution": "720 x 1280",
+            "dominantColor": "#020102"
+      },
+      {
+            "author": "Meric",
+            "collections": "NATURE",
+            "name": "Mountains",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/10032021/thumbs/meri%C3%A7-da%C4%9Fl%C4%B1-2i-JP4tVAp8_compress86.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/10032021/walls/meri%C3%A7-da%C4%9Fl%C4%B1-2i-JP4tVAp8.jpg",
+            "resolution": "2326 x 3505",
+            "dominantColor": "#512229"
+      },
+      {
+            "author": "Mitch mckee",
+            "collections": "SEA",
+            "name": "Light Tower",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/10032021/thumbs/mitch-mckee-sGnWRF9cJZE_compress68.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/10032021/walls/mitch-mckee-sGnWRF9cJZE.jpg",
+            "resolution": "1607 x 2409",
+            "dominantColor": "#192a2b"
+      },
+      {
             "author": "Dave Hoefler",
             "collections": "NATURE",
             "name": "Gradient",
