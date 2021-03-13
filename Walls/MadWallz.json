@@ -1,5 +1,41 @@
 [
       {
+            "author": "Aman upadhyay",
+            "collections": "SEA",
+            "name": "Sunset",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/13032021/thumbs/aman-upadhyay-DvpwXNORDEw_compress31.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/13032021/walls/aman-upadhyay-DvpwXNORDEw.jpg",
+            "resolution": "2486 x 3107",
+            "dominantColor": "#6c738e"
+      },
+      {
+            "author": "David Hofmann",
+            "collections": "ARCHITECTURE",
+            "name": "Blue Arch",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/13032021/thumbs/david-hofmann-U0z0kbrdsog_compress9.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/13032021/walls/david-hofmann-U0z0kbrdsog.jpg",
+            "resolution": "2531 x 3797",
+            "dominantColor": "#038cad"
+      },
+      {
+            "author": "Paul Menz",
+            "collections": "ARCHITECTURE",
+            "name": "White Arch",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/13032021/thumbs/paul-menz-xBzTODeRy5o_compress0.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/13032021/walls/paul-menz-xBzTODeRy5o.jpg",
+            "resolution": "3019 x 4026",
+            "dominantColor": "#a6a9b0"
+      },
+      {
+            "author": "Maksim Sislo",
+            "collections": "CITY",
+            "name": "All Alone",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/13032021/thumbs/maksim-%C5%A1i%C5%A1lo-CgOLM-51myU_compress26.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/13032021/walls/maksim-%C5%A1i%C5%A1lo-CgOLM-51myU.jpg",
+            "resolution": "2912 x 4451",
+            "dominantColor": "#a1a5a8"
+      },
+      {
             "author": "r-Amoledbackgrounds",
             "collections": "AMOLED",
             "name": "Negative Man",
