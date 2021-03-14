@@ -1,5 +1,50 @@
 [
       {
+            "author": "r-Amoledbackgrounds",
+            "collections": "AMOLED",
+            "name": "Skull Wick",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14032021/thumbs/40epqhg86gm61_compress64.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14032021/walls/40epqhg86gm61.jpg",
+            "resolution": "1440 x 3120",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "r-Amoledbackgrounds",
+            "collections": "AMOLED",
+            "name": "Typography",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14032021/thumbs/gyzlscshmnm61_compress59.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14032021/walls/gyzlscshmnm61.jpg",
+            "resolution": "1406 x 3120",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "Benjamin suter",
+            "collections": "SEA",
+            "name": "Shore(22mb)",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14032021/thumbs/benjamin-suter-_-DK_LV7Kus_compress13.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14032021/walls/benjamin-suter-_-DK_LV7Kus.jpg",
+            "resolution": "5277 x 6596",
+            "dominantColor": "#181716"
+      },
+      {
+            "author": "Zac wolff",
+            "collections": "AUTOMOBILES",
+            "name": "Orange lambo (27mb)",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14032021/thumbs/zac-wolff-6ogEgIY-7cU_compress96.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14032021/walls/zac-wolff-6ogEgIY-7cU.jpg",
+            "resolution": "5304 x 7952",
+            "dominantColor": "#080e13"
+      },
+      {
+            "author": "Zac wolff",
+            "collections": "MISC",
+            "name": "Alone(22mb)",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14032021/thumbs/zac-wolff-yiHFp9tBS7o_compress78.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14032021/walls/zac-wolff-yiHFp9tBS7o.jpg",
+            "resolution": "5304 x 7952",
+            "dominantColor": "#050e13"
+      },
+      {
             "author": "Aman upadhyay",
             "collections": "SEA",
             "name": "Sunset",
