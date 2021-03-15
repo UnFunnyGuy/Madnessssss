@@ -1,5 +1,59 @@
 [
       {
+            "author": "Kgamk vilaysing",
+            "collections": "ARCHITECTURE",
+            "name": "White",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/15032021/thumbs/khamk%C3%A9o-vilaysing-2UKUK7EwgAA_compress41.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/15032021/walls/khamk%C3%A9o-vilaysing-2UKUK7EwgAA.jpg",
+            "resolution": "2000 x 3000",
+            "dominantColor": "#d4d4d4"
+      },
+      {
+            "author": "Logan Weaver",
+            "collections": "SEA",
+            "name": "mnml",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/15032021/thumbs/logan-weaver-3elVzSlJYXw_compress77.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/15032021/walls/logan-weaver-3elVzSlJYXw.jpg",
+            "resolution": "3459 x 5188",
+            "dominantColor": "#16333b"
+      },
+      {
+            "author": "Logan Weaver",
+            "collections": "SEA",
+            "name": "mnml",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/15032021/thumbs/logan-weaver-Q6ufEcAJj-s_compress89.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/15032021/walls/logan-weaver-Q6ufEcAJj-s.jpg",
+            "resolution": "3763 x 5645",
+            "dominantColor": "#090e11"
+      },
+      {
+            "author": "Logan Weaver",
+            "collections": "NATURE",
+            "name": "Green Mountains",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/15032021/thumbs/logan-weaver-7o-8Tw2BHLU_compress7.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/15032021/walls/logan-weaver-7o-8Tw2BHLU.jpg",
+            "resolution": "2242 x 3992",
+            "dominantColor": "#0d1208"
+      },
+      {
+            "author": "Robinson pross",
+            "collections": "NATURE",
+            "name": "Green Mountains",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/15032021/thumbs/robinson-pross-aJwHBcQXk-0_compress98.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/15032021/walls/robinson-pross-aJwHBcQXk-0.jpg",
+            "resolution": "3024 x 4032",
+            "dominantColor": "#0d191f"
+      },
+      {
+            "author": "Logan Weaver",
+            "collections": "AMOLED,CITY",
+            "name": "Night",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/15032021/thumbs/logan-weaver-umnKXCZxNvg_compress67.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/15032021/walls/logan-weaver-umnKXCZxNvg.jpg",
+            "resolution": "3072 x 4608",
+            "dominantColor": "#090909"
+      },
+      {
             "author": "r-Amoledbackgrounds",
             "collections": "AMOLED",
             "name": "Skull Wick",
