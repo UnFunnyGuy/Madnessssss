@@ -1,5 +1,77 @@
 [
       {
+            "author": "Alex Perez",
+            "collections": "ABSTRACT",
+            "name": "Mix",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/17032021/walls/alex-perez-pEgsWN0kwbQ.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/17032021/walls/alex-perez-pEgsWN0kwbQ.jpg",
+            "resolution": "2160 x 4680",
+            "dominantColor": "#050208"
+      },
+      {
+            "author": "Logan Weaver",
+            "collections": "NATURE",
+            "name": "Silent",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/17032021/thumbs/logan-weaver--18C_HvHAFU_compress83.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/17032021/walls/logan-weaver--18C_HvHAFU.jpg",
+            "resolution": "3703 x 5554",
+            "dominantColor": "#25241e"
+      },
+      {
+            "author": "Max Bovkun",
+            "collections": "NATURE",
+            "name": "Plant",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/17032021/thumbs/max-bovkun-UPGYEh8HWG0_compress30.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/17032021/walls/max-bovkun-UPGYEh8HWG0.jpg",
+            "resolution": "2590 x 4608",
+            "dominantColor": "#1e2121"
+      },
+      {
+            "author": "Max Bovkun",
+            "collections": "CITY,MISC",
+            "name": "Factory",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/17032021/thumbs/max-bovkun-njFknJWUuh0_compress94.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/17032021/walls/max-bovkun-njFknJWUuh0.jpg",
+            "resolution": "1774 x 3154",
+            "dominantColor": "#307699"
+      },
+      {
+            "author": "Max Whitehead",
+            "collections": "ARCHITECTURE",
+            "name": "Arch601",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/17032021/thumbs/max-whitehead-LiCGg_Eaw2E_compress6.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/17032021/walls/max-whitehead-LiCGg_Eaw2E.jpg",
+            "resolution": "6528 x 9786",
+            "dominantColor": "#95a3cb"
+      },
+      {
+            "author": "Max Whitehead",
+            "collections": "ARCHITECTURE",
+            "name": "Arch602",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/17032021/thumbs/max-whitehead-Wcpgxjv-tCg_compress40.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/17032021/walls/max-whitehead-Wcpgxjv-tCg.jpg",
+            "resolution": "3264 x 4896",
+            "dominantColor": "#3a4b62"
+      },
+      {
+            "author": "Logan Weaver",
+            "collections": "SEA",
+            "name": "Lush",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/17032021/thumbs/logan-weaver-dZe-w8Shmiw_compress82.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/17032021/walls/logan-weaver-dZe-w8Shmiw.jpg",
+            "resolution": "2242 x 3992",
+            "dominantColor": "#0e2522"
+      },
+      {
+            "author": "Nick Rickert",
+            "collections": "NATURE",
+            "name": "Dark",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/17032021/thumbs/nick-rickert-k89oHnnOoUQ_compress81.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/17032021/walls/nick-rickert-k89oHnnOoUQ.jpg",
+            "resolution": "3840 x 4800",
+            "dominantColor": "#131313"
+      },
+      {
             "author": "Kgamk vilaysing",
             "collections": "ARCHITECTURE",
             "name": "White",
