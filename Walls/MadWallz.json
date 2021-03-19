@@ -1,5 +1,59 @@
 [
       {
+            "author": "Logan Weaver",
+            "collections": "NATURE",
+            "name": "Road",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/19032021/thumbs/logan-weaver-jU6LrkQs6Js_compress56.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/19032021/walls/logan-weaver-jU6LrkQs6Js.jpg",
+            "resolution": "3072 x 4608",
+            "dominantColor": "#110f0c"
+      },
+      {
+            "author": "Max Bovkun",
+            "collections": "NATURE",
+            "name": "River",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/19032021/thumbs/max-bovkun-GoVQptIQk8E_compress1.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/19032021/walls/max-bovkun-GoVQptIQk8E.jpg",
+            "resolution": "2590 x 4608",
+            "dominantColor": "#101910"
+      },
+      {
+            "author": "Adam Thomas",
+            "collections": "CITY",
+            "name": "Day",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/19032021/thumbs/adam-thomas-bC6M3pYG71g_compress70.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/19032021/walls/adam-thomas-bC6M3pYG71g.jpg",
+            "resolution": "4480 x 5973",
+            "dominantColor": "#f4f5f5"
+      },
+      {
+            "author": "Max Bovkun",
+            "collections": "ARCHITECTURE",
+            "name": "Brown",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/19032021/thumbs/max-bovkun-SxSpiwnm65E_compress68.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/19032021/walls/max-bovkun-SxSpiwnm65E.jpg",
+            "resolution": "3456 x 4608",
+            "dominantColor": "#3b2a22"
+      },
+      {
+            "author": "Max Bovkun",
+            "collections": "ARCHITECTURE",
+            "name": "Foggy",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/19032021/thumbs/max-bovkun-h4kyQB38RO4_compress39.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/19032021/walls/max-bovkun-h4kyQB38RO4.jpg",
+            "resolution": "1835 x 3264",
+            "dominantColor": "#bdbbbc"
+      },
+      {
+            "author": "Max Bovkun",
+            "collections": "ARCHITECTURE",
+            "name": "WIP",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/19032021/thumbs/max-bovkun-wWzPpZ_YJpk_compress79.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/19032021/walls/max-bovkun-wWzPpZ_YJpk.jpg",
+            "resolution": "1835 x 3264",
+            "dominantColor": "#ddd0d7"
+      },
+      {
             "author": "Alex Perez",
             "collections": "ABSTRACT",
             "name": "Mix",
