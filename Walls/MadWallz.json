@@ -1,5 +1,59 @@
 [
       {
+            "author": "Max Bovkun",
+            "collections": "ARCHITECTURE",
+            "name": "Night",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/20032021/thumbs/max-bovkun-RSTtSfypHMQ_compress11.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/20032021/walls/max-bovkun-RSTtSfypHMQ.jpg",
+            "resolution": "3496 x 4656",
+            "dominantColor": "#021724"
+      },
+      {
+            "author": "Max whitehead",
+            "collections": "ARCHITECTURE",
+            "name": "Grid",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/20032021/thumbs/max-whitehead-bzHyyTltcrk_compress6.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/20032021/walls/max-whitehead-bzHyyTltcrk.jpg",
+            "resolution": "2833 x 4896",
+            "dominantColor": "#121010"
+      },
+      {
+            "author": "Max Bovkun",
+            "collections": "MISC",
+            "name": "Pool",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/20032021/thumbs/max-bovkun-T3gk-xY3X6Q_compress54.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/20032021/walls/max-bovkun-T3gk-xY3X6Q.jpg",
+            "resolution": "3456 x 4608",
+            "dominantColor": "#4aa6ce"
+      },
+      {
+            "author": "Nick Rickert",
+            "collections": "NATURE",
+            "name": "Grad",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/20032021/thumbs/nick-rickert-NiPTXfxkumc_compress84.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/20032021/walls/nick-rickert-NiPTXfxkumc.jpg",
+            "resolution": "3840 x 4800",
+            "dominantColor": "#b4b6c7"
+      },
+      {
+            "author": "Nick Rickert",
+            "collections": "SPACE",
+            "name": "Sky",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/20032021/thumbs/nick-rickert-dHXcOy3umtE_compress72.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/20032021/walls/nick-rickert-dHXcOy3umtE.jpg",
+            "resolution": "3840 x 4800",
+            "dominantColor": "#060b0f"
+      },
+      {
+            "author": "r-Amoledbackgrounds",
+            "collections": "AMOLED",
+            "name": "What?",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/20032021/thumbs/qv1ka15wrim61_compress33.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/20032021/walls/qv1ka15wrim61.png",
+            "resolution": "1440 x 2567",
+            "dominantColor": "#000000"
+      },
+      {
             "author": "Logan Weaver",
             "collections": "NATURE",
             "name": "Road",
