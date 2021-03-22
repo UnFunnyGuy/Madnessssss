@@ -1,5 +1,50 @@
 [
       {
+            "author": "Max Whitehead",
+            "collections": "ARCHITECTURE",
+            "name": "Arch603",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/22032021/thumbs/max-whitehead-0yPQfFZO7_w_compress1.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/22032021/walls/max-whitehead-0yPQfFZO7_w.jpg",
+            "resolution": "3264 x 4896",
+            "dominantColor": "#040508"
+      },
+      {
+            "author": "Viktor Forgacs",
+            "collections": "ARCHITECTURE",
+            "name": "Arch604",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/22032021/thumbs/viktor-forgacs-RBzIx4tx9wk_compress88.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/22032021/walls/viktor-forgacs-RBzIx4tx9wk.jpg",
+            "resolution": "2550 x 3249",
+            "dominantColor": "#191919"
+      },
+      {
+            "author": "Nick Rickert",
+            "collections": "NATURE,SPACE",
+            "name": "night",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/22032021/thumbs/nick-rickert-qx3ZAL-gYjY_compress24.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/22032021/walls/nick-rickert-qx3ZAL-gYjY.jpg",
+            "resolution": "3840 x 4800",
+            "dominantColor": "#07060a"
+      },
+      {
+            "author": "Nick Rickert",
+            "collections": "NATURE",
+            "name": "Blend",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/22032021/thumbs/tanya-grypachevskaya-TtN03jUTA70_compress40.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/22032021/walls/tanya-grypachevskaya-TtN03jUTA70.jpg",
+            "resolution": "4000 x 2250",
+            "dominantColor": "#0a0f18"
+      },
+      {
+            "author": "Solen Feyissa",
+            "collections": "AMOLED",
+            "name": "Bottle",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/22032021/thumbs/solen-feyissa-muyaMxM-1Ts_compress83.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/22032021/walls/solen-feyissa-muyaMxM-1Ts.jpg",
+            "resolution": "2735 x 4100",
+            "dominantColor": "#000000"
+      },
+      {
             "author": "Max Bovkun",
             "collections": "ARCHITECTURE",
             "name": "Night",
