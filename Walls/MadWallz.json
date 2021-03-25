@@ -1,5 +1,77 @@
 [
       {
+            "author": "Tayla Maurici",
+            "collections": "SEA,UNSPLASH",
+            "name": "Wave",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/25032021/thumbs/tayla-maurici-hnmzHJqNCAU_compress96.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/25032021/walls/tayla-maurici-hnmzHJqNCAU.jpg",
+            "resolution": "4160 x 6240",
+            "dominantColor": "#02090d"
+      },
+      {
+            "author": "Annie Spratt",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Mountains Blush",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/25032021/thumbs/annie-spratt-gdhJGmKMhnU_compress99.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/25032021/walls/annie-spratt-gdhJGmKMhnU.jpg",
+            "resolution": "5069 x 6800",
+            "dominantColor": "#372619"
+      },
+      {
+            "author": "James eades",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Mountains",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/25032021/thumbs/james-eades-ZsDYzi7ynZI_compress43.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/25032021/walls/james-eades-ZsDYzi7ynZI.jpg",
+            "resolution": "6000 x 4000",
+            "dominantColor": "#616771"
+      },
+      {
+            "author": "Jan kohl",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Mountains",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/25032021/thumbs/jan-kohl-r55XWGTx14E_compress55.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/25032021/walls/jan-kohl-r55XWGTx14E.jpg",
+            "resolution": "2000 x 3000",
+            "dominantColor": "#2f254b"
+      },
+      {
+            "author": "Daniel Stone",
+            "collections": "ARCHITECTURE,UNSPLASH",
+            "name": "Arch604",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/25032021/thumbs/daniel-stone-QIAGXy53Rc8_compress79.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/25032021/walls/daniel-stone-QIAGXy53Rc8.jpg",
+            "resolution": "3275 x 4523",
+            "dominantColor": "#12161c"
+      },
+      {
+            "author": "r-Amoledbackgrounds",
+            "collections": "AMOLED",
+            "name": "Airbender",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/25032021/thumbs/h2imqqpxqyo61_compress46.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/25032021/walls/h2imqqpxqyo61.png",
+            "resolution": "2160 x 3840",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "r-Amoledbackgrounds",
+            "collections": "AMOLED",
+            "name": "Airbender",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/25032021/thumbs/hsuy2os5syo61_compress57.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/25032021/walls/hsuy2os5syo61.png",
+            "resolution": "2160 x 3840",
+            "dominantColor": "#000001"
+      },
+      {
+            "author": "r-Amoledbackgrounds",
+            "collections": "AMOLED",
+            "name": "misc",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/25032021/thumbs/rpj63fn1zvo61_compress91.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/25032021/walls/rpj63fn1zvo61.png",
+            "resolution": "1440 x 3120",
+            "dominantColor": "#000000"
+      },
+      {
             "author": "Max Whitehead",
             "collections": "ARCHITECTURE",
             "name": "Arch603",
