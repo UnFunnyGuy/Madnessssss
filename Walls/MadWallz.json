@@ -1,5 +1,59 @@
 [
       {
+            "author": "Akin",
+            "collections": "AMOLED",
+            "name": "Orn",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27032021/thumbs/akin-W0bkUhQmNyQ_compress51.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27032021/walls/akin-W0bkUhQmNyQ.jpg",
+            "resolution": "6000 x 4000",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "Malcolm",
+            "collections": "AMOLED",
+            "name": "Cy",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27032021/thumbs/malcolm-shadrach-CVcLt7xn0LI_compress57.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27032021/walls/malcolm-shadrach-CVcLt7xn0LI.jpg",
+            "resolution": "1680 x 3106",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "Pranav Madhu",
+            "collections": "AMOLED",
+            "name": "aamo",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27032021/thumbs/pranav-madhu-WwB1nI4V5cQ_compress72.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27032021/walls/pranav-madhu-WwB1nI4V5cQ.jpg",
+            "resolution": "2828 x 3968",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "Martin Sattler",
+            "collections": "NATURE",
+            "name": "Mountains",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27032021/thumbs/martin-sattler-TgCfVRCtNB8_compress79.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27032021/walls/martin-sattler-TgCfVRCtNB8.jpg",
+            "resolution": "4008 x 5528",
+            "dominantColor": "#b2b4b0"
+      },
+      {
+            "author": "Martin Sattler",
+            "collections": "NATURE",
+            "name": "Road",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27032021/thumbs/martin-sattler-nLdZt9PWXQ4_compress36.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27032021/walls/martin-sattler-nLdZt9PWXQ4.jpg",
+            "resolution": "3992 x 2992",
+            "dominantColor": "#69673c"
+      },
+      {
+            "author": "Pranav madhu",
+            "collections": "ARCHITECTURE",
+            "name": "Atch blue 02",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27032021/thumbs/pranav-madhu-2bAYH6qiod0_compress19.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/27032021/walls/pranav-madhu-2bAYH6qiod0.jpg",
+            "resolution": "4403 x 6878",
+            "dominantColor": "#329bcb"
+      },
+      {
             "author": "Tayla Maurici",
             "collections": "SEA,UNSPLASH",
             "name": "Wave",
