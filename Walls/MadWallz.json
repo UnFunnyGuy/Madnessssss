@@ -1,5 +1,50 @@
 [
       {
+            "author": "Ryunosuke",
+            "collections": "ARCHITECTURE",
+            "name": "Cloudy",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/30032021/thumbs/ryunosuke-kikuno-akUvlNtEyMg_compress31.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/30032021/walls/ryunosuke-kikuno-akUvlNtEyMg.jpg",
+            "resolution": "4016 x 6016",
+            "dominantColor": "#a8a6a8"
+      },
+      {
+            "author": "Ryunosuke",
+            "collections": "ARCHITECTURE",
+            "name": "Grad",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/30032021/thumbs/ryunosuke-kikuno-rTboJ1h65Yw_compress59.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/30032021/walls/ryunosuke-kikuno-rTboJ1h65Yw.jpg",
+            "resolution": "4024 x 6048",
+            "dominantColor": "#222222"
+      },
+      {
+            "author": "Ryunosuke",
+            "collections": "ARCHITECTURE",
+            "name": "BW",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/30032021/thumbs/ryunosuke-kikuno-ynslcTKEa7U_compress80.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/30032021/walls/ryunosuke-kikuno-ynslcTKEa7U.jpg",
+            "resolution": "4024 x 6048",
+            "dominantColor": "#6f6f6f"
+      },
+      {
+            "author": "Sirisvisual",
+            "collections": "ARCHITECTURE",
+            "name": "Color",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/30032021/thumbs/sirisvisual-mo0BJ4_AdQQ_compress18.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/30032021/walls/sirisvisual-mo0BJ4_AdQQ.jpg",
+            "resolution": "2667 x 4000",
+            "dominantColor": "#28202e"
+      },
+      {
+            "author": "Ryunosuke",
+            "collections": "SPACE",
+            "name": "night sky",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/30032021/thumbs/ryunosuke-kikuno-xhAtDW3UtKA_compress67.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/30032021/walls/ryunosuke-kikuno-xhAtDW3UtKA.jpg",
+            "resolution": "4024 x 6048",
+            "dominantColor": "#31455f"
+      },
+      {
             "author": "Akin",
             "collections": "AMOLED",
             "name": "Orn",
