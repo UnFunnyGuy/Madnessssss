@@ -1,5 +1,50 @@
 [
       {
+            "author": "Alex Loup",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/01042021/thumbs/alex-loup-9WTye7WtQHA_compress26.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/01042021/walls/alex-loup-9WTye7WtQHA.jpg",
+            "resolution": "2574 x 3861",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "Ryunosuke",
+            "collections": "ARCHITECTURE,UNSPLASH",
+            "name": "Bw",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/01042021/thumbs/ryunosuke-kikuno-VKjCfN5zYp8_compress23.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/01042021/walls/ryunosuke-kikuno-VKjCfN5zYp8.jpg",
+            "resolution": "3813 x 5712",
+            "dominantColor": "#100f0b"
+      },
+      {
+            "author": "Ryunosuke",
+            "collections": "ARCHITECTURE,UNSPLASH",
+            "name": "Bw",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/01042021/thumbs/ryunosuke-kikuno-fEN7k1Z4Jxg_compress97.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/01042021/walls/ryunosuke-kikuno-fEN7k1Z4Jxg.jpg",
+            "resolution": "3952 x 5920",
+            "dominantColor": "#071424"
+      },
+      {
+            "author": "Ryunosuke",
+            "collections": "ARCHITECTURE,UNSPLASH",
+            "name": "Orange",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/01042021/thumbs/ryunosuke-kikuno-Xk2K3BU1DLw_compress55.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/01042021/walls/ryunosuke-kikuno-Xk2K3BU1DLw.jpg",
+            "resolution": "4024 x 6048",
+            "dominantColor": "#ad4502"
+      },
+      {
+            "author": "Ryunosuke",
+            "collections": "ARCHITECTURE,UNSPLASH",
+            "name": "Arch606",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/01042021/thumbs/ryunosuke-kikuno-rIZXuDxcM-Y_compress94.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/01042021/walls/ryunosuke-kikuno-rIZXuDxcM-Y.jpg",
+            "resolution": "3790 x 5696",
+            "dominantColor": "#1a7f9b"
+      },
+      {
             "author": "Ryunosuke",
             "collections": "ARCHITECTURE",
             "name": "Cloudy",
