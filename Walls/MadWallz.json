@@ -1,5 +1,68 @@
 [
       {
+            "author": "Dynamic wang",
+            "collections": "SEA,UNSPLASH",
+            "name": "Sea12",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14042021/thumbs/dynamic-wang-8PppxyQr7QI_compress78.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14042021/walls/dynamic-wang-8PppxyQr7QI.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#1d2525"
+      },
+      {
+            "author": "Giorgi Irrmadze",
+            "collections": "MISC,UNSPLASH",
+            "name": "Windmill",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14042021/thumbs/giorgi-iremadze-eaYFhBYbRCA_compress39.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14042021/walls/giorgi-iremadze-eaYFhBYbRCA.jpg",
+            "resolution": "3648 x 5472",
+            "dominantColor": "#2b3131"
+      },
+      {
+            "author": "Mart berrios",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Mountain",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14042021/thumbs/mart%C3%ADn-berrios-NUoP2hki4sA_compress94.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14042021/walls/mart%C3%ADn-berrios-NUoP2hki4sA.jpg",
+            "resolution": "3862 x 5793",
+            "dominantColor": "#090e0d"
+      },
+      {
+            "author": "Mart berrios",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Mountain",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14042021/thumbs/mart%C3%ADn-berrios-U2UlVS_YOok_compress4.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14042021/walls/mart%C3%ADn-berrios-U2UlVS_YOok.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#030d0d"
+      },
+      {
+            "author": "Kenny gaines",
+            "collections": "AUTOMOBILES,UNSPLASH",
+            "name": "Ferrari",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14042021/thumbs/kenny-gaines-JjhbkFvI32g_compress45.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14042021/walls/kenny-gaines-JjhbkFvI32g.jpg",
+            "resolution": "3083 x 4316",
+            "dominantColor": "#920514"
+      },
+      {
+            "author": "William Chiesurin",
+            "collections": "AUTOMOBILES,UNSPLASH",
+            "name": "Ferrari",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14042021/thumbs/william-chiesurin-ZVgPUWC9Mjs_compress6.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14042021/walls/william-chiesurin-ZVgPUWC9Mjs.jpg",
+            "resolution": "4308 x 5385",
+            "dominantColor": "#c8d9d3"
+      },
+      {
+            "author": "William Chiesurin",
+            "collections": "AUTOMOBILES,UNSPLASH",
+            "name": "Ferrari",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14042021/thumbs/william-chiesurin-v4b5iq5tH3o_compress24.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/14042021/walls/william-chiesurin-v4b5iq5tH3o.jpg",
+            "resolution": "4480 x 5600",
+            "dominantColor": "#ebecec"
+      },
+      {
             "author": "Kenrick Mills",
             "collections": "NATURE",
             "name": "Leaf",
