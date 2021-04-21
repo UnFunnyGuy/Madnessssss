@@ -1,5 +1,95 @@
 [
       {
+            "author": "pawe",
+            "collections": "ABSTRACT",
+            "name": "red",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/thumbs/pawe%C5%82-czerwi%C5%84ski-KyQCLtL05NQ_compress82.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/walls/pawe%C5%82-czerwi%C5%84ski-KyQCLtL05NQ.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#14120e"
+      },
+      {
+            "author": "pawe",
+            "collections": "ABSTRACT",
+            "name": "Green",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/thumbs/pawe%C5%82-czerwi%C5%84ski-tVl3JdAO4Ac_compress5.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/walls/pawe%C5%82-czerwi%C5%84ski-tVl3JdAO4Ac.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#050602"
+      },
+      {
+            "author": "Durian Bullet",
+            "collections": "MISC",
+            "name": "Musc Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/thumbs/durian-bullet-VMX3_Ovv8B8_compress85.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/walls/durian-bullet-VMX3_Ovv8B8.jpg",
+            "resolution": "3023 x 4032",
+            "dominantColor": "#97b2c1"
+      },
+      {
+            "author": "Guille pozzi",
+            "collections": "ANIMALS",
+            "name": "Fox",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/thumbs/guille-pozzi--rQFG2huv8s_compress34.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/walls/guille-pozzi--rQFG2huv8s.jpg",
+            "resolution": "1920 x 2880",
+            "dominantColor": "#8c8587"
+      },
+      {
+            "author": "Jesse Martini",
+            "collections": "ARCHITECTURE",
+            "name": "Arc611",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/thumbs/jesse-martini-fL8aerBLvac_compress71.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/walls/jesse-martini-fL8aerBLvac.jpg",
+            "resolution": "3579 x 5369",
+            "dominantColor": "#f2f5f9"
+      },
+      {
+            "author": "Klim musalimov",
+            "collections": "ARCHITECTURE",
+            "name": "Arc612",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/thumbs/klim-musalimov-4oVxcOAQD3I_compress12.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/walls/klim-musalimov-4oVxcOAQD3I.jpg",
+            "resolution": "3436 x 5155",
+            "dominantColor": "#070606"
+      },
+      {
+            "author": "Maksym",
+            "collections": "ARCHITECTURE",
+            "name": "Arc613",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/thumbs/maksym-tymchyk-yyrbFPOrUfw_compress0.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/walls/maksym-tymchyk-yyrbFPOrUfw.jpg",
+            "resolution": "5409 x 3606",
+            "dominantColor": "#a7b4b2"
+      },
+      {
+            "author": "Marina Reich",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Flower",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/thumbs/marina-reich-0xoZQI0LCkA_compress59.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/walls/marina-reich-0xoZQI0LCkA.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#1d3813"
+      },
+      {
+            "author": "Marina Reich",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Leafs",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/thumbs/marina-reich-LtZXl4TGVvQ_compress49.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/walls/marina-reich-LtZXl4TGVvQ.jpg",
+            "resolution": "6000 x 4000",
+            "dominantColor": "#0d1107"
+      },
+      {
+            "author": "Marina Reich",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Flowers",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/thumbs/marina-reich-cOQvLoNhCfQ_compress49.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/21042021/walls/marina-reich-cOQvLoNhCfQ.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#070e05"
+      },
+      {
             "author": "Dynamic wang",
             "collections": "SEA,UNSPLASH",
             "name": "Sea12",
@@ -749,7 +839,7 @@
       {
             "author": "r-Amoledbackgrounds",
             "collections": "AMOLED",
-            "name": "What?",
+            "name": "What",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/20032021/thumbs/qv1ka15wrim61_compress33.jpg",
             "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/20032021/walls/qv1ka15wrim61.png",
             "resolution": "1440 x 2567",
