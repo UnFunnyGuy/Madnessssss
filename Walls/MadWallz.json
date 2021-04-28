@@ -1,5 +1,68 @@
 [
       {
+            "author": "Alvan nee",
+            "collections": "ANIMALS,UNSPLASH",
+            "name": "kitty",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28042021/thumbs/alvan-nee-ZCHj_2lJP00_compress77.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28042021/walls/alvan-nee-ZCHj_2lJP00.jpg",
+            "resolution": "5304 x 7952",
+            "dominantColor": "#b5dcdb"
+      },
+      {
+            "author": "Christian",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Mountains",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28042021/thumbs/christian-garcia-eDywxYyQ1CY_compress89.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28042021/walls/christian-garcia-eDywxYyQ1CY.jpg",
+            "resolution": "3648 x 5472",
+            "dominantColor": "#b0bec8"
+      },
+      {
+            "author": "Daniil Silantev",
+            "collections": "AMOLED",
+            "name": "SPACE",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28042021/thumbs/daniil-silantev-9R6NwFop9fs_compress35.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28042021/walls/daniil-silantev-9R6NwFop9fs.jpg",
+            "resolution": "3405 x 5108",
+            "dominantColor": "#010307"
+      },
+      {
+            "author": "Long Truong",
+            "collections": "NATURE",
+            "name": "Gradient",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28042021/thumbs/long-truong-mOLZl8tRemk_compress75.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28042021/walls/long-truong-mOLZl8tRemk.jpg",
+            "resolution": "3545 x 5317",
+            "dominantColor": "#bab3dc"
+      },
+      {
+            "author": "Sasha pleshco",
+            "collections": "ARCHITECTURE",
+            "name": "Gradient",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28042021/thumbs/sasha-pleshco-Af63VGqaU2s_compress39.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28042021/walls/sasha-pleshco-Af63VGqaU2s.jpg",
+            "resolution": "3024 x 4288",
+            "dominantColor": "#f5c179"
+      },
+      {
+            "author": "White",
+            "collections": "ARCHITECTURE",
+            "name": "Arch614",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28042021/thumbs/white-XDrH3YFhE10_compress82.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28042021/walls/white-XDrH3YFhE10.jpg",
+            "resolution": "3509 x 5263",
+            "dominantColor": "#d2e0e6"
+      },
+      {
+            "author": "Sasha pleshco",
+            "collections": "NATURE",
+            "name": "Idk",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28042021/thumbs/sasha-pleshco-Lhq_X6zSbeA_compress31.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/28042021/walls/sasha-pleshco-Lhq_X6zSbeA.jpg",
+            "resolution": "3024 x 4032",
+            "dominantColor": "#0a0a0f"
+      },
+      {
             "author": "pawe",
             "collections": "ABSTRACT",
             "name": "red",
