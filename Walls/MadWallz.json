@@ -1,5 +1,68 @@
 [
       {
+            "author": "Brennan",
+            "collections": "ARCHITECTURE,UNSPLASH",
+            "name": "Arch615",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02052021/thumbs/brennan-h-U_28Go0NL-A_compress92.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02052021/walls/brennan-h-U_28Go0NL-A.jpg",
+            "resolution": "3024 x 4032",
+            "dominantColor": "#eff5f9"
+      },
+      {
+            "author": "Jordi Moncasi",
+            "collections": "ARCHITECTURE,UNSPLASH",
+            "name": "Arch616",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02052021/thumbs/jordi-moncasi-jicEdkcmxI8_compress76.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02052021/walls/jordi-moncasi-jicEdkcmxI8.jpg",
+            "resolution": "3017 x 4110",
+            "dominantColor": "#bac0c0"
+      },
+      {
+            "author": "Klim Musalimov",
+            "collections": "ARCHITECTURE,UNSPLASH",
+            "name": "Arch617",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02052021/thumbs/klim-musalimov-pw-BkIYqnfo_compress3.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02052021/walls/klim-musalimov-pw-BkIYqnfo.jpg",
+            "resolution": "3780 x 5439",
+            "dominantColor": "#0f1011"
+      },
+      {
+            "author": "Colin Lloyd",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Mnml",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02052021/thumbs/colin-lloyd-G_xLtugMCEk_compress99.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02052021/walls/colin-lloyd-G_xLtugMCEk.jpg",
+            "resolution": "3713 x 5581",
+            "dominantColor": "#cead9b"
+      },
+      {
+            "author": "Vinicius",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Mnml",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02052021/thumbs/vin%C3%ADcius-henrique-photography-RQ-saBd2YBY_compress34.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02052021/walls/vin%C3%ADcius-henrique-photography-RQ-saBd2YBY.jpg",
+            "resolution": "3456 x 4608",
+            "dominantColor": "#02b3c4"
+      },
+      {
+            "author": "Colin Lloyd",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Mnml",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02052021/thumbs/colin-lloyd-rM-rzoHusAU_compress67.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02052021/walls/colin-lloyd-rM-rzoHusAU.jpg",
+            "resolution": "3932 x 5910",
+            "dominantColor": "#33525f"
+      },
+      {
+            "author": "Khashayar kouchpeydeh",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Mnml",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02052021/thumbs/khashayar-kouchpeydeh-Nx2djwRZxWU_compress23.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/02052021/walls/khashayar-kouchpeydeh-Nx2djwRZxWU.jpg",
+            "resolution": "2619 x 4656",
+            "dominantColor": "#001219"
+      },
+      {
             "author": "Alvan nee",
             "collections": "ANIMALS,UNSPLASH",
             "name": "kitty",
