@@ -1,5 +1,86 @@
 [
       {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "Abstract45",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/05052021/thumbs/4h9t8bvgtzw61_compress63.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/05052021/walls/4h9t8bvgtzw61.png",
+            "resolution": "1299 x 2813",
+            "dominantColor": "#030304"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "Abstract46",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/05052021/thumbs/fss2tNs_compress94.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/05052021/walls/fss2tNs.jpeg",
+            "resolution": "1125 x 2000",
+            "dominantColor": "#020103"
+      },
+      {
+            "author": "unknown",
+            "collections": "ANIME,AMOLED",
+            "name": "Death Note",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/05052021/thumbs/5zt4qa67xyw61_compress30.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/05052021/walls/5zt4qa67xyw61.png",
+            "resolution": "1440 x 3040",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "unknown",
+            "collections": "ANIME,AMOLED",
+            "name": "Anime Girl",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/05052021/thumbs/jrpjecf3r5v61_compress33.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/05052021/walls/jrpjecf3r5v61.png",
+            "resolution": "1440 x 3120",
+            "dominantColor": "#010001"
+      },
+      {
+            "author": "unknown",
+            "collections": "ANIME,AMOLED",
+            "name": "Shinobu",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/05052021/thumbs/w3sursxmcdw61_compress17.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/05052021/walls/w3sursxmcdw61.jpeg",
+            "resolution": "1876 x 4168",
+            "dominantColor": "#000001"
+      },
+      {
+            "author": "unknown",
+            "collections": "SPACE,AMOLED",
+            "name": "Red Planet",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/05052021/thumbs/8au06jo8f1x61_compress54.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/05052021/walls/8au06jo8f1x61.jpeg",
+            "resolution": "736 x 1594",
+            "dominantColor": "#010101"
+      },
+      {
+            "author": "unknown",
+            "collections": "GAMES,AMOLED",
+            "name": "Cyber Punk",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/05052021/thumbs/gpybxadjsww61_compress29.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/05052021/walls/gpybxadjsww61.jpeg",
+            "resolution": "2160 x 3840",
+            "dominantColor": "#010000"
+      },
+      {
+            "author": "unknown",
+            "collections": "GAMES,AMOLED",
+            "name": "Sub Zero",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/05052021/thumbs/lvus2i1cnxw61_compress87.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/05052021/walls/lvus2i1cnxw61.jpeg",
+            "resolution": "2160 x 3840",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED",
+            "name": "Nothing",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/05052021/thumbs/w05tvv8un5x61_compress59.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/05052021/walls/w05tvv8un5x61.png",
+            "resolution": "1440 x 3040",
+            "dominantColor": "#000000"
+      },
+      {
             "author": "Brennan",
             "collections": "ARCHITECTURE,UNSPLASH",
             "name": "Arch615",
