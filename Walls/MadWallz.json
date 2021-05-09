@@ -1,5 +1,86 @@
 [
       {
+            "author": "Eberhard",
+            "collections": "NATURE",
+            "name": "Flower",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08052021/thumbs/eberhard-grossgasteiger-3qV-iSH7NKY_compress48.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08052021/walls/eberhard-grossgasteiger-3qV-iSH7NKY.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#080706"
+      },
+      {
+            "author": "Eberhard",
+            "collections": "NATURE",
+            "name": "Flower",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08052021/thumbs/eberhard-grossgasteiger-bKqs58DTdso_compress29.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08052021/walls/eberhard-grossgasteiger-bKqs58DTdso.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#090908"
+      },
+      {
+            "author": "Klim musalimov",
+            "collections": "NATURE",
+            "name": "Yellowish",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08052021/thumbs/klim-musalimov-bHV4FDc-ljA_compress27.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08052021/walls/klim-musalimov-bHV4FDc-ljA.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#10100d"
+      },
+      {
+            "author": "Leandra Rieger",
+            "collections": "NATURE",
+            "name": "Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08052021/thumbs/leandra-rieger-DYH7NbMrXY0_compress30.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08052021/walls/leandra-rieger-DYH7NbMrXY0.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#090604"
+      },
+      {
+            "author": "Leandra Rieger",
+            "collections": "NATURE",
+            "name": "Moon",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08052021/thumbs/leandra-rieger-31p65jYy7gE_compress87.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08052021/walls/leandra-rieger-31p65jYy7gE.jpg",
+            "resolution": "3894 x 5841",
+            "dominantColor": "#646373"
+      },
+      {
+            "author": "Ekmeds",
+            "collections": "SEA",
+            "name": "Beach",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08052021/thumbs/ekmeds-photos-FtqeneabhBc_compress27.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08052021/walls/ekmeds-photos-FtqeneabhBc.jpg",
+            "resolution": "2992 x 3740",
+            "dominantColor": "#027b85"
+      },
+      {
+            "author": "Fahrul azmi",
+            "collections": "ARCHITECTURE",
+            "name": "Ark",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08052021/thumbs/fahrul-azmi-Pq4L1JqBu1k_compress53.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08052021/walls/fahrul-azmi-Pq4L1JqBu1k.jpg",
+            "resolution": "3024 x 4032",
+            "dominantColor": "#0f1113"
+      },
+      {
+            "author": "Jonas jaeken",
+            "collections": "ARCHITECTURE",
+            "name": "Ark",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08052021/thumbs/jonas-jaeken-mMKs61ObGU0_compress74.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08052021/walls/jonas-jaeken-mMKs61ObGU0.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#527f95"
+      },
+      {
+            "author": "Klim musalimov",
+            "collections": "ARCHITECTURE",
+            "name": "bw",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08052021/thumbs/klim-musalimov-RY10suL58sw_compress72.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main2/DB/08052021/walls/klim-musalimov-RY10suL58sw.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#b5b4b4"
+      },
+      {
             "author": "unknown",
             "collections": "ABSTRACT",
             "name": "Abstract45",
