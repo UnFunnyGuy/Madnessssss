@@ -1,5 +1,77 @@
 [
       {
+            "author": "Eberhard Grossgasteiger",
+            "collections": "SPACE",
+            "name": "Night sky",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/thumbs/eberhard-grossgasteiger-BZdZNZ9c2Ac_compress40.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/walls/eberhard-grossgasteiger-BZdZNZ9c2Ac.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#1a1a1c"
+      },
+      {
+            "author": "Evi",
+            "collections": "NATURE, UNSPLASH",
+            "name": "Eve",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/thumbs/evi-t.-9Gs0qk9Z3WU_compress89.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/walls/evi-t.-9Gs0qk9Z3WU.jpg",
+            "resolution": "5184 x 3456",
+            "dominantColor": "#26221e"
+      },
+      {
+            "author": "Jules marchioni",
+            "collections": "NATURE, UNSPLASH",
+            "name": "Eve",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/thumbs/jules-marchioni-Gpl1T0-aa3s_compress69.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/walls/jules-marchioni-Gpl1T0-aa3s.jpg",
+            "resolution": "3264 x 4928",
+            "dominantColor": "#a34017"
+      },
+      {
+            "author": "Gary scott",
+            "collections": "NATURE, UNSPLASH",
+            "name": "Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/thumbs/gary-scott-YSaA_oHTxs0_compress75.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/walls/gary-scott-YSaA_oHTxs0.jpg",
+            "resolution": "2667 x 4000",
+            "dominantColor": "#060704"
+      },
+      {
+            "author": "Krystal ng",
+            "collections": "NATURE, UNSPLASH",
+            "name": "Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/thumbs/krystal-ng-O07o2Cd_vX0_compress26.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/walls/krystal-ng-O07o2Cd_vX0.jpg",
+            "resolution": "3264 x 4896",
+            "dominantColor": "#050303"
+      },
+      {
+            "author": "Josh calabrese",
+            "collections": "NATURE, UNSPLASH",
+            "name": "Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/thumbs/josh-calabrese-VSNsPUMREEU_compress78.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/walls/josh-calabrese-VSNsPUMREEU.jpg",
+            "resolution": "5199 x 3466",
+            "dominantColor": "#020a05"
+      },
+      {
+            "author": "Ibrahim Mohamed",
+            "collections": "SEA,NATURE, UNSPLASH",
+            "name": "Maldives",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/thumbs/ibrahim-mohamed-V9eUlLh4CpE_compress57.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/walls/ibrahim-mohamed-V9eUlLh4CpE.jpg",
+            "resolution": "2529 x 3648",
+            "dominantColor": "#01274a"
+      },
+      {
+            "author": "Kristaps ungurs",
+            "collections": "SEA,NATURE, UNSPLASH",
+            "name": "Lake",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/thumbs/kristaps-ungurs-DJZSUHyS0vk_compress19.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/walls/kristaps-ungurs-DJZSUHyS0vk.jpg",
+            "resolution": "3247 x 5195",
+            "dominantColor": "#344133"
+      },
+      {
             "author": "Matosem",
             "collections": "ARCHITECTURE",
             "name": "Arc619",
