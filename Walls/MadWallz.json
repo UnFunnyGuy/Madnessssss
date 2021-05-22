@@ -1,5 +1,59 @@
 [
       {
+            "author": "Krystal ng",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Flower",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/thumbs/krystal-ng-xB5ncJNPBAU_compress96.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/walls/krystal-ng-xB5ncJNPBAU.jpg",
+            "resolution": "3264 x 4896",
+            "dominantColor": "#070a04"
+      },
+      {
+            "author": "Mike vidrashiko",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/thumbs/mike-vidrashko-4dhSFeg1pkU_compress87.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/walls/mike-vidrashko-4dhSFeg1pkU.jpg",
+            "resolution": "3072 x 4096",
+            "dominantColor": "#171816"
+      },
+      {
+            "author": "Louis Droege",
+            "collections": "SEA,UNSPLASH",
+            "name": "Boat",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/thumbs/louis-droege-nT9jadSJQvk_compress91.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/walls/louis-droege-nT9jadSJQvk.jpg",
+            "resolution": "2932 x 4398",
+            "dominantColor": "#79bac6"
+      },
+      {
+            "author": "Mike vab den bos",
+            "collections": "ANIMALS",
+            "name": "Lion",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/thumbs/mike-van-den-bos-7HKdb6i3afk_compress41.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/walls/mike-van-den-bos-7HKdb6i3afk.jpg",
+            "resolution": "4024 x 6048",
+            "dominantColor": "#030303"
+      },
+      {
+            "author": "Pawel Czerwinski",
+            "collections": "ABSTRACT",
+            "name": "Blue",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/thumbs/pawel-czerwinski-F62HhUiaiSU_compress25.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/walls/pawel-czerwinski-F62HhUiaiSU.jpg",
+            "resolution": "3366 x 5049",
+            "dominantColor": "#050704"
+      },
+      {
+            "author": "Pawel Czerwinski",
+            "collections": "ABSTRACT",
+            "name": "Red",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/thumbs/pawel-czerwinski-aHvrE9nYess_compress5.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/19052021/walls/pawel-czerwinski-aHvrE9nYess.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#9f3127"
+      },
+      {
             "author": "Eberhard Grossgasteiger",
             "collections": "SPACE",
             "name": "Night sky",
