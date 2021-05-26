@@ -1,5 +1,68 @@
 [
       {
+            "author": "Austin wilcox",
+            "collections": "ARCHITECTURE,CITY",
+            "name": "Broad",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/260521/thumbs/austin-wilcox-t29g5nZXGj0_compress76.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/260521/walls/austin-wilcox-t29g5nZXGj0.jpg",
+            "resolution": "2308 x 3462",
+            "dominantColor": "#b1b5b4"
+      },
+      {
+            "author": "Mika baumeister",
+            "collections": "ARCHITECTURE,CITY",
+            "name": "Vibrant",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/260521/thumbs/mika-baumeister-9HmoYM303Vk_compress72.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/260521/walls/mika-baumeister-9HmoYM303Vk.jpg",
+            "resolution": "4000 x 5000",
+            "dominantColor": "#d0d9e9"
+      },
+      {
+            "author": "Upal patel",
+            "collections": "ARCHITECTURE",
+            "name": "Mall",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/260521/thumbs/upal-patel--yzmQhFailo_compress74.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/260521/walls/upal-patel--yzmQhFailo.jpg",
+            "resolution": "1920 x 2880",
+            "dominantColor": "#161a1c"
+      },
+      {
+            "author": "Jobas jaken",
+            "collections": "AUTOMOBILES",
+            "name": "Classic",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/260521/thumbs/jonas-jaeken-XutWkrhvYV4_compress35.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/260521/walls/jonas-jaeken-XutWkrhvYV4.jpg",
+            "resolution": "3620 x 5430",
+            "dominantColor": "#021011"
+      },
+      {
+            "author": "Jobas jaken",
+            "collections": "MISC",
+            "name": "Train",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/260521/thumbs/jonas-jaeken-am1UPM--FKQ_compress34.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/260521/walls/jonas-jaeken-am1UPM--FKQ.jpg",
+            "resolution": "3931 x 5897",
+            "dominantColor": "#e0ece4"
+      },
+      {
+            "author": "Krystal",
+            "collections": "NATURE",
+            "name": "Green",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/260521/thumbs/krystal-ng-jRp60R7ogNQ_compress51.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/260521/walls/krystal-ng-jRp60R7ogNQ.jpg",
+            "resolution": "3264 x 4896",
+            "dominantColor": "#070705"
+      },
+      {
+            "author": "Polina kuzovkova",
+            "collections": "NATURE",
+            "name": "Green",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/260521/thumbs/polina-kuzovkova-5-lofBQS_LE_compress75.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/260521/walls/polina-kuzovkova-5-lofBQS_LE.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#202114"
+      },
+      {
             "author": "Krystal ng",
             "collections": "NATURE,UNSPLASH",
             "name": "Flower",
