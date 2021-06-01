@@ -1,5 +1,50 @@
 [
       {
+            "author": "unknown",
+            "collections": "AMOLED",
+            "name": "Skull",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/thumbs/0tcyfd9078271_compress36.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/walls/0tcyfd9078271.png",
+            "resolution": "2160 x 4800",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED",
+            "name": "Geo",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/walls/6xwfmatub8271.png",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/walls/6xwfmatub8271.png",
+            "resolution": "2160 x 4800",
+            "dominantColor": "#010101"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED",
+            "name": "Arabic",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/walls/8irj5zf50w151.png",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/walls/8irj5zf50w151.png",
+            "resolution": "1440 x 2960",
+            "dominantColor": "#000101"
+      },
+      {
+            "author": "unknown",
+            "collections": "ANIME",
+            "name": "Gojo Satoru",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/thumbs/Gojo%20Satoru_compress82.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/walls/Gojo%20Satoru.jpg",
+            "resolution": "1080 x 2340",
+            "dominantColor": "#160a11"
+      },
+      {
+            "author": "unknown",
+            "collections": "ANIME",
+            "name": "Gojo Satoru",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/thumbs/Gojo_compress22.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/walls/Gojo.jpg",
+            "resolution": "1025 x 2220",
+            "dominantColor": "#131227"
+      },
+      {
             "author": "Austin wilcox",
             "collections": "ARCHITECTURE,CITY",
             "name": "Broad",
