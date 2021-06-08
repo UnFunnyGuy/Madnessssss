@@ -1,6 +1,51 @@
 [
       {
             "author": "unknown",
+            "collections": "NATURE,MISC",
+            "name": "Art",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/thumbs/SRX%20UI%20384_compress20.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/walls/SRX%20UI%20384.PNG",
+            "resolution": "2944 x 5232",
+            "dominantColor": "#0d1319"
+      },
+      {
+            "author": "unknown",
+            "collections": "SPACE",
+            "name": "Art",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/thumbs/Saturn-day_t3_lufzl6_amoled_droidheat~2_compress38.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/walls/Saturn-day_t3_lufzl6_amoled_droidheat~2.png",
+            "resolution": "3120 x 3120",
+            "dominantColor": "#090910"
+      },
+      {
+            "author": "unknown",
+            "collections": "PATTERN",
+            "name": "x",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/thumbs/image3A480453_mirror_compress66.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/walls/image3A480453_mirror.png",
+            "resolution": "2541 x 5506",
+            "dominantColor": "#16171c"
+      },
+      {
+            "author": "unknown",
+            "collections": "PATTERN",
+            "name": "x",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/thumbs/pwkovmiub8271_compress23.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/walls/pwkovmiub8271.png",
+            "resolution": "2160 x 4800",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "unknown",
+            "collections": "AUTOMOBILES",
+            "name": "F",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/thumbs/owlkkhy2qd271_compress33.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/walls/owlkkhy2qd271.png",
+            "resolution": "1080 x 1920",
+            "dominantColor": "#000001"
+      },
+      {
+            "author": "unknown",
             "collections": "AMOLED",
             "name": "Skull",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/thumbs/0tcyfd9078271_compress36.jpg",
