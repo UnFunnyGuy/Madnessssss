@@ -1,6 +1,51 @@
 [
       {
             "author": "unknown",
+            "collections": "ARCHITECTURE",
+            "name": "Gradient",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/thumbs/caf5yz3mqx471_compress98.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/walls/caf5yz3mqx471.png",
+            "resolution": "2563 x 5929",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "unknown",
+            "collections": "ARCHITECTURE",
+            "name": "Gradient",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/thumbs/dmitriy-akopov-c6PpDOqmwQM_compress5.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/walls/dmitriy-akopov-c6PpDOqmwQM.jpg",
+            "resolution": "3456 x 5184",
+            "dominantColor": "#020000"
+      },
+      {
+            "author": "unknown",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/thumbs/helen-ngoc-n.-yLjXuZqM7CI_compress11.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/walls/helen-ngoc-n.-yLjXuZqM7CI.jpg",
+            "resolution": "4442 x 6663",
+            "dominantColor": "#0b0b0a"
+      },
+      {
+            "author": "unknown",
+            "collections": "MISC",
+            "name": "Sky",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/thumbs/j-lee-6oKaUINVMSY_compress65.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/walls/j-lee-6oKaUINVMSY.jpg",
+            "resolution": "2000 x 3000",
+            "dominantColor": "#add3da"
+      },
+      {
+            "author": "unknown",
+            "collections": "MISC",
+            "name": "Mountain road",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/thumbs/jack-anstey-zS4lUqLEiNA_compress96.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/walls/jack-anstey-zS4lUqLEiNA.jpg",
+            "resolution": "3992 x 2992",
+            "dominantColor": "#1d1b19"
+      },
+      {
+            "author": "unknown",
             "collections": "NATURE,MISC",
             "name": "Art",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/010621/thumbs/SRX%20UI%20384_compress20.jpg",
