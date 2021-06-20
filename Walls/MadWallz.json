@@ -1,6 +1,78 @@
 [
       {
             "author": "unknown",
+            "collections": "AUTOMOBILES",
+            "name": "Benz",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/thumbs/roland-denes-_JzO0uwwVYA_compress61.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/walls/roland-denes-_JzO0uwwVYA.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#0b0909"
+      },
+      {
+            "author": "unknown",
+            "collections": "AUTOMOBILES",
+            "name": "Benz",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/thumbs/roland-denes-bWKr460GvKQ_compress60.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/walls/roland-denes-bWKr460GvKQ.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#13120f"
+      },
+      {
+            "author": "unknown",
+            "collections": "AUTOMOBILES",
+            "name": "Benz",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/thumbs/roland-denes-gFLEMnR09NI_compress26.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/walls/roland-denes-gFLEMnR09NI.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#071c1c"
+      },
+      {
+            "author": "unknown",
+            "collections": "ARCHITECTURE",
+            "name": "Mnml",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/walls/sasha-yudaev-5t3SBRsdouQ.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/thumbs/sasha-yudaev-5t3SBRsdouQ_compress33.jpg",
+            "resolution": "1000 x 1500",
+            "dominantColor": "#99a0a6"
+      },
+      {
+            "author": "unknown",
+            "collections": "ARCHITECTURE",
+            "name": "Mnml",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/thumbs/sasha-yudaev-IndnIWgUp3g_compress6.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/walls/sasha-yudaev-IndnIWgUp3g.jpg",
+            "resolution": "3879 x 4847",
+            "dominantColor": "#0d1217"
+      },
+      {
+            "author": "unknown",
+            "collections": "ARCHITECTURE",
+            "name": "Mnml",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/thumbs/sasha-yudaev-f94-vZ0wAUo_compress57.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/walls/sasha-yudaev-f94-vZ0wAUo.jpg",
+            "resolution": "3048 x 3810",
+            "dominantColor": "#040b11"
+      },
+      {
+            "author": "unknown",
+            "collections": "NATURE",
+            "name": "Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/thumbs/vino-li-35T276kaCqA_compress19.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/walls/vino-li-35T276kaCqA.jpg",
+            "resolution": "3648 x 5472",
+            "dominantColor": "#090607"
+      },
+      {
+            "author": "unknown",
+            "collections": "MISC",
+            "name": "Guitar",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/thumbs/visualsofdana-Dm4Uc78Vs50_compress62.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/walls/visualsofdana-Dm4Uc78Vs50.jpg",
+            "resolution": "2892 x 4338",
+            "dominantColor": "#0f181d"
+      },
+      {
+            "author": "unknown",
             "collections": "ARCHITECTURE",
             "name": "Gradient",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/thumbs/caf5yz3mqx471_compress98.jpg",
