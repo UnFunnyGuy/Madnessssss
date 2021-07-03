@@ -1,6 +1,60 @@
 [
       {
             "author": "unknown",
+            "collections": "MISC",
+            "name": "Ice",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/annie-spratt-d8FjB1_8xHQ_compress52.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/annie-spratt-d8FjB1_8xHQ.jpg",
+            "resolution": "2992 x 3992",
+            "dominantColor": "#0b0c0d"
+      },
+      {
+            "author": "unknown",
+            "collections": "MISC",
+            "name": "Mountain",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/daniele-colucci-jqluM4rYQQU_compress24.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/daniele-colucci-jqluM4rYQQU.jpg",
+            "resolution": "3240 x 4050",
+            "dominantColor": "#2a272e"
+      },
+      {
+            "author": "unknown",
+            "collections": "MISC",
+            "name": "Mountain",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/dustin-humes-l3HNetoCqFY_compress19.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/dustin-humes-l3HNetoCqFY.jpg",
+            "resolution": "5594 x 4160",
+            "dominantColor": "#ddabd6"
+      },
+      {
+            "author": "unknown",
+            "collections": "ARCHITECTURE",
+            "name": "Arch C1",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/hester-qiang-gzVfpQXCpw0_compress11.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/hester-qiang-gzVfpQXCpw0.jpg",
+            "resolution": "3024 x 3780",
+            "dominantColor": "#cbcad0"
+      },
+      {
+            "author": "unknown",
+            "collections": "SEA",
+            "name": "Beach",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/husen-siraaj-BiHfBK0vhg0_compress9.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/husen-siraaj-BiHfBK0vhg0.jpg",
+            "resolution": "2619 x 3898",
+            "dominantColor": "#060b14"
+      },
+      {
+            "author": "unknown",
+            "collections": "SEA",
+            "name": "Sunset",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/kevin-wong-eBKG7lQzq5I_compress14.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/kevin-wong-eBKG7lQzq5I.jpg",
+            "resolution": "2690 x 3363",
+            "dominantColor": "#f4b05b"
+      },
+      {
+            "author": "unknown",
             "collections": "AUTOMOBILES",
             "name": "Benz",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/16062021/thumbs/roland-denes-_JzO0uwwVYA_compress61.jpg",
