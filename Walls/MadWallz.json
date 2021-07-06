@@ -1,6 +1,60 @@
 [
       {
             "author": "unknown",
+            "collections": "NATURE",
+            "name": "leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/liubov-ilchuk-xHfWl35OOsg_compress83.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/liubov-ilchuk-xHfWl35OOsg.jpg",
+            "resolution": "3036 x 4512",
+            "dominantColor": "#191a10"
+      },
+      {
+            "author": "unknown",
+            "collections": "NATURE",
+            "name": "Mountain Road",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/lucian-alexe-Aa9VA9DxOto_compress88.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/lucian-alexe-Aa9VA9DxOto.jpg",
+            "resolution": "3024 x 4032",
+            "dominantColor": "#6e5824"
+      },
+      {
+            "author": "unknown",
+            "collections": "NATURE",
+            "name": "Mountain Road",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/marek-piwnicki-gA2i_h4XRJU_compress75.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/marek-piwnicki-gA2i_h4XRJU.jpg",
+            "resolution": "5161 x 2903",
+            "dominantColor": "#081112"
+      },
+      {
+            "author": "unknown",
+            "collections": "NATURE",
+            "name": "Mountain",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/marek-piwnicki-ssKRNG1ReTo_compress57.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/marek-piwnicki-ssKRNG1ReTo.jpg",
+            "resolution": "4837 x 3023",
+            "dominantColor": "#9f9db1"
+      },
+      {
+            "author": "unknown",
+            "collections": "NATURE",
+            "name": "mnml",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/michael-milverton-Le4yqbCMoJo_compress28.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/michael-milverton-Le4yqbCMoJo.jpg",
+            "resolution": "4256 x 2394",
+            "dominantColor": "#f9f9f9"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "abstract",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/pawel-czerwinski-0ZFgxlNpbJM_compress97.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/pawel-czerwinski-0ZFgxlNpbJM.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#0e2e4a"
+      },
+      {
+            "author": "unknown",
             "collections": "MISC",
             "name": "Ice",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/annie-spratt-d8FjB1_8xHQ_compress52.jpg",
