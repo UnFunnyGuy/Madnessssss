@@ -1,6 +1,78 @@
 [
       {
             "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "Abstract 345",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/solen-feyissa-LVFaCF4FQhg_compress11.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/solen-feyissa-LVFaCF4FQhg.jpg",
+            "resolution": "2735 x 4100",
+            "dominantColor": "#ab2609"
+      },
+      {
+            "author": "unknown",
+            "collections": "SEA,UNSPLASH",
+            "name": "Sunset",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/steven-pahel-Ln_xaE9dCco_compress28.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/steven-pahel-Ln_xaE9dCco.jpg",
+            "resolution": "4457 x 5571",
+            "dominantColor": "#222d33"
+      },
+      {
+            "author": "unknown",
+            "collections": "UNSPLASH,SPACE",
+            "name": "Sky",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/tesson-thaliath-78B_asQgBJ4_compress35.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/tesson-thaliath-78B_asQgBJ4.jpg",
+            "resolution": "5304 x 7952",
+            "dominantColor": "#0e1923"
+      },
+      {
+            "author": "unknown",
+            "collections": "UNSPLASH,NATURE",
+            "name": "heaven 2.0",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/thomas-fatin-onL8m59LEoI_compress18.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/thomas-fatin-onL8m59LEoI.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#030c19"
+      },
+      {
+            "author": "unknown",
+            "collections": "UNSPLASH,NATURE",
+            "name": "heaven 2.0",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/vincent-ledvina-LaUJjgnUZMQ_compress50.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/vincent-ledvina-LaUJjgnUZMQ.jpg",
+            "resolution": "5304 x 6625",
+            "dominantColor": "#5d678e"
+      },
+      {
+            "author": "unknown",
+            "collections": "ARCHITECTURE",
+            "name": "Arc675",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/tesson-thaliath-T37GMvi5R7E_compress21.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/tesson-thaliath-T37GMvi5R7E.jpg",
+            "resolution": "5304 x 7952",
+            "dominantColor": "#039dd5"
+      },
+      {
+            "author": "unknown",
+            "collections": "AUTOMOBILES",
+            "name": "Red",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/tesson-thaliath-xP5oT-ECqQ0_compress78.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/tesson-thaliath-xP5oT-ECqQ0.jpg",
+            "resolution": "4036 x 6054",
+            "dominantColor": "#d2cdc5"
+      },
+      {
+            "author": "unknown",
+            "collections": "AUTOMOBILES",
+            "name": "Red",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/tesson-thaliath-zLviqsr59pY_compress68.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/walls/tesson-thaliath-zLviqsr59pY.jpg",
+            "resolution": "3973 x 5959",
+            "dominantColor": "#f6e9c9"
+      },
+      {
+            "author": "unknown",
             "collections": "NATURE",
             "name": "leaf",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/030721/thumbs/liubov-ilchuk-xHfWl35OOsg_compress83.jpg",
