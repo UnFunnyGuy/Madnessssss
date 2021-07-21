@@ -1,5 +1,86 @@
 [
       {
+            "author": "annie-spratt",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/210721/thumbs/annie-spratt-G_lkmZno14c_compress26.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/210721/walls/annie-spratt-G_lkmZno14c-1.jpg",
+            "resolution": "8256 x 5504",
+            "dominantColor": "#0a0f0b"
+      },
+      {
+            "author": "sahaj-patel",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/210721/thumbs/sahaj-patel-guFTwi86J84_compress11.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/210721/walls/sahaj-patel-guFTwi86J84.jpg",
+            "resolution": "2087 x 3070",
+            "dominantColor": "#0a0f09"
+      },
+      {
+            "author": "benjamin-suter",
+            "collections": "SEA,UNSPLASH",
+            "name": "Cliff",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/210721/thumbs/benjamin-suter-vdUIUepvY-E_compress8.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/210721/walls/benjamin-suter-vdUIUepvY-E.jpg",
+            "resolution": "5304 x 6630",
+            "dominantColor": "#c2bdba"
+      },
+      {
+            "author": "corsin-taisch",
+            "collections": "MISC,UNSPLASH",
+            "name": "Country Side",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/210721/thumbs/corsin-taisch-nSGP_gALEC0_compress97.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/210721/walls/corsin-taisch-nSGP_gALEC0.jpg",
+            "resolution": "2800 x 3500",
+            "dominantColor": "#563711"
+      },
+      {
+            "author": "elijah-pilchard",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/210721/thumbs/elijah-pilchard-2AuFcrkSiOY_compress80.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/210721/walls/elijah-pilchard-2AuFcrkSiOY.jpg",
+            "resolution": "2187 x 3888",
+            "dominantColor": "#0a0b03"
+      },
+      {
+            "author": "elijah-pilchard",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Flower",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/210721/thumbs/elijah-pilchard-r4ihw3rTYd8_compress31.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/210721/walls/elijah-pilchard-r4ihw3rTYd8.jpg",
+            "resolution": "2592 x 3888",
+            "dominantColor": "#080802"
+      },
+      {
+            "author": "Unknown",
+            "collections": "AMOLED",
+            "name": "Coffee",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/210721/walls/fvnqmwfc2sb71.png",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/210721/thumbs/fvnqmwfc2sb71_compress48.jpg",
+            "resolution": "720 x 1480",
+            "dominantColor": "#030202"
+      },
+      {
+            "author": "Unknown",
+            "collections": "AMOLED",
+            "name": "mi",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/210721/thumbs/i23306undnb71_compress24.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/210721/walls/i23306undnb71.png",
+            "resolution": "1440 x 2960",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "Unknown",
+            "collections": "AMOLED,CITY",
+            "name": "Japan",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/210721/thumbs/oic3kbp7bnb71_compress57.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/210721/walls/oic3kbp7bnb71.png",
+            "resolution": "1440 x 2081",
+            "dominantColor": "#000002"
+      },
+      {
             "author": "unknown",
             "collections": "ABSTRACT",
             "name": "Abstract 345",
