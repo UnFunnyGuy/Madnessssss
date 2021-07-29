@@ -1,5 +1,59 @@
 [
       {
+            "author": "unknown",
+            "collections": "AMOLED",
+            "name": "City",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/290721/thumbs/a9z1ki34bvd71_compress87.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/290721/walls/a9z1ki34bvd71.png",
+            "resolution": "1152 x 2048",
+            "dominantColor": "#010101"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED",
+            "name": "oky",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/290721/thumbs/zvepgqor41e71_compress93.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/290721/walls/zvepgqor41e71.png",
+            "resolution": "1440 x 2562",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "unknown",
+            "collections": "MISC",
+            "name": "night",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/290721/thumbs/aron-yigin-CiLUoyC4ADQ_compress58.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/290721/walls/aron-yigin-CiLUoyC4ADQ.jpg",
+            "resolution": "4138 x 5517",
+            "dominantColor": "#020b0e"
+      },
+      {
+            "author": "unknown",
+            "collections": "MISC",
+            "name": "art",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/290721/thumbs/malena-gonzalez-serena-eqQZGX4-X_A_compress54.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/290721/walls/malena-gonzalez-serena-eqQZGX4-X_A.jpg",
+            "resolution": "3024 x 4032",
+            "dominantColor": "#d3dcdc"
+      },
+      {
+            "author": "unknown",
+            "collections": "MISC",
+            "name": "fl",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/290721/thumbs/zoltan-tasi-fMha8GyV0MQ_compress85.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/290721/walls/zoltan-tasi-fMha8GyV0MQ.jpg",
+            "resolution": "3750 x 2494",
+            "dominantColor": "#1a1e19"
+      },
+      {
+            "author": "unknown",
+            "collections": "ARCHITECTURE",
+            "name": "bhg",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/290721/thumbs/klim-musalimov-wHi34Au9_ag_compress72.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/290721/walls/klim-musalimov-wHi34Au9_ag.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#080506"
+      },
+      {
             "author": "annie-spratt",
             "collections": "NATURE,UNSPLASH",
             "name": "Leaf",
