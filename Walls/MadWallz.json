@@ -1,6 +1,60 @@
 [
       {
             "author": "unknown",
+            "collections": "AMOLED,SPACE",
+            "name": "Galaxy",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/040821/thumbs/Galaxy_11194_compress81.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/040821/walls/Galaxy_11194.jpeg",
+            "resolution": "1250 x 2749",
+            "dominantColor": "#071412"
+      },
+      {
+            "author": "unknown",
+            "collections": "MISC",
+            "name": "Art",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/040821/walls/20210725_184518.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/040821/walls/20210725_184518.jpg",
+            "resolution": "1506 x 3264",
+            "dominantColor": "#121212"
+      },
+      {
+            "author": "unknown",
+            "collections": "MISC",
+            "name": "Art",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/040821/walls/20210726_071837.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/040821/walls/20210726_071837.jpg",
+            "resolution": "1506 x 3264",
+            "dominantColor": "#060918"
+      },
+      {
+            "author": "unknown",
+            "collections": "MISC",
+            "name": "Wolf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/040821/thumbs/20210724_132223_compress23.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/040821/walls/20210724_132223.jpg",
+            "resolution": "1506 x 3264",
+            "dominantColor": "#001a2b"
+      },
+      {
+            "author": "unknown",
+            "collections": "MISC",
+            "name": "Art",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/040821/thumbs/Dream_t3_ojjzrt_amoled_droidheat_compress75.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/040821/walls/Dream_t3_ojjzrt_amoled_droidheat.png",
+            "resolution": "1520 x 3239",
+            "dominantColor": "#233e96"
+      },
+      {
+            "author": "unknown",
+            "collections": "AMOLED,SPACE",
+            "name": "KP409",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/040821/walls/Blue_Planet_2326.jpeg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/040821/walls/Blue_Planet_2326.jpeg",
+            "resolution": "1080 x 2160",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "unknown",
             "collections": "AMOLED",
             "name": "City",
             "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/290721/thumbs/a9z1ki34bvd71_compress87.jpg",
