@@ -1,5 +1,59 @@
 [
       {
+            "author": "Zoe",
+            "collections": "UNSPLASH,NATURE",
+            "name": "Leaf (38MB)",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/080821/thumbs/zoe-LEzCzCsRe00_compress70.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/080821/walls/zoe-LEzCzCsRe00.jpg",
+            "resolution": "6936 x 9248",
+            "dominantColor": "#000905"
+      },
+      {
+            "author": "Joel Filipe",
+            "collections": "ARCHITECTURE",
+            "name": "Arch700",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/080821/thumbs/joel-filipe-HiOgJdpg0qo_compress11.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/080821/walls/joel-filipe-HiOgJdpg0qo.jpg",
+            "resolution": "3648 x 5208",
+            "dominantColor": "#757577"
+      },
+      {
+            "author": "Joel Filipe",
+            "collections": "ARCHITECTURE",
+            "name": "Arch701",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/080821/thumbs/joel-filipe-JK7RP-YtSac_compress63.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/080821/walls/joel-filipe-JK7RP-YtSac.jpg",
+            "resolution": "3228 x 4912",
+            "dominantColor": "#c2c6ca"
+      },
+      {
+            "author": "Simone hutsch",
+            "collections": "ARCHITECTURE",
+            "name": "Arch702",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/080821/thumbs/simone-hutsch--UpW6pfsN5I_compress89.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/080821/walls/simone-hutsch--UpW6pfsN5I.jpg",
+            "resolution": "5184 x 5828",
+            "dominantColor": "#99b1bb"
+      },
+      {
+            "author": "Simone hutsch",
+            "collections": "ARCHITECTURE",
+            "name": "Arch703",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/080821/thumbs/simone-hutsch-o9F8dRoSucM_compress1.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/080821/walls/simone-hutsch-o9F8dRoSucM.jpg",
+            "resolution": "5875 x 7846",
+            "dominantColor": "#e4cbbc"
+      },
+      {
+            "author": "Simone hutsch",
+            "collections": "ARCHITECTURE",
+            "name": "Arch704",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/080821/thumbs/simone-hutsch-zxDeUj5q4Ho_compress13.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/080821/walls/simone-hutsch-zxDeUj5q4Ho.jpg",
+            "resolution": "4961 x 7016",
+            "dominantColor": "#9eb7d9"
+      },
+      {
             "author": "unknown",
             "collections": "AMOLED,SPACE",
             "name": "Galaxy",
