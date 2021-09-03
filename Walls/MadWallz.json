@@ -1,5 +1,77 @@
 [
       {
+            "author": "Unknown",
+            "collections": "NATURE,UNSPLASH",
+            "name": "Leaf",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/280821/thumbs/annie-spratt-izKLeS3R0dk_compress70.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/280821/walls/annie-spratt-izKLeS3R0dk.jpg",
+            "resolution": "6192 x 8256",
+            "dominantColor": "#030804"
+      },
+      {
+            "author": "Unknown",
+            "collections": "AMOLED,PATTERN",
+            "name": "Pattern",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/280821/thumbs/joel-filipe-2ws844qgJwE_compress26.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/280821/walls/joel-filipe-2ws844qgJwE.jpg",
+            "resolution": "2256 x 3192",
+            "dominantColor": "#050202"
+      },
+      {
+            "author": "Unknown",
+            "collections": "AMOLED,PATTERN",
+            "name": "Pattern",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/280821/thumbs/joel-filipe-LKaSKWOIil4_compress46.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/280821/walls/joel-filipe-LKaSKWOIil4.jpg",
+            "resolution": "6768 x 9576",
+            "dominantColor": "#b30c5e"
+      },
+      {
+            "author": "Unknown",
+            "collections": "AMOLED,PATTERN",
+            "name": "Pattern",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/280821/walls/joel-filipe-Mswc32f91uo.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/280821/thumbs/joel-filipe-Mswc32f91uo_compress74.jpg",
+            "resolution": "1128 x 1596",
+            "dominantColor": "#141414"
+      },
+      {
+            "author": "Unknown",
+            "collections": "AMOLED,PATTERN",
+            "name": "Pattern",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/280821/thumbs/joel-filipe-w1UIT0CZEQM_compress13.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/280821/walls/joel-filipe-w1UIT0CZEQM.jpg",
+            "resolution": "4512 x 6384",
+            "dominantColor": "#0a0f48"
+      },
+      {
+            "author": "Unknown",
+            "collections": "ARCHITECTURE",
+            "name": "ark",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/280821/thumbs/joel-filipe-pyHPJEjUYHY_compress16.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/280821/walls/joel-filipe-pyHPJEjUYHY.jpg",
+            "resolution": "3648 x 5472",
+            "dominantColor": "#1b1b1b"
+      },
+      {
+            "author": "Unknown",
+            "collections": "ARCHITECTURE",
+            "name": "build",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/280821/thumbs/klim-musalimov-nwtH_YTjJQU_compress94.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/280821/walls/klim-musalimov-nwtH_YTjJQU.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#9e9f9f"
+      },
+      {
+            "author": "Will Turner",
+            "collections": "NATURE",
+            "name": "Mnts",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/280821/thumbs/will-turner-KPCXuBucEps_compress28.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/ewallsData/main3/DB/280821/walls/will-turner-KPCXuBucEps.jpg",
+            "resolution": "4912 x 7360",
+            "dominantColor": "#8fa2ae"
+      },
+      {
             "author": "Zoe",
             "collections": "UNSPLASH,NATURE",
             "name": "Leaf (38MB)",
