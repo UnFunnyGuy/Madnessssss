@@ -1,5 +1,59 @@
 [
       {
+            "author": "Kir Simakov",
+            "collections": "UNSPLASH,ARCHITECTURE",
+            "name": "BVOM",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/071021/thumbs/kir-simakov-1y5PkTZOMbQ_compress58.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/071021/walls/kir-simakov-1y5PkTZOMbQ.jpg",
+            "resolution": "2680 x 1996",
+            "dominantColor": "#1e2428"
+      },
+      {
+            "author": "Kir Simakov",
+            "collections": "UNSPLASH,ARCHITECTURE",
+            "name": "BVOM",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/071021/thumbs/kir-simakov-hhdtlFdSbBY_compress19.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/071021/walls/kir-simakov-hhdtlFdSbBY.jpg",
+            "resolution": "2800 x 1867",
+            "dominantColor": "#c8cac9"
+      },
+      {
+            "author": "Kristaps",
+            "collections": "NATURE",
+            "name": "ICE",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/071021/thumbs/kristaps-ungurs-DoOrFxZ6bMU_compress35.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/071021/walls/kristaps-ungurs-DoOrFxZ6bMU.jpg",
+            "resolution": "3495 x 5246",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "Bernardo Lorena",
+            "collections": "UNSPLASH,ARCHITECTURE",
+            "name": "Japanese (37Mb)",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/071021/thumbs/bernardo-lorena-ponte-ddcbYY4tLyU_compress35.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/071021/walls/bernardo-lorena-ponte-ddcbYY4tLyU.jpg",
+            "resolution": "5504 x 8256",
+            "dominantColor": "#535040"
+      },
+      {
+            "author": "Greg Jeanneau",
+            "collections": "CITY",
+            "name": "Japan",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/071021/thumbs/greg-jeanneau-7lYNPI6OpcA_compress66.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/071021/walls/greg-jeanneau-7lYNPI6OpcA.jpg",
+            "resolution": "3000 x 4500",
+            "dominantColor": "#22154a"
+      },
+      {
+            "author": "Levon vardanyan",
+            "collections": "CITY",
+            "name": "Japan",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/071021/thumbs/levon-vardanyan-9LJ9bwCupYw_compress22.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/071021/walls/levon-vardanyan-9LJ9bwCupYw.jpg",
+            "resolution": "4160 x 5200",
+            "dominantColor": "#081928"
+      },
+      {
             "author": "Anil Kumar",
             "collections": "MISC",
             "name": "Klip",
