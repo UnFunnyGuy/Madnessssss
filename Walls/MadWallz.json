@@ -1,5 +1,104 @@
 [
       {
+            "author": "unknown",
+            "collections": "AUTOMOBILES",
+            "name": "bw",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/thumbs/steady-hand-co.-21HjOBHKeec_compress85.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/walls/steady-hand-co.-21HjOBHKeec.jpg",
+            "resolution": "2048 x 3088",
+            "dominantColor": "#d9d9d9"
+      },
+      {
+            "author": "unknown",
+            "collections": "AUTOMOBILES",
+            "name": "bw",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/thumbs/steady-hand-co.-TIhDmSkgz8Q_compress99.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/walls/steady-hand-co.-TIhDmSkgz8Q.jpg",
+            "resolution": "3088 x 2048",
+            "dominantColor": "#0a0a0a"
+      },
+      {
+            "author": "unknown",
+            "collections": "AUTOMOBILES",
+            "name": "bw",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/thumbs/steady-hand-co.-tRxPI0-T90k_compress28.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/walls/steady-hand-co.-tRxPI0-T90k.jpg",
+            "resolution": "2048 x 3088",
+            "dominantColor": "#050505"
+      },
+      {
+            "author": "unknown",
+            "collections": "NATURE",
+            "name": "Greenish",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/thumbs/vadim-sadovski-6aPj_U5dM5o_compress11.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/walls/vadim-sadovski-6aPj_U5dM5o.jpg",
+            "resolution": "2195 x 3000",
+            "dominantColor": "#050b0b"
+      },
+      {
+            "author": "unknown",
+            "collections": "SEA,NATURE",
+            "name": "Beach",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/thumbs/maksym-ivashchenko-YXESWjFYG9s_compress87.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/walls/maksym-ivashchenko-YXESWjFYG9s.jpg",
+            "resolution": "4115 x 6173",
+            "dominantColor": "#080b08"
+      },
+      {
+            "author": "unknown",
+            "collections": "ARCHITECTURE",
+            "name": "Arch78",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/thumbs/mitchell-luo-ZGi2-wTpKzM_compress13.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/walls/mitchell-luo-ZGi2-wTpKzM.jpg",
+            "resolution": "5295 x 3803",
+            "dominantColor": "#fcfcfc"
+      },
+      {
+            "author": "unknown",
+            "collections": "ARCHITECTURE",
+            "name": "Arch79",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/thumbs/william-bout-TbTgtx7kmes_compress55.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/walls/william-bout-TbTgtx7kmes.jpg",
+            "resolution": "6000 x 4000",
+            "dominantColor": "#7fbec6"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "abs",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/thumbs/pawel-czerwinski-Pa1zRdAhV6c_compress56.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/walls/pawel-czerwinski-Pa1zRdAhV6c.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#060604"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "abs",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/thumbs/pawel-czerwinski-ypqyuASFNps_compress41.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/walls/pawel-czerwinski-ypqyuASFNps.jpg",
+            "resolution": "3000 x 4500",
+            "dominantColor": "#0d0b0f"
+      },
+      {
+            "author": "unknown",
+            "collections": "ARCHITECTURE",
+            "name": "Japanese",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/thumbs/redd-wPMvPMD9KBI_compress38.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/walls/redd-wPMvPMD9KBI.jpg",
+            "resolution": "2624 x 3936",
+            "dominantColor": "#232425"
+      },
+      {
+            "author": "unknown",
+            "collections": "CITY",
+            "name": "Japanese",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/thumbs/ryan-tang-ANJHXftvvJ8_compress86.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/081021/walls/ryan-tang-ANJHXftvvJ8.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#02121d"
+      },
+      {
             "author": "Kir Simakov",
             "collections": "UNSPLASH,ARCHITECTURE",
             "name": "BVOM",
