@@ -1,5 +1,50 @@
 [
       {
+            "author": "Cody",
+            "collections": "NATURE",
+            "name": "Purple l",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/191121/thumbs/cody-fitzgerald-lWJeGCgVbYI_compress11.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/191121/walls/cody-fitzgerald-lWJeGCgVbYI.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#332c6f"
+      },
+      {
+            "author": "Klim",
+            "collections": "ARCHITECTURE",
+            "name": "Ark234",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/191121/thumbs/klim-musalimov-AvD8j23sBf8_compress47.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/191121/walls/klim-musalimov-AvD8j23sBf8.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#a4a5a5"
+      },
+      {
+            "author": "Klim",
+            "collections": "ARCHITECTURE",
+            "name": "Ark235",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/191121/thumbs/klim-musalimov-mT4geZHH9QU_compress91.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/191121/walls/klim-musalimov-mT4geZHH9QU.jpg",
+            "resolution": "3845 x 5767",
+            "dominantColor": "#030303"
+      },
+      {
+            "author": "Klim",
+            "collections": "ARCHITECTURE",
+            "name": "Ark236",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/191121/thumbs/klim-musalimov-yU4XRBasaDY_compress0.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/191121/walls/klim-musalimov-yU4XRBasaDY.jpg",
+            "resolution": "4000 x 6000",
+            "dominantColor": "#070707"
+      },
+      {
+            "author": "Klim",
+            "collections": "MISC",
+            "name": "misc sky",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/191121/thumbs/marek-piwnicki-dnbmLvW0Whc_compress81.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/191121/walls/marek-piwnicki-dnbmLvW0Whc.jpg",
+            "resolution": "3648 x 5472",
+            "dominantColor": "#213453"
+      },
+      {
             "author": "unknown",
             "collections": "AUTOMOBILES",
             "name": "bw",
