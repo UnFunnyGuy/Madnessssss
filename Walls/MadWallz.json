@@ -1,5 +1,32 @@
 [
       {
+            "author": "Mathieu",
+            "collections": "NATURE",
+            "name": "Bridge",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/191121/thumbs/mathieu-bigard-mQN5FWPtiVo_compress78.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/191121/walls/mathieu-bigard-mQN5FWPtiVo.jpg",
+            "resolution": "2718 x 4016",
+            "dominantColor": "#202121"
+      },
+      {
+            "author": "Thomas",
+            "collections": "NATURE",
+            "name": "Bilobe",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/191121/thumbs/thomas-fatin-FHpP-fCpIoo_compress81.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/191121/walls/thomas-fatin-FHpP-fCpIoo.jpg",
+            "resolution": "4500 x 6000",
+            "dominantColor": "#26241f"
+      },
+      {
+            "author": "Thomas",
+            "collections": "NATURE",
+            "name": "Gradient sky",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/191121/thumbs/xandro-vandewalle-TRTqLbpShkM_compress82.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/191121/walls/xandro-vandewalle-TRTqLbpShkM.jpg",
+            "resolution": "3926 x 5169",
+            "dominantColor": "#14101b"
+      },
+      {
             "author": "Cody",
             "collections": "NATURE",
             "name": "Purple l",
