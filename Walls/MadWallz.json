@@ -1,5 +1,41 @@
 [
       {
+            "author": "Adam brokowski",
+            "collections": "CITY",
+            "name": "Traffic",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/03122021/thumbs/adam-borkowski-UeJDePySGZc_compress7.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/03122021/walls/adam-borkowski-UeJDePySGZc.jpg",
+            "resolution": "5304 x 6630",
+            "dominantColor": "#0e0f12"
+      },
+      {
+            "author": "Adam brokowski",
+            "collections": "CITY",
+            "name": "Traffic",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/03122021/thumbs/adam-borkowski-qTvBRRYXrKY_compress23.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/03122021/walls/adam-borkowski-qTvBRRYXrKY.jpg",
+            "resolution": "5256 x 6570",
+            "dominantColor": "#031b3b"
+      },
+      {
+            "author": "Adam brokowski",
+            "collections": "CITY,ARCHITECTURE",
+            "name": "Arch",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/03122021/thumbs/adam-borkowski-ZMuLjz0RX1g_compress40.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/03122021/walls/adam-borkowski-ZMuLjz0RX1g.jpg",
+            "resolution": "4438 x 6654",
+            "dominantColor": "#48355d"
+      },
+      {
+            "author": "Adam brokowski",
+            "collections": "CITY,ARCHITECTURE",
+            "name": "Arch",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/03122021/thumbs/adam-borkowski-nIKeL2gVMz4_compress60.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/03122021/walls/adam-borkowski-nIKeL2gVMz4.jpg",
+            "resolution": "5304 x 6630",
+            "dominantColor": "#040c17"
+      },
+      {
             "author": "Mathieu",
             "collections": "NATURE",
             "name": "Bridge",
