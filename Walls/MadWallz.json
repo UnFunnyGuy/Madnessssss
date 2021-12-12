@@ -1,5 +1,41 @@
 [
       {
+            "author": "Fakurian",
+            "collections": "AMOLED",
+            "name": "Fakuriam",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/03122021/thumbs/fakurian-design-9xCvw544PWQ_compress58.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/03122021/walls/fakurian-design-9xCvw544PWQ.jpg",
+            "resolution": "6000 x 4000",
+            "dominantColor": "#05001f"
+      },
+      {
+            "author": "Fakurian",
+            "collections": "ABSTRACT",
+            "name": "Fakuriam",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/03122021/thumbs/fakurian-design-DX7pT_guAyE_compress92.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/03122021/walls/fakurian-design-DX7pT_guAyE.jpg",
+            "resolution": "6000 x 4000",
+            "dominantColor": "#1f0047"
+      },
+      {
+            "author": "Fakurian",
+            "collections": "ABSTRACT",
+            "name": "Fakuriam",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/03122021/thumbs/fakurian-design-aB3f_CEntLY_compress8.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/03122021/walls/fakurian-design-aB3f_CEntLY.jpg",
+            "resolution": "2000 x 4331",
+            "dominantColor": "#141e32"
+      },
+      {
+            "author": "Luca",
+            "collections": "AMOLED",
+            "name": "Bw",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/03122021/thumbs/luca-nicoletti-O8CHmj0zgAg_compress71.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/03122021/walls/luca-nicoletti-O8CHmj0zgAg.jpg",
+            "resolution": "3456 x 5184",
+            "dominantColor": "#030303"
+      },
+      {
             "author": "Adam brokowski",
             "collections": "CITY",
             "name": "Traffic",
