@@ -1,13 +1,22 @@
 [
-
+      
       {
             "author": "reddit",
-            "collections": "AMOLED",
-            "name": "Ana de armas",
-            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/10022022/THUMBS/Ana-de-Armas_compress44.jpg",
-            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/10022022/WALLZ/Ana-de-Armas.jpg",
-            "resolution": "1440 x 3335",
-            "dominantColor": "#010101"
+            "collections": "ANIME",
+            "name": "Naruto",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/10022022/THUMBS/Naruto%20(1)_compress73.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/10022022/WALLZ/Naruto%20(1).jpg",
+            "resolution": "1440 x 3120",
+            "dominantColor": "#020101"
+      },
+      {
+            "author": "reddit",
+            "collections": "ANIME",
+            "name": "Naruto",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/10022022/THUMBS/Naruto%20(2)_compress6.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/10022022/WALLZ/Naruto%20(2).jpg",
+            "resolution": "1440 x 3120",
+            "dominantColor": "#020103"
       },
       {
             "author": "dan-aski",
