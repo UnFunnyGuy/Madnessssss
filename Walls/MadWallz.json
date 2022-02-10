@@ -1,5 +1,22 @@
 [
-      
+      {
+            "author": "reddit",
+            "collections": "ANIME",
+            "name": "clairvoyant",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/10022022/THUMBS/clairvoyant_compress55.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/10022022/WALLZ/clairvoyant.jpg",
+            "resolution": "1440 x 3120",
+            "dominantColor": "#010101"
+      },
+      {
+            "author": "reddit",
+            "collections": "AMOLED,SPACE",
+            "name": "Planet",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/10022022/THUMBS/RDT_20220210_0841383527952648053893545_compress95.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/10022022/WALLZ/RDT_20220210_0841383527952648053893545.jpg",
+            "resolution": "1080 x 2460",
+            "dominantColor": "#000000"
+      }, 
       {
             "author": "reddit",
             "collections": "ANIME",
