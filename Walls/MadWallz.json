@@ -1,5 +1,149 @@
 [
       {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "Gray",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/THUMBS/31_compress59.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/WALLZ/31.png",
+            "resolution": "1125 x 2436",
+            "dominantColor": "#393d52"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "Dark Blue",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/THUMBS/Dark%20future27258_rectangle_compress68.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/WALLZ/Dark%20future27258_rectangle.jpg",
+            "resolution": "1890 x 4096",
+            "dominantColor": "#2a244e"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "Green",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/THUMBS/50%20shades%20of%20green_compress54.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/WALLZ/50%20shades%20of%20green.png",
+            "resolution": "2449 x 4899",
+            "dominantColor": "#041716"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "Gray v2",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/THUMBS/91693850-B6-AC-473-F-B030-B8-F7-FDFCB274_compress88.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/WALLZ/91693850-B6-AC-473-F-B030-B8-F7-FDFCB274.png",
+            "resolution": "1242 x 2688",
+            "dominantColor": "#121117"
+      },
+      {
+            "author": "unknown",
+            "collections": "PATTERN",
+            "name": "Lines",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/THUMBS/Abstract_lines_compress95.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/WALLZ/Abstract_lines.png",
+            "resolution": "2400 x 4880",
+            "dominantColor": "#3c4e68"
+      },
+      {
+            "author": "unknown",
+            "collections": "ANIME",
+            "name": "Demon Slayer",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/THUMBS/Anime23566_rectangle_compress38.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/WALLZ/Anime23566_rectangle.jpg",
+            "resolution": "1080 x 1920",
+            "dominantColor": "#a4a7dd"
+      },
+      {
+            "author": "unknown",
+            "collections": "MISC",
+            "name": "Misc",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/THUMBS/Bend27329_rectangle_compress32.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/WALLZ/Bend27329_rectangle.jpg",
+            "resolution": "1008 x 2184",
+            "dominantColor": "#516064"
+      },
+      {
+            "author": "unknown",
+            "collections": "CITY",
+            "name": "Japanese",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/THUMBS/Japanese%20Sunset25126_rectangle_compress62.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/WALLZ/Japanese%20Sunset25126_rectangle.jpg",
+            "resolution": "1080 x 1920",
+            "dominantColor": "#361e43"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "Realme UI",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/THUMBS/Realme-UI-3.0-Wallpaper-15-YTECHB_compress89.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/WALLZ/Realme-UI-3.0-Wallpaper-15-YTECHB.png",
+            "resolution": "1080 x 2400",
+            "dominantColor": "#bbc4f7"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "Realme UI",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/THUMBS/Realme-UI-3.0-Wallpaper-3-YTECHB_compress42.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/WALLZ/Realme-UI-3.0-Wallpaper-3-YTECHB.png",
+            "resolution": "1080 x 2400",
+            "dominantColor": "#eda111"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "Vivo v20",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/THUMBS/Vivo%20V23%20Pro6224_compress54.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/WALLZ/Vivo%20V23%20Pro6224.jpg",
+            "resolution": "1080 x 2376",
+            "dominantColor": "#b2d2ea"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "Vivo v20",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/THUMBS/Vivo%20V23%20Pro6225_compress48.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/WALLZ/Vivo%20V23%20Pro6225.jpg",
+            "resolution": "1080 x 2376",
+            "dominantColor": "#1e1f20"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "Vivo v20",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/THUMBS/Vivo%20V23%20Pro6226_compress2.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/WALLZ/Vivo%20V23%20Pro6226.jpg",
+            "resolution": "1080 x 2376",
+            "dominantColor": "#2f7abf"
+      },
+      {
+            "author": "unknown",
+            "collections": "ABSTRACT",
+            "name": "Vivo v20",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/THUMBS/Vivo%20V23%20Pro6227_compress81.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/WALLZ/Vivo%20V23%20Pro6227.jpg",
+            "resolution": "1080 x 2400",
+            "dominantColor": "#cc793b"
+      },
+      {
+            "author": "unknown",
+            "collections": "MISC",
+            "name": "Consistency",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/THUMBS/cons22771_rectangle_compress92.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/WALLZ/cons22771_rectangle.jpg",
+            "resolution": "1440 x 2560",
+            "dominantColor": "#000000"
+      },
+      {
+            "author": "unknown",
+            "collections": "MISC",
+            "name": "Noodle",
+            "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/THUMBS/noodle%20time26209_rectangle_compress68.jpg",
+            "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/17022022/WALLZ/noodle%20time26209_rectangle.jpg",
+            "resolution": "1008 x 2184",
+            "dominantColor": "#5735ee"
+      },
+      {
             "author": "reddit",
             "collections": "AMOLED,SPACE",
             "name": "Planet",
