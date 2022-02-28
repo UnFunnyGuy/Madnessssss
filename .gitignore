@@ -1,6 +1,9 @@
 # Built application files
 *.apk
 *.ap_
+Walls/Update.json
+Walls/sample_image.png
+Walls/sample_image.jpg
 
 # Files for the ART/Dalvik VM
 *.dex
