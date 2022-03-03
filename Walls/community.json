@@ -1,27 +1,25 @@
-{
-     "posts": [
-       { "name": "UPDATE",
-          "backgroundColor": "Rectangel Background",
-          "textColor": "Time",
-          "outlineColor": "Rectangle Grad",
-          "url": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/041020/Walls2/IMG_20201004_184859.png" },
-
-       { "name": "UPDATE2",
-                "backgroundColor": "Rectangel Background",
-                "textColor": "Time",
+[ 
+     {
+                
+                "name": "UPDATE",
+                "backgroundColor": "Rectangel Background\nClock Test\nOk",
+                "textColor": "Time, test1",
                 "outlineColor": "Rectangle Grad",
-                "url": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/041020/Walls2/IMG_20201004_184859.png" },
-       { "id": 3, "title": "Post 3" }
-     ],
-     "comments": [
-       { "id": 1, "body": "some comment", "postId": 1 },
-       { "id": 2, "body": "some comment", "postId": 1 }
-     ],
-     "profile": {
-       "name": "typicode"
+                "url": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/041020/Walls2/IMG_20201004_184859.png"
+          
+     },
+     {
+                
+                "name": "UPDATE2",
+                "backgroundColor": "Rectangel Background",
+                "textColor": "Time, test2",
+                "outlineColor": "Rectangle Grad 2",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/13150_chroma_Glitch_chroma2_compress2.jpg"
+          
+    
      }
-   }
-
+     
+]     
 
 
 
