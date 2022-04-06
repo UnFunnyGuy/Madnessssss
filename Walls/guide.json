@@ -34,11 +34,27 @@
                 "desc1": "These 3 attribute decide the colors of the clock you select. You can completely ignore the naming of these 3 attributes on some clock this has nothing to do with background color , text color or outline color.\n\n\nALL YOU SHOULD FOCUS ON WHICH ATTRIBUTES THEME WHICH PART OF THE CLOCK\nThats why clock previews exists! ",
                 "desc2": "This is an example from clock preview\n\nAs you can see there are three attributes which is available on the theming section of madness! \n\nBACKGROUND COLOR,TEXT COLOR,OUTLINE COLOR\n\n\nFOR EXAMPLE\n\nBACKGROUND COLOR - Date\nMeans If you pick red as background color, The Date will be in red color.\n\n\nTEXT COLOR - Time\nMeans If you pick green as TEXT COLOR. The time will be in green color.\n\n\nOUTLINE COLOR - Lock icon\nMeans if you pick Yellow as OUTLINE COLOR. The Lock icon will be in yellow color\n\n-This is an example from a clock named IOS-",
                 "desc3":"So different clocks have different components, but all are linked to these three attributes which i explained above, this is done on purpose to give the user maximum available freedom for coloring clocks. \nOnce you start changing colors of clocks you will get the hang of it!",
+                "desc4": "SPECIAL NOTE\n\nIf you are using substratum lite dont pick both color picker and preset for same attribute\n\nSubstratum lite color picker feature will allow you to use any custom color you want, You can use that if you want or the preset colors that i included",
 
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/13150_chroma_Glitch_chroma2_compress2.jpg",
                 "url2": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/13150_chroma_Glitch_chroma2_compress2.jpg",
                 "addon": 2
-     }
-     
+     },
+     {
+                
+        "title": "Step 5",
+        "title2": "Building Overlay",
+        "desc": "After picking clock and its colors you need to build the overlay.\n\nBuild overlay\nReboot\nEnable the overlay you build from substram\n\n\nThats it- You have successfully changed your lockscreen clock",
+        "desc1": "NOTE\n\nIf Lockscreen is still blank even after enabling overlay please restart your systemui or reboot again\nif that does not fix your issue please contact me"
+        
+    },
+    {
+                
+        "title": "Step 6",
+        "title2": "Optional Config",
+        "desc": "CLOCK MARGIN\n\n\nClock margin moves the clock downwards to more central areas, When building margin overlays its better if you build 3 or more overlays together and reboot once! And try enabling 1 overlay at a time\n\nclock margin left and right does the same thing but sideways\n\n\nNOTE\n\n Some clocks might not move sideways or downwards\n\n",
+        "desc1": "Lock screen extra tweaks and row tweaks are meant for 11 and it wont work on oos or A12"
+        
+    }
      
 ]
