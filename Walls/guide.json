@@ -12,7 +12,7 @@
                 
                 "title": "Step 2",
                 "title2": "Flashing The Module",
-                "desc": "Once you get the module from dev, You can flash it via Magisk\n\nI repeat its a magisk module so please flash it via magisk",
+                "desc": "Once you get the module from dev, You can flash it via Magisk\n\nI repeat, its a magisk module so please flash it via magisk",
                 "desc1": "After flashing you can either reboot or proceed to the next step"
                 
      },
@@ -21,11 +21,24 @@
                 "title": "Step 3",
                 "title2": "Pick A LockScreen Clock",
                 "desc": "Now you need to pick lockscreen clock you want use, For that you need to open madness from substratum app and select a clock from -- PICK YOUR CLOCK -- option",
-                "desc1": "You can also view clock preview within this app. This will help you identify the clocks you like\n",
+                "desc1": "You can also view clock previews within this app. This will help you identify the clocks you like and will help you pick colors for them\n",
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/13150_chroma_Glitch_chroma2_compress2.jpg",
                 "url2": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/13150_chroma_Glitch_chroma2_compress2.jpg",
                 "addon": 2
-     }
+     },
+     {
+                
+                "title": "Step 4",
+                "title2": "Pick Colors For Clocks",
+                "desc": "After you select a clock, You need to pick colors for them\n\nThere are 3 attributes available for you to pick. ",
+                "desc1": "You need to listen very carefully here! these 3 attribute decide the colors of the clock you select.You can completely ignore the naming of these 3 attributes on some clock this has nothing to do with background color , text color or outline color.\n\n<b>All you should focus on which attributes theme which part of the clock</b>\nThats why clock previews exists!",
+                "desc2": "This is an example from clock preview, As you can see there are three attributes which is available on the theming section of madness! \nBACKGROUND COLOR,TEXT COLOR,OUTLINE COLOR\n\n<b>FOR EXAMPLE</b>\n\n<b>BACKGROUND COLOR</b> - Date( Day month date)\nMeans If you pick red as background color, The Date will be in red color.\n\nTEXT COLOR - Time\nMeans If you pick green as TEXT COLOR. The time will be in green color.\n\nOUTLINE COLOR - Lock icon\nMeans if you pick Yellow as OUTLINE COLOR. The Lock icon will be in yellow color",
+                "desc3":"So different clocks have different components, But all are linked to these three attributes which i explained above, This is done on purpose to give the user maximum available freedom for coloring clocks.\nOnce you start changing colors of clocks you will get the hang of it!",
+
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/13150_chroma_Glitch_chroma2_compress2.jpg",
+                "url2": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/13150_chroma_Glitch_chroma2_compress2.jpg",
+                "addon": 2
+     },
      
      
 ]
