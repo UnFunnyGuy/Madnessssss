@@ -2,25 +2,25 @@
     {
                 
                 "title": "Step 1",
-                "desc": "From android 11 and above substratum cant make changes to layout. So it wont work like the way it used to be on android 10!",
-                "desc1": "You have to request a custom magisk module from the developer for this theme to work! all thanks to google. This module will help you change lockscreen clocks using madness substratum theme.",
+                "title2": "Request Magisk Module",
+                "desc": "From android 11 and above substratum cant make changes to layout. So it wont work like the way it used to be on android 10!\nYou have to request a custom magisk module from the developer for this theme to work! all thanks to google. This module will help you change lockscreen clocks using madness substratum theme.",
+                "desc1": "So make sure you are not using this theme without any module",
                 "desc2": "Without module this theme wont work so please request module before using it.",
-                "desc3": "Time, test1",
-                "desc4": "Time, test1",
-                "desc5": "Request Module",
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/13150_chroma_Glitch_chroma2_compress2.jpg",
+                "url2": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/13150_chroma_Glitch_chroma2_compress2.jpg",
                 "addon": 1
                 
      },
      {
                 
-                "title": "Step 1",
-                "desc": "Choose a clock you want to use",
-                "desc1": "Make up your mind and pick a clock you want to use",
-                "desc2": "Time, test1",
+                "title": "Step 2",
+                "title2": "Pick A LockScreen Clock",
+                "desc": "From android 11 and above substratum cant make changes to layout. So it wont work like the way it used to be on android 10!\nYou have to request a custom magisk module from the developer for this theme to work! all thanks to google. This module will help you change lockscreen clocks using madness substratum theme.",
+                "desc1": "So make sure you are not using this theme without any module",
+                "desc2": "Without module this theme wont work so please request module before using it.",
                 "desc3": "Time, test1",
-                "desc4": "Time, test1",
-                "desc5": "Time, test1"
+                "url2": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/13150_chroma_Glitch_chroma2_compress2.jpg",
+                "addon": 1
      },
      {
                 
@@ -215,6 +215,3 @@
      }
      
 ]
-     
-     
-   
