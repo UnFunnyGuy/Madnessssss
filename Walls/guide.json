@@ -29,16 +29,16 @@
      {
                 
                 "title": "Step 4",
-                "title2": "Pick Colors For Clocks",
+                "title2": "Pick Colors For Clock",
                 "desc": "After you select a clock, You need to pick colors for them\n\nThere are 3 attributes available for you to pick. ",
-                "desc1": "You need to listen very carefully here! these 3 attribute decide the colors of the clock you select.You can completely ignore the naming of these 3 attributes on some clock this has nothing to do with background color , text color or outline color.\n\n<b>All you should focus on which attributes theme which part of the clock</b>\nThats why clock previews exists!",
-                "desc2": "This is an example from clock preview, As you can see there are three attributes which is available on the theming section of madness! \nBACKGROUND COLOR,TEXT COLOR,OUTLINE COLOR\n\n<b>FOR EXAMPLE</b>\n\n<b>BACKGROUND COLOR</b> - Date( Day month date)\nMeans If you pick red as background color, The Date will be in red color.\n\nTEXT COLOR - Time\nMeans If you pick green as TEXT COLOR. The time will be in green color.\n\nOUTLINE COLOR - Lock icon\nMeans if you pick Yellow as OUTLINE COLOR. The Lock icon will be in yellow color",
-                "desc3":"So different clocks have different components, But all are linked to these three attributes which i explained above, This is done on purpose to give the user maximum available freedom for coloring clocks.\nOnce you start changing colors of clocks you will get the hang of it!",
+                "desc1": "These 3 attribute decide the colors of the clock you select. You can completely ignore the naming of these 3 attributes on some clock this has nothing to do with background color , text color or outline color.\n\n\nALL YOU SHOULD FOCUS ON WHICH ATTRIBUTES THEME WHICH PART OF THE CLOCK\nThats why clock previews exists! ",
+                "desc2": "This is an example from clock preview\n\nAs you can see there are three attributes which is available on the theming section of madness! \n\nBACKGROUND COLOR,TEXT COLOR,OUTLINE COLOR\n\n\nFOR EXAMPLE\n\nBACKGROUND COLOR - Date\nMeans If you pick red as background color, The Date will be in red color.\n\n\nTEXT COLOR - Time\nMeans If you pick green as TEXT COLOR. The time will be in green color.\n\n\nOUTLINE COLOR - Lock icon\nMeans if you pick Yellow as OUTLINE COLOR. The Lock icon will be in yellow color\n\n-This is an example from a clock named IOS-",
+                "desc3":"So different clocks have different components, but all are linked to these three attributes which i explained above, this is done on purpose to give the user maximum available freedom for coloring clocks. \nOnce you start changing colors of clocks you will get the hang of it!",
 
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/13150_chroma_Glitch_chroma2_compress2.jpg",
                 "url2": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/13150_chroma_Glitch_chroma2_compress2.jpg",
                 "addon": 2
-     }
+     },
      
      
 ]
