@@ -17,6 +17,43 @@
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Madness_A12_compress29.jpg"
           
      },
+     {
+                
+                "name": "Fluid",
+                "backgroundColor": "Minutes , 1 dot",
+                "textColor": "Hour",
+                "outlineColor": "Seconds, 1 dot",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Madness-Fluid_compress13.jpg"
+          
+     },
+     {
+                
+                "name": "Analog2",
+                "backgroundColor": "Frame",
+                "textColor": "Minutes",
+                "outlineColor": "Hours",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Madness-Analog2_compress46.jpg"
+          
+     },
+
+     {
+                
+                "name": "Z2",
+                "backgroundColor": "Hour",
+                "textColor": "Minutes",
+                "outlineColor": "Circle",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Madness-Z2_compress81.jpg"
+          
+     },
+     {
+                
+                "name": "IOS",
+                "backgroundColor": "Date(Day month date)",
+                "textColor": "Time",
+                "outlineColor": "Lock Icon",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Madness_Ios_compress76.jpg"
+          
+     },
 
 
 
