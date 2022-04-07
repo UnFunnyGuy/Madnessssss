@@ -1,148 +1,42 @@
 [ 
      {
                 
+                "name": "BTLG",
+                "backgroundColor": "Rectangle Background",
+                "textColor": "Every text and logo",
+                "outlineColor": "Rectangle gradient\n(use slight gradient else it might look meh. or pick same as background color)",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Madness_BTLG_compress85.jpg"
+          
+     },
+     {
+                
+                "name": "A12",
+                "backgroundColor": "Frame color",
+                "textColor": "Minutes",
+                "outlineColor": "Hour, Dot",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Madness_A12_compress29.jpg"
+          
+     },
+
+
+
+
+
+
+
+
+
+
+
+
+     {
+                
                 "name": "UPDATE",
                 "backgroundColor": "Rectangel Background\nClock Test\nOk",
                 "textColor": "Time, test1",
                 "outlineColor": "Rectangle Grad",
                 "url": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/041020/Walls2/IMG_20201004_184859.png"
           
-     },
-     {
-                
-                "name": "UPDATE2",
-                "backgroundColor": "Rectangel Background",
-                "textColor": "Time, test2",
-                "outlineColor": "Rectangle Grad 2",
-                "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/13150_chroma_Glitch_chroma2_compress2.jpg"
-          
-    
-     },
-     {
-                
-                "name": "UPDATE4",
-                "backgroundColor": "Rectangel Background",
-                "textColor": "Time 4",
-                "outlineColor": "Rectangle Grad 5",
-                "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/20211115_215930_compress34.jpg"
-          
-    
-     },
-     {
-                
-                "name": "UPDATE",
-                "backgroundColor": "Rectangel Background, and blahdkhdk",
-                "textColor": "Time, test1",
-                "outlineColor": "Rectangle Grad",
-                "url": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/041020/Walls2/IMG_20201004_184859.png"
-          
-     },
-     {
-                
-                "name": "UPDATE2",
-                "backgroundColor": "Rectangel Background",
-                "textColor": "Time, test2",
-                "outlineColor": "Rectangle Grad 2",
-                "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/13150_chroma_Glitch_chroma2_compress2.jpg"
-          
-    
-     },
-     {
-                
-                "name": "UPDATE3",
-                "backgroundColor": "Rectangel Background",
-                "textColor": "Time 3",
-                "outlineColor": "Rectangle Grad 3",
-                "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/28104_chroma_compress15.jpg"
-          
-    
-     },
-     {
-                
-                "name": "UPDATE4",
-                "backgroundColor": "Rectangel Background",
-                "textColor": "Time 4",
-                "outlineColor": "Rectangle Grad 5",
-                "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/20211115_215930_compress34.jpg"
-          
-    
-     },
-     {
-                
-                "name": "UPDATE",
-                "backgroundColor": "Rectangel Background, and blahdkhdk",
-                "textColor": "Time, test1",
-                "outlineColor": "Rectangle Grad",
-                "url": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/041020/Walls2/IMG_20201004_184859.png"
-          
-     },
-     {
-                
-                "name": "UPDATE2",
-                "backgroundColor": "Rectangel Background",
-                "textColor": "Time, test2",
-                "outlineColor": "Rectangle Grad 2",
-                "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/13150_chroma_Glitch_chroma2_compress2.jpg"
-          
-    
-     },
-     {
-                
-                "name": "UPDATE3",
-                "backgroundColor": "Rectangel Background",
-                "textColor": "Time 3",
-                "outlineColor": "Rectangle Grad 3",
-                "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/28104_chroma_compress15.jpg"
-          
-    
-     },
-     {
-                
-                "name": "UPDATE4",
-                "backgroundColor": "Rectangel Background",
-                "textColor": "Time 4",
-                "outlineColor": "Rectangle Grad 5",
-                "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/20211115_215930_compress34.jpg"
-          
-    
-     },
-     {
-                
-                "name": "UPDATE",
-                "backgroundColor": "Rectangel Background, and blahdkhdk",
-                "textColor": "Time, test1",
-                "outlineColor": "Rectangle Grad",
-                "url": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/041020/Walls2/IMG_20201004_184859.png"
-          
-     },
-     {
-                
-                "name": "UPDATE2",
-                "backgroundColor": "Rectangel Background",
-                "textColor": "Time, test2",
-                "outlineColor": "Rectangle Grad 2",
-                "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/13150_chroma_Glitch_chroma2_compress2.jpg"
-          
-    
-     },
-     {
-                
-                "name": "UPDATE3",
-                "backgroundColor": "Rectangel Background",
-                "textColor": "Time 3",
-                "outlineColor": "Rectangle Grad 3",
-                "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/28104_chroma_compress15.jpg"
-          
-    
-     },
-     {
-                
-                "name": "UPDATE4",
-                "backgroundColor": "Rectangel Background",
-                "textColor": "Time 4",
-                "outlineColor": "Rectangle Grad 5",
-                "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/20211115_215930_compress34.jpg"
-          
-    
      }
+     
 ]  
