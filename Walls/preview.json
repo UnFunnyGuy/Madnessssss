@@ -54,6 +54,87 @@
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Madness_Ios_compress76.jpg"
           
      },
+     {
+                
+                "name": "MNML3",
+                "backgroundColor": "NOT USED",
+                "textColor": "Hour",
+                "outlineColor": "Minutes",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/MNML3_compress40.jpg"
+          
+     },
+     {
+                
+                "name": "ELLIPSE(fancy)",
+                "backgroundColor": "Shapes , Analog frame",
+                "textColor": "Minutes, Date Month year",
+                "outlineColor": "Hour",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Ellipse(fancy)%20_compress13.jpg"
+          
+     },
+     {
+                
+                "name": "ELLIPSE",
+                "backgroundColor": "Shapes , Analog frame",
+                "textColor": "Minutes, Date Month year",
+                "outlineColor": "Hour",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Ellipse_compress66.jpg"
+          
+     },
+     {
+                
+                "name": "そうか OH",
+                "backgroundColor": "そうか(translucent)",
+                "textColor": "2nd Dot, Time, Day",
+                "outlineColor": "よし, First dot",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/%E3%81%9D%E3%81%86%E3%81%8B%20OH_compress5.jpg"
+          
+     },
+     {
+                
+                "name": "Console",
+                "backgroundColor": "Locked text background color, Time, Date",
+                "textColor": "Everything Else",
+                "outlineColor": "-LOCKED- Text",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Console%20_compress2.jpg"
+          
+     },
+     {
+                
+                "name": "Gurph",
+                "backgroundColor": "Not USed",
+                "textColor": "Hour",
+                "outlineColor": "Minutes",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Gurph_compress72.jpg"
+          
+     },
+     {
+                
+                "name": "Cnt",
+                "backgroundColor": "Background for Big Rectangle, Date\n(white rectangle in this ss)",
+                "textColor": "Day, Time",
+                "outlineColor": "Date Background Rectangle\n(red rectangle in this ss)",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Cnt_compress58.jpg"
+          
+     },
+     {
+                
+                "name": "Samsung",
+                "backgroundColor": "Month, Date",
+                "textColor": "Time",
+                "outlineColor": "Day",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Samsung_compress32.jpg"
+          
+     },
+     {
+                
+                "name": "Rog1",
+                "backgroundColor": "3 rectangles ",
+                "textColor": "Minutes, Date",
+                "outlineColor": "Hours",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Rog1_compress67.jpg"
+          
+     },
 
 
 
