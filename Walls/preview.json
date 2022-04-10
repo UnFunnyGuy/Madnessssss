@@ -129,11 +129,56 @@
      {
                 
                 "name": "Rog1",
-                "backgroundColor": "3 rectangles ",
+                "backgroundColor": "3 rectangles",
                 "textColor": "Minutes, Date",
                 "outlineColor": "Hours",
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Rog1_compress67.jpg"
           
+     },
+     {
+                
+                "name": "Rog2",
+                "backgroundColor": "2 Solid Lines",
+                "textColor": "Minutes",
+                "outlineColor": "Hours",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/Rog2.jpg"
+          
+     },
+     {
+                
+                "name": "Rog3",
+                "backgroundColor": "Background of Rectangle",
+                "textColor": "Day, Month, Date Background of Analog Clock",
+                "outlineColor": "Analog clocks handles(hour, minute)",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/Rog3.jpg"
+          
+     },
+     {
+                
+                "name": "Rog4",
+                "backgroundColor": "Day",
+                "textColor": "Month, Time",
+                "outlineColor": "Of, x",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/Rog4.jpg"
+          
+     },
+     {
+                
+                "name": "Simple9",
+                "backgroundColor": "Hours",
+                "textColor": "Minutes",
+                "outlineColor": "Seconds",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/Simple9.jpg"
+          
+     },
+     {
+                
+          "name": "Simple8",
+          "backgroundColor": "Month",
+          "textColor": "Day,Minutes",
+          "outlineColor": "Hours",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/Simple8.jpg"
+    
      },
 
 
