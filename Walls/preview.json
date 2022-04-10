@@ -180,6 +180,107 @@
           "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/Simple8.jpg"
     
      },
+     {
+                
+          "name": "IDE",
+          "backgroundColor": "YOU CAN'T CUSTOMIZE THIS CLOCK. Better if you don't",
+          "textColor": "",
+          "outlineColor": "",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/IDE.jpg"
+    
+     },
+     {
+                
+          "name": "MNML",
+          "backgroundColor": "Day, Month",
+          "textColor": "Time, Date",
+          "outlineColor": "Dots",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/MNML.jpg"
+    
+     },
+     {
+                
+          "name": "MNML2",
+          "backgroundColor": "Bg for time, Outline Rectangle",
+          "textColor": "Time",
+          "outlineColor": "Day",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/MNML2.jpg"
+    
+     },
+     {
+                
+          "name": "REQ",
+          "backgroundColor": "Bg For Both Rectangle",
+          "textColor": "Date, Month, day, Time",
+          "outlineColor": "-DATE- text",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/REQ.jpg"
+    
+     },
+     {
+                
+          "name": "Simple7",
+          "backgroundColor": "Hour, One Dot",
+          "textColor": "Minutes, 2nd Dot",
+          "outlineColor": "Day, Date, Month",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/Simple7.jpg"
+    
+     },
+     {
+                
+          "name": "Alpha-Analog",
+          "backgroundColor": "Frame color(Please use translucent colors)",
+          "textColor": "Minute(outer handle)",
+          "outlineColor": "Hour(inner handle), Frame digits and dots",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/Alpha-Analog.jpg"
+    
+     },
+     {
+                
+          "name": "Horizontal-v4",
+          "backgroundColor": "Day, Month",
+          "textColor": "Time",
+          "outlineColor": "Outline color of the rectangle(no background)",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/Horizontal-v4.jpg"
+    
+     },
+     {
+                
+          "name": "Simple6",
+          "backgroundColor": "Day",
+          "textColor": "Time",
+          "outlineColor": "Date",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/Simple6.jpg"
+    
+     },
+     {
+                
+          "name": "Elegan V2",
+          "backgroundColor": "Day, time",
+          "textColor": "Date",
+          "outlineColor": "Date Background",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/elegan-V2.jpg"
+    
+     },
+     {
+                
+          "name": "konnichiwa",
+          "backgroundColor": "Konichiwa text",
+          "textColor": "Time",
+          "outlineColor": "Divider line",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/Konnichiwa.jpg"
+    
+     },
+     {
+                
+          "name": "Elegan",
+          "backgroundColor": "Day, X symbol",
+          "textColor": "Time, First Dot",
+          "outlineColor": "Date Month, 2nd Dot",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/Elegan.jpg"
+    
+     },
+     
+     
 
 
 
