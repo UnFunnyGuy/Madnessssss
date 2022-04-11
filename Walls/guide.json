@@ -44,8 +44,9 @@
                 
         "title": "Step 5",
         "title2": "Building Overlay",
-        "desc": "After picking clock and its colors you need to build the overlay.\n\nBuild overlay\nReboot\nEnable the overlay you build from substram\n\n\nThats it- You have successfully changed your lockscreen clock",
-        "desc1": "NOTE\n\nIf Lockscreen is still blank even after enabling overlay please restart your systemui or reboot again\nif that does not fix your issue please contact me"
+        "desc": "After picking clock and its colors you need to build the overlay.\n\nBuild overlay\nReboot\nEnable the overlay you build from substratum\n\n\nThats it- You have successfully changed your lockscreen clock",
+        "desc1": "NOTE\n\nIf Lockscreen is still blank even after enabling overlay please restart your systemui or reboot again\nif that does not fix your issue please contact me",
+        "desc2": "SPECIAL OXYGEN OS NOTES\n\nTo fix aod clock gravity issue, Please select a centered gravity clock from your oos customization(from oos settings)."
         
     },
     {
