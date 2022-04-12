@@ -522,6 +522,51 @@
           "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Day.jpg"
     
      },
+     {
+                
+          "name": "HUK",
+          "backgroundColor": "Rectangle Background",
+          "textColor": "Time, Day, On",
+          "outlineColor": "Rectangle Outline, Divider",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Huk.jpg"
+    
+     },
+     {
+                
+          "name": "Memeui",
+          "backgroundColor": "Not Used",
+          "textColor": "Time",
+          "outlineColor": "Day, Date",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Memeui.jpg"
+    
+     },
+     {
+                
+          "name": "Mad Analog",
+          "backgroundColor": "Analog Clock background",
+          "textColor": "Date, Frame Outline, Hour, Minute",
+          "outlineColor": "Day",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/MadAnalog.jpg"
+    
+     },
+     {
+                
+          "name": "Mad2",
+          "backgroundColor": "Line",
+          "textColor": "Time",
+          "outlineColor": "Day",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Mad2.jpg"
+    
+     },
+     {
+                
+          "name": "Shishu",
+          "backgroundColor": "Logo",
+          "textColor": "Time",
+          "outlineColor": "Day, Month, Year",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Shishu.jpg"
+    
+     },
      
 
 
