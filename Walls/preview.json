@@ -407,15 +407,6 @@
      },
      {
                 
-          "name": "Analog Simple",
-          "backgroundColor": "Background of analog frame",
-          "textColor": "Day",
-          "outlineColor": "Frame outline, Hour, Minute",
-          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Analog%20Simple.jpg"
-    
-     },
-     {
-                
           "name": "Simple4",
           "backgroundColor": "Rectangle Background",
           "textColor": "Time",
@@ -475,6 +466,60 @@
           "textColor": "Date, Time",
           "outlineColor": "The Lines",
           "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Simple3.jpg"
+    
+     },
+     {
+                
+          "name": "Simple2",
+          "backgroundColor": "Day",
+          "textColor": "Hour",
+          "outlineColor": "Minute, Date, Sideline",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Simple2.jpg"
+    
+     },
+     {
+                
+          "name": "Mad Rekt",
+          "backgroundColor": "Time, Month",
+          "textColor": "Day",
+          "outlineColor": "Date, Rectangle Outline",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Mad-Rekt.jpg"
+    
+     },
+     {
+                
+          "name": "Covo",
+          "backgroundColor": "Month",
+          "textColor": "Time, Day",
+          "outlineColor": "Date, Line",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Covo.jpg"
+    
+     },
+     {
+                
+          "name": "Mad Month",
+          "backgroundColor": "Month",
+          "textColor": "Day, Date",
+          "outlineColor": "Time, UnderLine",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/MadMonth.jpg"
+    
+     },
+     {
+                
+          "name": "Big Sam",
+          "backgroundColor": "Time",
+          "textColor": "Date",
+          "outlineColor": "Day",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/BigSam.jpg"
+    
+     },
+     {
+                
+          "name": "Day",
+          "backgroundColor": "Date",
+          "textColor": "Day, month",
+          "outlineColor": "Time",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Day.jpg"
     
      },
      
