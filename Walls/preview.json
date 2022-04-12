@@ -567,27 +567,131 @@
           "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Shishu.jpg"
     
      },
-     
-
-
-
-
-
-
-
-
-
-
-
-
      {
                 
-                "name": "UPDATE",
-                "backgroundColor": "Rectangel Background\nClock Test\nOk",
-                "textColor": "Time, test1",
-                "outlineColor": "Rectangle Grad",
-                "url": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/041020/Walls2/IMG_20201004_184859.png"
-          
-     }
+          "name": "Align",
+          "backgroundColor": "Line",
+          "textColor": "Minute, Day, Month, Date",
+          "outlineColor": "Hour",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Align.jpg"
+    
+     },
+     {
+                
+          "name": "Card",
+          "backgroundColor": "Rectangle background, Time",
+          "textColor": "Day, Year",
+          "outlineColor": "Month, Date",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Card.jpg"
+    
+     },
+     {
+                
+          "name": "Mad",
+          "backgroundColor": "Month, Date",
+          "textColor": "Time",
+          "outlineColor": "Day",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Mad.jpg"
+    
+     },
+     {
+                
+          "name": "Edge",
+          "backgroundColor": "Day, time",
+          "textColor": "Today, Month , Date, Its",
+          "outlineColor": "Lines",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Edge.jpg"
+    
+     },
+     {
+                
+          "name": "Today",
+          "backgroundColor": "Not Used",
+          "textColor": "Day, Rectangle Box",
+          "outlineColor": "First Letter of the Day",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Today.jpg"
+    
+     },
+     {
+                
+          "name": "Sleek",
+          "backgroundColor": "Rectangle Boxes",
+          "textColor": "Time, Day",
+          "outlineColor": "Not Used",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Sleek.jpg"
+    
+     },
+     {
+                
+          "name": "Mono V2",
+          "backgroundColor": "Day, Time",
+          "textColor": "month, Date",
+          "outlineColor": "Not Used",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/MonoV2.jpg"
+    
+     },
+     {
+                
+          "name": "Mono",
+          "backgroundColor": "Day, Time",
+          "textColor": "Month, Date",
+          "outlineColor": "Not Used",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Mono.jpg"
+    
+     },
+     {
+                
+          "name": "PI",
+          "backgroundColor": "PI Value",
+          "textColor": "Hour",
+          "outlineColor": "Minute",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/PI.jpg"
+    
+     },
+     {
+                
+          "name": "Vertical-Gradient",
+          "backgroundColor": "Rectangle Background grad1",
+          "textColor": "Time",
+          "outlineColor": "Rectangle Background grad2",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Vertical-Gradient.jpg"
+    
+     },
+     {
+                
+          "name": "SmallVertical-V2",
+          "backgroundColor": "Hour Background",
+          "textColor": "Time",
+          "outlineColor": "Rectangle Outline",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Small%20vertical%20V2.jpg"
+    
+     },
+     {
+                
+          "name": "SmallVertical",
+          "backgroundColor": "Rectangle Background",
+          "textColor": "Time",
+          "outlineColor": "Rectangle Outline",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Small%20vertical%20V2.jpg"
+    
+     },
+     {
+                
+          "name": "RectangleOneBox Grad",
+          "backgroundColor": "Rectangle Background grad1",
+          "textColor": "Time",
+          "outlineColor": "Rectangle Background grad2",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Rectangle%20One%20Box%20Gradient.jpg"
+    
+     },
+     {
+                
+          "name": "Big Day",
+          "backgroundColor": "Day first letter, Time",
+          "textColor": "Day",
+          "outlineColor": "Divider",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/BigDay.jpg"
+    
+     }  
      
 ]  
