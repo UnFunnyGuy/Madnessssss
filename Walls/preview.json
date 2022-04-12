@@ -12,7 +12,7 @@
                 
                 "name": "A12",
                 "backgroundColor": "Frame color",
-                "textColor": "Minutes",
+                "textColor": "Minute",
                 "outlineColor": "Hour, Dot",
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Madness_A12_compress29.jpg"
           
@@ -20,7 +20,7 @@
      {
                 
                 "name": "Fluid",
-                "backgroundColor": "Minutes , 1 dot",
+                "backgroundColor": "Minute , 1 dot",
                 "textColor": "Hour",
                 "outlineColor": "Seconds, 1 dot",
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Madness-Fluid_compress13.jpg"
@@ -30,8 +30,8 @@
                 
                 "name": "Analog2",
                 "backgroundColor": "Frame",
-                "textColor": "Minutes",
-                "outlineColor": "Hours",
+                "textColor": "Minute",
+                "outlineColor": "hour",
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Madness-Analog2_compress46.jpg"
           
      },
@@ -40,7 +40,7 @@
                 
                 "name": "Z2",
                 "backgroundColor": "Hour",
-                "textColor": "Minutes",
+                "textColor": "Minute",
                 "outlineColor": "Circle",
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Madness-Z2_compress81.jpg"
           
@@ -59,7 +59,7 @@
                 "name": "MNML3",
                 "backgroundColor": "NOT USED",
                 "textColor": "Hour",
-                "outlineColor": "Minutes",
+                "outlineColor": "Minute",
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/MNML3_compress40.jpg"
           
      },
@@ -67,7 +67,7 @@
                 
                 "name": "ELLIPSE(fancy)",
                 "backgroundColor": "Shapes , Analog frame",
-                "textColor": "Minutes, Date Month year",
+                "textColor": "Minute, Date Month year",
                 "outlineColor": "Hour",
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Ellipse(fancy)%20_compress13.jpg"
           
@@ -76,7 +76,7 @@
                 
                 "name": "ELLIPSE",
                 "backgroundColor": "Shapes , Analog frame",
-                "textColor": "Minutes, Date Month year",
+                "textColor": "Minute, Date Month year",
                 "outlineColor": "Hour",
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Ellipse_compress66.jpg"
           
@@ -104,7 +104,7 @@
                 "name": "Gurph",
                 "backgroundColor": "Not USed",
                 "textColor": "Hour",
-                "outlineColor": "Minutes",
+                "outlineColor": "Minute",
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Gurph_compress72.jpg"
           
      },
@@ -130,8 +130,8 @@
                 
                 "name": "Rog1",
                 "backgroundColor": "3 rectangles",
-                "textColor": "Minutes, Date",
-                "outlineColor": "Hours",
+                "textColor": "Minute, Date",
+                "outlineColor": "hour",
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews/Rog1_compress67.jpg"
           
      },
@@ -139,8 +139,8 @@
                 
                 "name": "Rog2",
                 "backgroundColor": "2 Solid Lines",
-                "textColor": "Minutes",
-                "outlineColor": "Hours",
+                "textColor": "Minute",
+                "outlineColor": "hour",
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/Rog2.jpg"
           
      },
@@ -165,8 +165,8 @@
      {
                 
                 "name": "Simple9",
-                "backgroundColor": "Hours",
-                "textColor": "Minutes",
+                "backgroundColor": "hour",
+                "textColor": "Minute",
                 "outlineColor": "Seconds",
                 "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/Simple9.jpg"
           
@@ -175,8 +175,8 @@
                 
           "name": "Simple8",
           "backgroundColor": "Month",
-          "textColor": "Day,Minutes",
-          "outlineColor": "Hours",
+          "textColor": "Day,Minute",
+          "outlineColor": "hour",
           "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/Simple8.jpg"
     
      },
@@ -220,7 +220,7 @@
                 
           "name": "Simple7",
           "backgroundColor": "Hour, One Dot",
-          "textColor": "Minutes, 2nd Dot",
+          "textColor": "Minute, 2nd Dot",
           "outlineColor": "Day, Date, Month",
           "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/Simple7.jpg"
     
@@ -279,7 +279,105 @@
           "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clock%20Previews%202/Elegan.jpg"
     
      },
-     
+     {
+                
+          "name": "Eclipse",
+          "backgroundColor": "Frame(background text frame)",
+          "textColor": "Minute",
+          "outlineColor": "Hour",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Eclipse.jpg"
+    
+     },
+     {
+                
+          "name": "Libra",
+          "backgroundColor": "WELCOME text",
+          "textColor": "Time",
+          "outlineColor": "Day, date, Month, Background of Time",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Libra.jpg"
+    
+     },
+     {
+                
+          "name": "Vision",
+          "backgroundColor": "Both Rectangle(pls use translucent colors)",
+          "textColor": "Time, Date, Bottom line",
+          "outlineColor": "Not Used",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Vision.jpg"
+    
+     },
+     {
+                
+          "name": "Memeui2",
+          "backgroundColor": "Bottom gradient for the clock\n(PLEASE USE THIS ONLY WITH SOLID BACKGROUND LIKE THE ONE AM USING)",
+          "textColor": "Time",
+          "outlineColor": "Not Used",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Memeui2.jpg"
+    
+     },
+     {
+                
+          "name": "Z",
+          "backgroundColor": "Outline Circle",
+          "textColor": "Time",
+          "outlineColor": "Small Dot on the circle\n (which rotate as a minute hand)",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Z.jpg"
+    
+     },
+     {
+                
+          "name": "Froyo",
+          "backgroundColor": "Frame\n(12 3 6 9)",
+          "textColor": "Minute",
+          "outlineColor": "Hour",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Froyo.jpg"
+    
+     },
+     {
+                
+          "name": "Alpha3",
+          "backgroundColor": "Bg for Date, 2 Horizontal Lines, Time",
+          "textColor": "Date",
+          "outlineColor": "Day",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Alpha3.jpg"
+    
+     },
+     {
+                
+          "name": "Simple5",
+          "backgroundColor": "Day",
+          "textColor": "Time",
+          "outlineColor": "SideLines, Date",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Simple5.jpg"
+    
+     },
+     {
+                
+          "name": "OC",
+          "backgroundColor": "Frame",
+          "textColor": "Minute",
+          "outlineColor": "Hour",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/OC.jpg"
+    
+     },
+     {
+                
+          "name": "MnmlBox-Analog",
+          "backgroundColor": "Day And Time Background",
+          "textColor": "Day, Time, Analog background",
+          "outlineColor": "Analog Clock",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Mnml%20box%20analog%20.jpg"
+    
+     },
+     {
+                
+          "name": "Op Digital",
+          "backgroundColor": "Hour",
+          "textColor": "Minute",
+          "outlineColor": "Day, Month, Date",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Op%20Digital.jpg"
+    
+     },
      
 
 
