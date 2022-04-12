@@ -378,6 +378,105 @@
           "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Op%20Digital.jpg"
     
      },
+     {
+                
+          "name": "Op Vertical",
+          "backgroundColor": "Day, Month",
+          "textColor": "Minute",
+          "outlineColor": "Hour, Date",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Op%20Vertical.jpg"
+    
+     },
+     {
+                
+          "name": "TriRect",
+          "backgroundColor": "Day\n(Upper And Lower One Is Automatically Uses The Translucent Effect)",
+          "textColor": "Date, Month, Year, Time",
+          "outlineColor": "Outline for Rectangle and time Background",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Trirect.jpg"
+    
+     },
+     {
+                
+          "name": "Analog Simple",
+          "backgroundColor": "Background of analog frame",
+          "textColor": "Day",
+          "outlineColor": "Frame outline, Hour, Minute",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Analog%20Simple.jpg"
+    
+     },
+     {
+                
+          "name": "Analog Simple",
+          "backgroundColor": "Background of analog frame",
+          "textColor": "Day",
+          "outlineColor": "Frame outline, Hour, Minute",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Analog%20Simple.jpg"
+    
+     },
+     {
+                
+          "name": "Simple4",
+          "backgroundColor": "Rectangle Background",
+          "textColor": "Time",
+          "outlineColor": "Hello its, Date",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Simple4.jpg"
+    
+     },
+     {
+                
+          "name": "Alpha2",
+          "backgroundColor": "Rectangle Background",
+          "textColor": "Time",
+          "outlineColor": "Date, Day, Month",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Alpha2.jpg"
+    
+     },
+     {
+                
+          "name": "Alpha",
+          "backgroundColor": "Rectangle Background",
+          "textColor": "Hour",
+          "outlineColor": "Minute, Date, Day",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Alpha.jpg"
+    
+     },
+     {
+                
+          "name": "Horizontal-V3",
+          "backgroundColor": "Day, Month, Date",
+          "textColor": "Time",
+          "outlineColor": "Rectangle Outline",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Horizontal-V3.jpg"
+    
+     },
+     {
+                
+          "name": "DividedLines",
+          "backgroundColor": "Day, Month, Date",
+          "textColor": "Time",
+          "outlineColor": "2 Lines",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/DividedLines.jpg"
+    
+     },
+     {
+                
+          "name": "just do it",
+          "backgroundColor": "Just, It",
+          "textColor": "Hour",
+          "outlineColor": "Minute, Do",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Justdoit.jpg"
+    
+     },
+     {
+                
+          "name": "Simple3",
+          "backgroundColor": "Month, Day",
+          "textColor": "Date, Time",
+          "outlineColor": "The Lines",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Clocks%20Previews%203/Simple3.jpg"
+    
+     },
      
 
 
