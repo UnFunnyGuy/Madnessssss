@@ -1,35 +1,27 @@
 [ 
      {
                 
-                "name": "UPDATE",
-                "backgroundColor": "Rectangel Background\nClock Test\nOk",
-                "textColor": "Time, test1",
-                "outlineColor": "Rectangle Grad",
-                "wallUrl": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Walls/Elegant/011020/Walls/Plane%20Over%20Skyscrapers.jpg",
-                "user": "unfunnyGuy",
-                "url": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/041020/Walls2/IMG_20201004_184859.png"
+                "name": "Alpha3",
+                "backgroundColor": "White",
+                "textColor": "Op blue",
+                "outlineColor": "Op blue",
+                "wallUrl": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Community/wall/KD1.jpg",
+                "user": "KD",
+                "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Community/preview/KD1.jpg"
           
      },
      {
                 
-                "name": "UPDATE",
-                "backgroundColor": "Rectangel Background\nClock Test\nOk",
-                "textColor": "Time, test1",
-                "outlineColor": "Rectangle Grad",
-                "wallUrl": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Walls/Elegant/011020/Walls/Plane%20Over%20Skyscrapers.jpg",
-                "url": "https://github.com/UnFunnyGuy/EWalls/raw/main/Ewalls/041020/Walls2/IMG_20201004_184859.png"
-          
-     },
-     {
-                
-                "name": "UPDATE2",
-                "backgroundColor": "Rectangel Background",
-                "textColor": "Time, test2",
-                "outlineColor": "Rectangle Grad 2",
-                "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/23022022/THUMBS/13150_chroma_Glitch_chroma2_compress2.jpg"
-          
+          "name": "Shishu",
+          "backgroundColor": "Monet {A12 and above}",
+          "textColor": "b7eaeaea",
+          "outlineColor": "a8fcfcfc",
+          "wallUrl": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Community/wall/nerd1.png",
+          "user": "nerd",
+          "url": "https://raw.githubusercontent.com/UnFunnyGuy/Madnessssss/master4d/Madness%20Community/preview/Nerd1.jpg"
     
      }
+     
      
 ]     
 
