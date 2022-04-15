@@ -56,6 +56,14 @@
         "desc": "CLOCK MARGIN\n\n\nClock margin moves the clock downwards to more central areas, When building margin overlays its better if you build 3 or more overlays together and reboot once! And try enabling 1 overlay at a time\n\nclock margin left and right does the same thing but sideways\n\n\nNOTE\n\n Some clocks might not move sideways or downwards\n\n",
         "desc1": "Lock screen extra tweaks and row tweaks are meant for 11 and it wont work on oos or A12"
         
+    },
+    {
+                
+        "title": "Important Notice",
+        "title2": "Please use Substratum Lite",
+        "desc": "Due to a compiling mistake from my end theme wont work on normal substratum! please install substratum lite from google play store ",
+        "desc1": ""
+        
     }
      
 ]
