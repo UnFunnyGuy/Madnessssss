@@ -1,100 +1,65 @@
 [
 	{
-		"author" : "unknown",
-		"collections" : "NATURE",
-		"name" : "Leaf",
-		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/aedrian-3cprPjkH3wQ_compress49.jpg",
-		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/aedrian-3cprPjkH3wQ.jpg"
-	},
-	{
-		"author" : "unknown",
-		"collections" : "NATURE",
-		"name" : "Leaf",
-		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/aedrian-5EB6EKyeRJg_compress33.jpg",
-		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/aedrian-5EB6EKyeRJg.jpg"
-	},
-	{
-		"author" : "unknown",
-		"collections" : "NATURE",
-		"name" : "Rose",
-		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/aedrian-rqrpVxkG0u0_compress7.jpg",
-		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/aedrian-rqrpVxkG0u0.jpg"
-	},
-	{
-		"author" : "unknown",
+		"author" : "kellen-riggin",
 		"collections" : "NATURE",
 		"name" : "Mountain",
-		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/bernd-dittrich-otzFIJ7dIjg_compress31.jpg",
-		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/bernd-dittrich-otzFIJ7dIjg.jpg"
+		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/kellen-riggin-xfQOFuqSy-E_compress33.jpg",
+		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/kellen-riggin-xfQOFuqSy-E.jpg"
 	},
 	{
-		"author" : "unknown",
+		"author" : "klim",
+		"collections" : "ARCHITECTURE",
+		"name" : "dark arch546",
+		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/klim-musalimov-BC3r7gNWvOE_compress97.jpg",
+		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/klim-musalimov-BC3r7gNWvOE.jpg"
+	},
+	{
+		"author" : "klim",
+		"collections" : "ARCHITECTURE",
+		"name" : "dark arch547",
+		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/klim-musalimov-L4dx46w_P5o_compress37.jpg",
+		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/klim-musalimov-L4dx46w_P5o.jpg"
+	},
+	{
+		"author" : "klim",
+		"collections" : "ARCHITECTURE",
+		"name" : "dark arch548",
+		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/klim-musalimov-xiQUHPtbLVw_compress1.jpg",
+		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/klim-musalimov-xiQUHPtbLVw.jpg"
+	},
+	{
+		"author" : "paulina-milde",
+		"collections" : "ARCHITECTURE",
+		"name" : "grad arch108",
+		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/paulina-milde-jachowska-0AXA-slv-ds_compress0.jpg",
+		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/paulina-milde-jachowska-0AXA-slv-ds.jpg"
+	},
+	{
+		"author" : "road ahead",
 		"collections" : "MISC",
-		"name" : "Mystiq",
-		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/chandler-cruttenden-9CIphgn9wA8_compress8.jpg",
-		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/chandler-cruttenden-9CIphgn9wA8.jpg"
+		"name" : "blurrr",
+		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/road-ahead-ThImZoTrwMw_compress64.jpg",
+		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/road-ahead-ThImZoTrwMw.jpg"
 	},
 	{
-		"author" : "unknown",
+		"author" : "road ahead",
 		"collections" : "NATURE",
-		"name" : "leaf",
-		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/eugene-golovesov-toa1f6SfyVg_compress40.jpg",
-		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/eugene-golovesov-toa1f6SfyVg.jpg"
+		"name" : "eve",
+		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/road-ahead-UroD-ozkkvo_compress59.jpg",
+		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/road-ahead-UroD-ozkkvo.jpg"
 	},
 	{
-		"author" : "unknown",
+		"author" : "road ahead",
 		"collections" : "MISC",
-		"name" : "voool",
-		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/fabian-jones-N8XHVU0f52A_compress92.jpg",
-		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/fabian-jones-N8XHVU0f52A.jpg"
+		"name" : "Mnml",
+		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/road-ahead-lXfNil-rWFw_compress36.jpg",
+		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/road-ahead-lXfNil-rWFw.jpg"
 	},
 	{
-		"author" : "unknown",
-		"collections" : "ANIMALS",
-		"name" : "penguin",
-		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/freysteinn-g.-jonsson-hb3pnz2PaxE_compress66.jpg",
-		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/freysteinn-g.-jonsson-hb3pnz2PaxE.jpg"
-	},
-	{
-		"author" : "unknown",
-		"collections" : "AUTOMOBILES",
-		"name" : "por",
-		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/futc-MNoJjQCJS6w_compress68.jpg",
-		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/futc-MNoJjQCJS6w.jpg"
-	},
-	{
-		"author" : "unknown",
-		"collections" : "AUTOMOBILES",
-		"name" : "por2",
-		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/futc-SuQqLL-VUs4_compress7.jpg",
-		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/futc-SuQqLL-VUs4.jpg"
-	},
-	{
-		"author" : "unknown",
-		"collections" : "AUTOMOBILES",
-		"name" : "ferr",
-		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/futc-Tqmv9i0Rf8Q_compress63.jpg",
-		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/futc-Tqmv9i0Rf8Q.jpg"
-	},
-	{
-		"author" : "unknown",
-		"collections" : "AUTOMOBILES",
-		"name" : "darkish cars",
-		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/futc-aXhfTlCDYiA_compress53.jpg",
-		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/futc-aXhfTlCDYiA.jpg"
-	},
-	{
-		"author" : "unknown",
-		"collections" : "AUTOMOBILES",
-		"name" : "por3",
-		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/futc-hpeD_gFFcjE_compress74.jpg",
-		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/futc-hpeD_gFFcjE.jpg"
-	},
-	{
-		"author" : "unknown",
-		"collections" : "AUTOMOBILES",
-		"name" : "por4",
-		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/futc-srtuJFaFwgs_compress92.jpg",
-		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/futc-srtuJFaFwgs.jpg"
+		"author" : "road ahead",
+		"collections" : "SEA",
+		"name" : "Void",
+		"thumbnail" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/road-ahead-ZzKNkvx_RNo_compress89.jpg",
+		"url" : "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/road-ahead-ZzKNkvx_RNo.jpg"
 	}
 ]
