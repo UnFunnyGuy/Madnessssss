@@ -12,7 +12,7 @@ import scipy.misc
 import scipy.cluster
 import os.path
 
-wallString = open("update.json", "r")
+wallString = open("Update.json", "r")
 wall = json.loads(wallString.read())
 
 NUM_CLUSTERS = 5
