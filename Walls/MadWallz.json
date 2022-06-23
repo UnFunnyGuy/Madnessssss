@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "author": "Aidan",
         "collections": "AUTOMOBILES",
         "name": "Aidan1",
@@ -16,6 +17,213 @@
         "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/20220609_204235%20(2).jpg",
         "resolution": "2782 x 3995",
         "dominantColor": "#0a0905"
+=======
+        "author": "kellen-riggin",
+        "collections": "NATURE",
+        "name": "Mountain",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/kellen-riggin-xfQOFuqSy-E_compress33.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/kellen-riggin-xfQOFuqSy-E.jpg",
+        "resolution": "5354 x 3574",
+        "dominantColor": "#331d1a"
+    },
+    {
+        "author": "klim",
+        "collections": "ARCHITECTURE",
+        "name": "dark arch546",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/klim-musalimov-BC3r7gNWvOE_compress97.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/klim-musalimov-BC3r7gNWvOE.jpg",
+        "resolution": "6000 x 4000",
+        "dominantColor": "#0a0b0c"
+    },
+    {
+        "author": "klim",
+        "collections": "ARCHITECTURE",
+        "name": "dark arch547",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/klim-musalimov-L4dx46w_P5o_compress37.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/klim-musalimov-L4dx46w_P5o.jpg",
+        "resolution": "4000 x 6000",
+        "dominantColor": "#a2a2a3"
+    },
+    {
+        "author": "klim",
+        "collections": "ARCHITECTURE",
+        "name": "dark arch548",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/klim-musalimov-xiQUHPtbLVw_compress1.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/klim-musalimov-xiQUHPtbLVw.jpg",
+        "resolution": "3865 x 5797",
+        "dominantColor": "#9f9fa1"
+    },
+    {
+        "author": "paulina-milde",
+        "collections": "ARCHITECTURE",
+        "name": "grad arch108",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/paulina-milde-jachowska-0AXA-slv-ds_compress0.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/paulina-milde-jachowska-0AXA-slv-ds.jpg",
+        "resolution": "4024 x 6048",
+        "dominantColor": "#1a102a"
+    },
+    {
+        "author": "road ahead",
+        "collections": "MISC",
+        "name": "blurrr",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/road-ahead-ThImZoTrwMw_compress64.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/road-ahead-ThImZoTrwMw.jpg",
+        "resolution": "3368 x 6000",
+        "dominantColor": "#d37223"
+    },
+    {
+        "author": "road ahead",
+        "collections": "NATURE",
+        "name": "eve",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/road-ahead-UroD-ozkkvo_compress59.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/road-ahead-UroD-ozkkvo.jpg",
+        "resolution": "3891 x 5836",
+        "dominantColor": "#b4381f"
+    },
+    {
+        "author": "road ahead",
+        "collections": "MISC",
+        "name": "Mnml",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/road-ahead-lXfNil-rWFw_compress36.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/road-ahead-lXfNil-rWFw.jpg",
+        "resolution": "6000 x 3778",
+        "dominantColor": "#1f747b"
+    },
+    {
+        "author": "road ahead",
+        "collections": "SEA",
+        "name": "Void",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/road-ahead-ZzKNkvx_RNo_compress89.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/road-ahead-ZzKNkvx_RNo.jpg",
+        "resolution": "4000 x 6000",
+        "dominantColor": "#4c4c4c"
+    },
+    {
+        "author": "unknown",
+        "collections": "NATURE",
+        "name": "Leaf",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/aedrian-3cprPjkH3wQ_compress49.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/aedrian-3cprPjkH3wQ.jpg",
+        "resolution": "4000 x 6000",
+        "dominantColor": "#0f150f"
+    },
+    {
+        "author": "unknown",
+        "collections": "NATURE",
+        "name": "Leaf",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/aedrian-5EB6EKyeRJg_compress33.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/aedrian-5EB6EKyeRJg.jpg",
+        "resolution": "6000 x 4000",
+        "dominantColor": "#0c130d"
+    },
+    {
+        "author": "unknown",
+        "collections": "NATURE",
+        "name": "Rose",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/aedrian-rqrpVxkG0u0_compress7.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/aedrian-rqrpVxkG0u0.jpg",
+        "resolution": "4000 x 6000",
+        "dominantColor": "#060905"
+    },
+    {
+        "author": "unknown",
+        "collections": "NATURE",
+        "name": "Mountain",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/bernd-dittrich-otzFIJ7dIjg_compress31.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/bernd-dittrich-otzFIJ7dIjg.jpg",
+        "resolution": "6240 x 4160",
+        "dominantColor": "#cecece"
+    },
+    {
+        "author": "unknown",
+        "collections": "MISC",
+        "name": "Mystiq",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/chandler-cruttenden-9CIphgn9wA8_compress8.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/chandler-cruttenden-9CIphgn9wA8.jpg",
+        "resolution": "5184 x 2914",
+        "dominantColor": "#070d13"
+    },
+    {
+        "author": "unknown",
+        "collections": "NATURE",
+        "name": "leaf",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/eugene-golovesov-toa1f6SfyVg_compress40.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/eugene-golovesov-toa1f6SfyVg.jpg",
+        "resolution": "2304 x 3072",
+        "dominantColor": "#132218"
+    },
+    {
+        "author": "unknown",
+        "collections": "MISC",
+        "name": "voool",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/fabian-jones-N8XHVU0f52A_compress92.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/fabian-jones-N8XHVU0f52A.jpg",
+        "resolution": "3456 x 5184",
+        "dominantColor": "#bee1ed"
+    },
+    {
+        "author": "unknown",
+        "collections": "ANIMALS",
+        "name": "penguin",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/freysteinn-g.-jonsson-hb3pnz2PaxE_compress66.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/freysteinn-g.-jonsson-hb3pnz2PaxE.jpg",
+        "resolution": "14000 x 9292",
+        "dominantColor": "#f3f3f3"
+    },
+    {
+        "author": "unknown",
+        "collections": "AUTOMOBILES",
+        "name": "por",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/futc-MNoJjQCJS6w_compress68.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/futc-MNoJjQCJS6w.jpg",
+        "resolution": "7952 x 5304",
+        "dominantColor": "#7a7471"
+    },
+    {
+        "author": "unknown",
+        "collections": "AUTOMOBILES",
+        "name": "por2",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/futc-SuQqLL-VUs4_compress7.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/futc-SuQqLL-VUs4.jpg",
+        "resolution": "4968 x 7448",
+        "dominantColor": "#0d0f0c"
+    },
+    {
+        "author": "unknown",
+        "collections": "AUTOMOBILES",
+        "name": "ferr",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/futc-Tqmv9i0Rf8Q_compress63.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/futc-Tqmv9i0Rf8Q.jpg",
+        "resolution": "5304 x 7952",
+        "dominantColor": "#070303"
+    },
+    {
+        "author": "unknown",
+        "collections": "AUTOMOBILES",
+        "name": "darkish cars",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/futc-aXhfTlCDYiA_compress53.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/futc-aXhfTlCDYiA.jpg",
+        "resolution": "5304 x 7952",
+        "dominantColor": "#040404"
+    },
+    {
+        "author": "unknown",
+        "collections": "AUTOMOBILES",
+        "name": "por3",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/futc-hpeD_gFFcjE_compress74.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/futc-hpeD_gFFcjE.jpg",
+        "resolution": "5304 x 7952",
+        "dominantColor": "#030b08"
+    },
+    {
+        "author": "unknown",
+        "collections": "AUTOMOBILES",
+        "name": "por4",
+        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/futc-srtuJFaFwgs_compress92.jpg",
+        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/futc-srtuJFaFwgs.jpg",
+        "resolution": "5304 x 7952",
+        "dominantColor": "#a19e9d"
+>>>>>>> master4d
     },
     {
         "author": "unknown",
