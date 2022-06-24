@@ -1,22 +1,5 @@
 [
     {
-        "author": "Aidan",
-        "collections": "AUTOMOBILES",
-        "name": "Aidan1",
-        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/20220514_195202_compress72.jpg",
-        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/20220514_195202.jpg",
-        "resolution": "3000 x 4000",
-        "dominantColor": "#2c2b29"
-    },
-    {
-        "author": "Aidan",
-        "collections": "AUTOMOBILES",
-        "name": "Aidan2",
-        "thumbnail": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/thumbs/20220609_204235%20(2)_compress90.jpg",
-        "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/20220609_204235%20(2).jpg",
-        "resolution": "2782 x 3995",
-        "dominantColor": "#0a0905"
-    },
         "author": "kellen-riggin",
         "collections": "NATURE",
         "name": "Mountain",
@@ -222,7 +205,6 @@
         "url": "https://raw.githubusercontent.com/UnFunnyGuy/EwallsRepo69/main/db/26042022/walls/futc-srtuJFaFwgs.jpg",
         "resolution": "5304 x 7952",
         "dominantColor": "#a19e9d"
->>>>>>> master4d
     },
     {
         "author": "unknown",
